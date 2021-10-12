@@ -1,7 +1,7 @@
 [
     {
         "state_name":"Alabama",
-        "county_fips":"1001",
+        "county_fips":"01001",
         "county_name":"Autauga",
         "votes_gop":19838,
         "votes_dem":7503,
@@ -16,7 +16,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1003",
+        "county_fips":"01003",
         "county_name":"Baldwin",
         "votes_gop":83544,
         "votes_dem":24578,
@@ -31,7 +31,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1005",
+        "county_fips":"01005",
         "county_name":"Barbour",
         "votes_gop":5622,
         "votes_dem":4816,
@@ -46,7 +46,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1007",
+        "county_fips":"01007",
         "county_name":"Bibb",
         "votes_gop":7525,
         "votes_dem":1986,
@@ -61,7 +61,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1009",
+        "county_fips":"01009",
         "county_name":"Blount",
         "votes_gop":24711,
         "votes_dem":2640,
@@ -76,7 +76,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1011",
+        "county_fips":"01011",
         "county_name":"Bullock",
         "votes_gop":1146,
         "votes_dem":3446,
@@ -91,7 +91,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1013",
+        "county_fips":"01013",
         "county_name":"Butler",
         "votes_gop":5458,
         "votes_dem":3965,
@@ -106,7 +106,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1015",
+        "county_fips":"01015",
         "county_name":"Calhoun",
         "votes_gop":35101,
         "votes_dem":15216,
@@ -121,7 +121,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1017",
+        "county_fips":"01017",
         "county_name":"Chambers",
         "votes_gop":8753,
         "votes_dem":6365,
@@ -136,7 +136,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1019",
+        "county_fips":"01019",
         "county_name":"Cherokee",
         "votes_gop":10583,
         "votes_dem":1624,
@@ -151,7 +151,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1021",
+        "county_fips":"01021",
         "county_name":"Chilton",
         "votes_gop":16085,
         "votes_dem":3073,
@@ -166,7 +166,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1023",
+        "county_fips":"01023",
         "county_name":"Choctaw",
         "votes_gop":4296,
         "votes_dem":3127,
@@ -181,7 +181,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1025",
+        "county_fips":"01025",
         "county_name":"Clarke",
         "votes_gop":7324,
         "votes_dem":5755,
@@ -196,7 +196,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1027",
+        "county_fips":"01027",
         "county_name":"Clay",
         "votes_gop":5601,
         "votes_dem":1267,
@@ -211,7 +211,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1029",
+        "county_fips":"01029",
         "county_name":"Cleburne",
         "votes_gop":6484,
         "votes_dem":675,
@@ -226,7 +226,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1031",
+        "county_fips":"01031",
         "county_name":"Coffee",
         "votes_gop":16899,
         "votes_dem":5076,
@@ -241,7 +241,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1033",
+        "county_fips":"01033",
         "county_name":"Colbert",
         "votes_gop":19203,
         "votes_dem":8343,
@@ -256,7 +256,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1035",
+        "county_fips":"01035",
         "county_name":"Conecuh",
         "votes_gop":3442,
         "votes_dem":2966,
@@ -271,7 +271,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1037",
+        "county_fips":"01037",
         "county_name":"Coosa",
         "votes_gop":3631,
         "votes_dem":1796,
@@ -286,7 +286,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1039",
+        "county_fips":"01039",
         "county_name":"Covington",
         "votes_gop":14586,
         "votes_dem":2721,
@@ -301,7 +301,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1041",
+        "county_fips":"01041",
         "county_name":"Crenshaw",
         "votes_gop":4864,
         "votes_dem":1700,
@@ -316,7 +316,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1043",
+        "county_fips":"01043",
         "county_name":"Cullman",
         "votes_gop":36880,
         "votes_dem":4478,
@@ -331,7 +331,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1045",
+        "county_fips":"01045",
         "county_name":"Dale",
         "votes_gop":14303,
         "votes_dem":5170,
@@ -346,7 +346,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1047",
+        "county_fips":"01047",
         "county_name":"Dallas",
         "votes_gop":5524,
         "votes_dem":12230,
@@ -361,7 +361,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1049",
+        "county_fips":"01049",
         "county_name":"DeKalb",
         "votes_gop":24767,
         "votes_dem":4281,
@@ -376,7 +376,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1051",
+        "county_fips":"01051",
         "county_name":"Elmore",
         "votes_gop":30164,
         "votes_dem":10367,
@@ -391,7 +391,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1053",
+        "county_fips":"01053",
         "county_name":"Escambia",
         "votes_gop":10869,
         "votes_dem":4918,
@@ -406,7 +406,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1055",
+        "county_fips":"01055",
         "county_name":"Etowah",
         "votes_gop":35528,
         "votes_dem":11567,
@@ -421,7 +421,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1057",
+        "county_fips":"01057",
         "county_name":"Fayette",
         "votes_gop":7300,
         "votes_dem":1395,
@@ -436,7 +436,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1059",
+        "county_fips":"01059",
         "county_name":"Franklin",
         "votes_gop":10376,
         "votes_dem":2086,
@@ -451,7 +451,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1061",
+        "county_fips":"01061",
         "county_name":"Geneva",
         "votes_gop":10848,
         "votes_dem":1595,
@@ -466,7 +466,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1063",
+        "county_fips":"01063",
         "county_name":"Greene",
         "votes_gop":875,
         "votes_dem":3884,
@@ -481,7 +481,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1065",
+        "county_fips":"01065",
         "county_name":"Hale",
         "votes_gop":3190,
         "votes_dem":4687,
@@ -496,7 +496,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1067",
+        "county_fips":"01067",
         "county_name":"Henry",
         "votes_gop":6607,
         "votes_dem":2606,
@@ -511,7 +511,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1069",
+        "county_fips":"01069",
         "county_name":"Houston",
         "votes_gop":32618,
         "votes_dem":12917,
@@ -526,7 +526,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1071",
+        "county_fips":"01071",
         "county_name":"Jackson",
         "votes_gop":19670,
         "votes_dem":3717,
@@ -541,7 +541,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1073",
+        "county_fips":"01073",
         "county_name":"Jefferson",
         "votes_gop":138843,
         "votes_dem":181688,
@@ -556,7 +556,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1075",
+        "county_fips":"01075",
         "county_name":"Lamar",
         "votes_gop":6174,
         "votes_dem":978,
@@ -571,7 +571,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1077",
+        "county_fips":"01077",
         "county_name":"Lauderdale",
         "votes_gop":31721,
         "votes_dem":11915,
@@ -586,7 +586,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1079",
+        "county_fips":"01079",
         "county_name":"Lawrence",
         "votes_gop":12322,
         "votes_dem":3562,
@@ -601,7 +601,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1081",
+        "county_fips":"01081",
         "county_name":"Lee",
         "votes_gop":42221,
         "votes_dem":27860,
@@ -616,7 +616,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1083",
+        "county_fips":"01083",
         "county_name":"Limestone",
         "votes_gop":34640,
         "votes_dem":13672,
@@ -631,7 +631,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1085",
+        "county_fips":"01085",
         "county_name":"Lowndes",
         "votes_gop":1836,
         "votes_dem":4972,
@@ -646,7 +646,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1087",
+        "county_fips":"01087",
         "county_name":"Macon",
         "votes_gop":1541,
         "votes_dem":7108,
@@ -661,7 +661,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1089",
+        "county_fips":"01089",
         "county_name":"Madison",
         "votes_gop":102780,
         "votes_dem":87286,
@@ -676,7 +676,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1091",
+        "county_fips":"01091",
         "county_name":"Marengo",
         "votes_gop":5343,
         "votes_dem":5488,
@@ -691,7 +691,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1093",
+        "county_fips":"01093",
         "county_name":"Marion",
         "votes_gop":12205,
         "votes_dem":1463,
@@ -706,7 +706,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1095",
+        "county_fips":"01095",
         "county_name":"Marshall",
         "votes_gop":33191,
         "votes_dem":5943,
@@ -721,7 +721,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1097",
+        "county_fips":"01097",
         "county_name":"Mobile",
         "votes_gop":101243,
         "votes_dem":79474,
@@ -736,7 +736,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1099",
+        "county_fips":"01099",
         "county_name":"Monroe",
         "votes_gop":6147,
         "votes_dem":4455,
@@ -751,7 +751,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1101",
+        "county_fips":"01101",
         "county_name":"Montgomery",
         "votes_gop":33311,
         "votes_dem":64529,
@@ -766,7 +766,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1103",
+        "county_fips":"01103",
         "county_name":"Morgan",
         "votes_gop":39664,
         "votes_dem":13234,
@@ -781,7 +781,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1105",
+        "county_fips":"01105",
         "county_name":"Perry",
         "votes_gop":1339,
         "votes_dem":3860,
@@ -796,7 +796,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1107",
+        "county_fips":"01107",
         "county_name":"Pickens",
         "votes_gop":5594,
         "votes_dem":4022,
@@ -811,7 +811,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1109",
+        "county_fips":"01109",
         "county_name":"Pike",
         "votes_gop":8042,
         "votes_dem":5636,
@@ -826,7 +826,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1111",
+        "county_fips":"01111",
         "county_name":"Randolph",
         "votes_gop":8559,
         "votes_dem":2203,
@@ -841,7 +841,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1113",
+        "county_fips":"01113",
         "county_name":"Russell",
         "votes_gop":9864,
         "votes_dem":11228,
@@ -856,7 +856,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1115",
+        "county_fips":"01115",
         "county_name":"St. Clair",
         "votes_gop":36166,
         "votes_dem":7744,
@@ -871,7 +871,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1117",
+        "county_fips":"01117",
         "county_name":"Shelby",
         "votes_gop":79700,
         "votes_dem":33268,
@@ -886,7 +886,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1119",
+        "county_fips":"01119",
         "county_name":"Sumter",
         "votes_gop":1598,
         "votes_dem":4648,
@@ -901,7 +901,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1121",
+        "county_fips":"01121",
         "county_name":"Talladega",
         "votes_gop":22235,
         "votes_dem":13138,
@@ -916,7 +916,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1123",
+        "county_fips":"01123",
         "county_name":"Tallapoosa",
         "votes_gop":14963,
         "votes_dem":5859,
@@ -931,7 +931,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1125",
+        "county_fips":"01125",
         "county_name":"Tuscaloosa",
         "votes_gop":51117,
         "votes_dem":37765,
@@ -946,7 +946,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1127",
+        "county_fips":"01127",
         "county_name":"Walker",
         "votes_gop":26002,
         "votes_dem":4834,
@@ -961,7 +961,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1129",
+        "county_fips":"01129",
         "county_name":"Washington",
         "votes_gop":6564,
         "votes_dem":2258,
@@ -976,7 +976,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1131",
+        "county_fips":"01131",
         "county_name":"Wilcox",
         "votes_gop":1833,
         "votes_dem":4048,
@@ -991,7 +991,7 @@
     },
     {
         "state_name":"Alabama",
-        "county_fips":"1133",
+        "county_fips":"01133",
         "county_name":"Winston",
         "votes_gop":10195,
         "votes_dem":974,
@@ -1006,7 +1006,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2901",
+        "county_fips":"02901",
         "county_name":"District 1",
         "votes_gop":3511,
         "votes_dem":3477,
@@ -1021,7 +1021,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2902",
+        "county_fips":"02902",
         "county_name":"District 2",
         "votes_gop":3674,
         "votes_dem":2104,
@@ -1036,7 +1036,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2903",
+        "county_fips":"02903",
         "county_name":"District 3",
         "votes_gop":6076,
         "votes_dem":1903,
@@ -1051,7 +1051,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2904",
+        "county_fips":"02904",
         "county_name":"District 4",
         "votes_gop":4690,
         "votes_dem":5345,
@@ -1066,7 +1066,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2905",
+        "county_fips":"02905",
         "county_name":"District 5",
         "votes_gop":4077,
         "votes_dem":4204,
@@ -1081,7 +1081,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2906",
+        "county_fips":"02906",
         "county_name":"District 6",
         "votes_gop":5770,
         "votes_dem":3272,
@@ -1096,7 +1096,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2907",
+        "county_fips":"02907",
         "county_name":"District 7",
         "votes_gop":7027,
         "votes_dem":2215,
@@ -1111,7 +1111,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2908",
+        "county_fips":"02908",
         "county_name":"District 8",
         "votes_gop":7618,
         "votes_dem":1953,
@@ -1126,7 +1126,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2909",
+        "county_fips":"02909",
         "county_name":"District 9",
         "votes_gop":7787,
         "votes_dem":2769,
@@ -1141,7 +1141,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2910",
+        "county_fips":"02910",
         "county_name":"District 10",
         "votes_gop":8081,
         "votes_dem":2727,
@@ -1156,7 +1156,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2911",
+        "county_fips":"02911",
         "county_name":"District 11",
         "votes_gop":7096,
         "votes_dem":3130,
@@ -1171,7 +1171,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2912",
+        "county_fips":"02912",
         "county_name":"District 12",
         "votes_gop":7893,
         "votes_dem":2957,
@@ -1186,7 +1186,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2913",
+        "county_fips":"02913",
         "county_name":"District 13",
         "votes_gop":4652,
         "votes_dem":2666,
@@ -1201,7 +1201,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2914",
+        "county_fips":"02914",
         "county_name":"District 14",
         "votes_gop":6714,
         "votes_dem":4261,
@@ -1216,7 +1216,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2915",
+        "county_fips":"02915",
         "county_name":"District 15",
         "votes_gop":2671,
         "votes_dem":2622,
@@ -1231,7 +1231,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2916",
+        "county_fips":"02916",
         "county_name":"District 16",
         "votes_gop":3516,
         "votes_dem":4274,
@@ -1246,7 +1246,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2917",
+        "county_fips":"02917",
         "county_name":"District 17",
         "votes_gop":2810,
         "votes_dem":4136,
@@ -1261,7 +1261,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2918",
+        "county_fips":"02918",
         "county_name":"District 18",
         "votes_gop":2760,
         "votes_dem":4681,
@@ -1276,7 +1276,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2919",
+        "county_fips":"02919",
         "county_name":"District 19",
         "votes_gop":1975,
         "votes_dem":3118,
@@ -1291,7 +1291,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2920",
+        "county_fips":"02920",
         "county_name":"District 20",
         "votes_gop":2383,
         "votes_dem":4881,
@@ -1306,7 +1306,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2921",
+        "county_fips":"02921",
         "county_name":"District 21",
         "votes_gop":3690,
         "votes_dem":5414,
@@ -1321,7 +1321,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2922",
+        "county_fips":"02922",
         "county_name":"District 22",
         "votes_gop":4684,
         "votes_dem":4553,
@@ -1336,7 +1336,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2923",
+        "county_fips":"02923",
         "county_name":"District 23",
         "votes_gop":3655,
         "votes_dem":3810,
@@ -1351,7 +1351,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2924",
+        "county_fips":"02924",
         "county_name":"District 24",
         "votes_gop":5378,
         "votes_dem":4736,
@@ -1366,7 +1366,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2925",
+        "county_fips":"02925",
         "county_name":"District 25",
         "votes_gop":4407,
         "votes_dem":4600,
@@ -1381,7 +1381,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2926",
+        "county_fips":"02926",
         "county_name":"District 26",
         "votes_gop":5243,
         "votes_dem":4558,
@@ -1396,7 +1396,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2927",
+        "county_fips":"02927",
         "county_name":"District 27",
         "votes_gop":4324,
         "votes_dem":4844,
@@ -1411,7 +1411,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2928",
+        "county_fips":"02928",
         "county_name":"District 28",
         "votes_gop":6162,
         "votes_dem":6264,
@@ -1426,7 +1426,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2929",
+        "county_fips":"02929",
         "county_name":"District 29",
         "votes_gop":7464,
         "votes_dem":2985,
@@ -1441,7 +1441,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2930",
+        "county_fips":"02930",
         "county_name":"District 30",
         "votes_gop":7180,
         "votes_dem":2638,
@@ -1456,7 +1456,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2931",
+        "county_fips":"02931",
         "county_name":"District 31",
         "votes_gop":6971,
         "votes_dem":5037,
@@ -1471,7 +1471,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2932",
+        "county_fips":"02932",
         "county_name":"District 32",
         "votes_gop":4440,
         "votes_dem":3506,
@@ -1486,7 +1486,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2933",
+        "county_fips":"02933",
         "county_name":"District 33",
         "votes_gop":3059,
         "votes_dem":7535,
@@ -1501,7 +1501,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2934",
+        "county_fips":"02934",
         "county_name":"District 34",
         "votes_gop":4543,
         "votes_dem":5763,
@@ -1516,7 +1516,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2935",
+        "county_fips":"02935",
         "county_name":"District 35",
         "votes_gop":4769,
         "votes_dem":5011,
@@ -1531,7 +1531,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2936",
+        "county_fips":"02936",
         "county_name":"District 36",
         "votes_gop":5114,
         "votes_dem":3796,
@@ -1546,7 +1546,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2937",
+        "county_fips":"02937",
         "county_name":"District 37",
         "votes_gop":2358,
         "votes_dem":2560,
@@ -1561,7 +1561,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2938",
+        "county_fips":"02938",
         "county_name":"District 38",
         "votes_gop":1737,
         "votes_dem":3202,
@@ -1576,7 +1576,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2939",
+        "county_fips":"02939",
         "county_name":"District 39",
         "votes_gop":1939,
         "votes_dem":3580,
@@ -1591,7 +1591,7 @@
     },
     {
         "state_name":"Alaska",
-        "county_fips":"2940",
+        "county_fips":"02940",
         "county_name":"District 40",
         "votes_gop":1994,
         "votes_dem":2318,
@@ -1606,7 +1606,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4001",
+        "county_fips":"04001",
         "county_name":"Apache",
         "votes_gop":11442,
         "votes_dem":23293,
@@ -1621,7 +1621,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4003",
+        "county_fips":"04003",
         "county_name":"Cochise",
         "votes_gop":35557,
         "votes_dem":23732,
@@ -1636,7 +1636,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4005",
+        "county_fips":"04005",
         "county_name":"Coconino",
         "votes_gop":27052,
         "votes_dem":44698,
@@ -1651,7 +1651,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4007",
+        "county_fips":"04007",
         "county_name":"Gila",
         "votes_gop":18377,
         "votes_dem":8943,
@@ -1666,7 +1666,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4009",
+        "county_fips":"04009",
         "county_name":"Graham",
         "votes_gop":10749,
         "votes_dem":4034,
@@ -1681,7 +1681,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4011",
+        "county_fips":"04011",
         "county_name":"Greenlee",
         "votes_gop":2433,
         "votes_dem":1182,
@@ -1696,7 +1696,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4012",
+        "county_fips":"04012",
         "county_name":"La Paz",
         "votes_gop":5129,
         "votes_dem":2236,
@@ -1711,7 +1711,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4013",
+        "county_fips":"04013",
         "county_name":"Maricopa",
         "votes_gop":995665,
         "votes_dem":1040774,
@@ -1726,7 +1726,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4015",
+        "county_fips":"04015",
         "county_name":"Mohave",
         "votes_gop":78535,
         "votes_dem":24831,
@@ -1741,7 +1741,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4017",
+        "county_fips":"04017",
         "county_name":"Navajo",
         "votes_gop":27657,
         "votes_dem":23383,
@@ -1756,7 +1756,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4019",
+        "county_fips":"04019",
         "county_name":"Pima",
         "votes_gop":207758,
         "votes_dem":304981,
@@ -1771,7 +1771,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4021",
+        "county_fips":"04021",
         "county_name":"Pinal",
         "votes_gop":107077,
         "votes_dem":75106,
@@ -1786,7 +1786,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4023",
+        "county_fips":"04023",
         "county_name":"Santa Cruz",
         "votes_gop":6194,
         "votes_dem":13138,
@@ -1801,7 +1801,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4025",
+        "county_fips":"04025",
         "county_name":"Yavapai",
         "votes_gop":91527,
         "votes_dem":49602,
@@ -1816,7 +1816,7 @@
     },
     {
         "state_name":"Arizona",
-        "county_fips":"4027",
+        "county_fips":"04027",
         "county_name":"Yuma",
         "votes_gop":36534,
         "votes_dem":32210,
@@ -1831,7 +1831,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5001",
+        "county_fips":"05001",
         "county_name":"Arkansas",
         "votes_gop":4304,
         "votes_dem":1818,
@@ -1846,7 +1846,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5003",
+        "county_fips":"05003",
         "county_name":"Ashley",
         "votes_gop":5548,
         "votes_dem":2125,
@@ -1861,7 +1861,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5005",
+        "county_fips":"05005",
         "county_name":"Baxter",
         "votes_gop":15836,
         "votes_dem":4635,
@@ -1876,7 +1876,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5007",
+        "county_fips":"05007",
         "county_name":"Benton",
         "votes_gop":73965,
         "votes_dem":42249,
@@ -1891,7 +1891,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5009",
+        "county_fips":"05009",
         "county_name":"Boone",
         "votes_gop":13652,
         "votes_dem":3064,
@@ -1906,7 +1906,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5011",
+        "county_fips":"05011",
         "county_name":"Bradley",
         "votes_gop":2335,
         "votes_dem":1214,
@@ -1921,7 +1921,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5013",
+        "county_fips":"05013",
         "county_name":"Calhoun",
         "votes_gop":1636,
         "votes_dem":479,
@@ -1936,7 +1936,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5015",
+        "county_fips":"05015",
         "county_name":"Carroll",
         "votes_gop":7424,
         "votes_dem":4023,
@@ -1951,7 +1951,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5017",
+        "county_fips":"05017",
         "county_name":"Chicot",
         "votes_gop":1752,
         "votes_dem":2260,
@@ -1966,7 +1966,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5019",
+        "county_fips":"05019",
         "county_name":"Clark",
         "votes_gop":4616,
         "votes_dem":3438,
@@ -1981,7 +1981,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5021",
+        "county_fips":"05021",
         "county_name":"Clay",
         "votes_gop":4086,
         "votes_dem":962,
@@ -1996,7 +1996,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5023",
+        "county_fips":"05023",
         "county_name":"Cleburne",
         "votes_gop":10328,
         "votes_dem":1988,
@@ -2011,7 +2011,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5025",
+        "county_fips":"05025",
         "county_name":"Cleveland",
         "votes_gop":2867,
         "votes_dem":651,
@@ -2026,7 +2026,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5027",
+        "county_fips":"05027",
         "county_name":"Columbia",
         "votes_gop":5500,
         "votes_dem":2814,
@@ -2041,7 +2041,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5029",
+        "county_fips":"05029",
         "county_name":"Conway",
         "votes_gop":5694,
         "votes_dem":2615,
@@ -2056,7 +2056,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5031",
+        "county_fips":"05031",
         "county_name":"Craighead",
         "votes_gop":25558,
         "votes_dem":11921,
@@ -2071,7 +2071,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5033",
+        "county_fips":"05033",
         "county_name":"Crawford",
         "votes_gop":18607,
         "votes_dem":4959,
@@ -2086,7 +2086,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5035",
+        "county_fips":"05035",
         "county_name":"Crittenden",
         "votes_gop":7333,
         "votes_dem":8514,
@@ -2101,7 +2101,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5037",
+        "county_fips":"05037",
         "county_name":"Cross",
         "votes_gop":4946,
         "votes_dem":1772,
@@ -2116,7 +2116,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5039",
+        "county_fips":"05039",
         "county_name":"Dallas",
         "votes_gop":1573,
         "votes_dem":963,
@@ -2131,7 +2131,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5041",
+        "county_fips":"05041",
         "county_name":"Desha",
         "votes_gop":1921,
         "votes_dem":2016,
@@ -2146,7 +2146,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5043",
+        "county_fips":"05043",
         "county_name":"Drew",
         "votes_gop":4349,
         "votes_dem":2426,
@@ -2161,7 +2161,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5045",
+        "county_fips":"05045",
         "county_name":"Faulkner",
         "votes_gop":34421,
         "votes_dem":18347,
@@ -2176,7 +2176,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5047",
+        "county_fips":"05047",
         "county_name":"Franklin",
         "votes_gop":5677,
         "votes_dem":1300,
@@ -2191,7 +2191,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5049",
+        "county_fips":"05049",
         "county_name":"Fulton",
         "votes_gop":3961,
         "votes_dem":1035,
@@ -2206,7 +2206,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5051",
+        "county_fips":"05051",
         "county_name":"Garland",
         "votes_gop":29069,
         "votes_dem":14045,
@@ -2221,7 +2221,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5053",
+        "county_fips":"05053",
         "county_name":"Grant",
         "votes_gop":6794,
         "votes_dem":1268,
@@ -2236,7 +2236,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5055",
+        "county_fips":"05055",
         "county_name":"Greene",
         "votes_gop":12670,
         "votes_dem":3058,
@@ -2251,7 +2251,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5057",
+        "county_fips":"05057",
         "county_name":"Hempstead",
         "votes_gop":4470,
         "votes_dem":2138,
@@ -2266,7 +2266,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5059",
+        "county_fips":"05059",
         "county_name":"Hot Spring",
         "votes_gop":9202,
         "votes_dem":3082,
@@ -2281,7 +2281,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5061",
+        "county_fips":"05061",
         "county_name":"Howard",
         "votes_gop":3367,
         "votes_dem":1340,
@@ -2296,7 +2296,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5063",
+        "county_fips":"05063",
         "county_name":"Independence",
         "votes_gop":11250,
         "votes_dem":2806,
@@ -2311,7 +2311,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5065",
+        "county_fips":"05065",
         "county_name":"Izard",
         "votes_gop":4631,
         "votes_dem":1021,
@@ -2326,7 +2326,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5067",
+        "county_fips":"05067",
         "county_name":"Jackson",
         "votes_gop":3593,
         "votes_dem":1365,
@@ -2341,7 +2341,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5069",
+        "county_fips":"05069",
         "county_name":"Jefferson",
         "votes_gop":9521,
         "votes_dem":14981,
@@ -2356,7 +2356,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5071",
+        "county_fips":"05071",
         "county_name":"Johnson",
         "votes_gop":6938,
         "votes_dem":2283,
@@ -2371,7 +2371,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5073",
+        "county_fips":"05073",
         "county_name":"Lafayette",
         "votes_gop":1757,
         "votes_dem":839,
@@ -2386,7 +2386,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5075",
+        "county_fips":"05075",
         "county_name":"Lawrence",
         "votes_gop":4569,
         "votes_dem":1080,
@@ -2401,7 +2401,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5077",
+        "county_fips":"05077",
         "county_name":"Lee",
         "votes_gop":1286,
         "votes_dem":1423,
@@ -2416,7 +2416,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5079",
+        "county_fips":"05079",
         "county_name":"Lincoln",
         "votes_gop":2729,
         "votes_dem":1032,
@@ -2431,7 +2431,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5081",
+        "county_fips":"05081",
         "county_name":"Little River",
         "votes_gop":3715,
         "votes_dem":1226,
@@ -2446,7 +2446,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5083",
+        "county_fips":"05083",
         "county_name":"Logan",
         "votes_gop":6441,
         "votes_dem":1544,
@@ -2461,7 +2461,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5085",
+        "county_fips":"05085",
         "county_name":"Lonoke",
         "votes_gop":22884,
         "votes_dem":6686,
@@ -2476,7 +2476,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5087",
+        "county_fips":"05087",
         "county_name":"Madison",
         "votes_gop":5658,
         "votes_dem":1563,
@@ -2491,7 +2491,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5089",
+        "county_fips":"05089",
         "county_name":"Marion",
         "votes_gop":5783,
         "votes_dem":1531,
@@ -2506,7 +2506,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5091",
+        "county_fips":"05091",
         "county_name":"Miller",
         "votes_gop":11920,
         "votes_dem":4245,
@@ -2521,7 +2521,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5093",
+        "county_fips":"05093",
         "county_name":"Mississippi",
         "votes_gop":7296,
         "votes_dem":4558,
@@ -2536,7 +2536,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5095",
+        "county_fips":"05095",
         "county_name":"Monroe",
         "votes_gop":1545,
         "votes_dem":1147,
@@ -2551,7 +2551,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5097",
+        "county_fips":"05097",
         "county_name":"Montgomery",
         "votes_gop":3046,
         "votes_dem":731,
@@ -2566,7 +2566,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5099",
+        "county_fips":"05099",
         "county_name":"Nevada",
         "votes_gop":2133,
         "votes_dem":1076,
@@ -2581,7 +2581,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5101",
+        "county_fips":"05101",
         "county_name":"Newton",
         "votes_gop":3192,
         "votes_dem":709,
@@ -2596,7 +2596,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5103",
+        "county_fips":"05103",
         "county_name":"Ouachita",
         "votes_gop":5294,
         "votes_dem":3995,
@@ -2611,7 +2611,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5105",
+        "county_fips":"05105",
         "county_name":"Perry",
         "votes_gop":3479,
         "votes_dem":1012,
@@ -2626,7 +2626,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5107",
+        "county_fips":"05107",
         "county_name":"Phillips",
         "votes_gop":2417,
         "votes_dem":3623,
@@ -2641,7 +2641,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5109",
+        "county_fips":"05109",
         "county_name":"Pike",
         "votes_gop":3519,
         "votes_dem":644,
@@ -2656,7 +2656,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5111",
+        "county_fips":"05111",
         "county_name":"Poinsett",
         "votes_gop":5918,
         "votes_dem":1424,
@@ -2671,7 +2671,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5113",
+        "county_fips":"05113",
         "county_name":"Polk",
         "votes_gop":7035,
         "votes_dem":1246,
@@ -2686,7 +2686,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5115",
+        "county_fips":"05115",
         "county_name":"Pope",
         "votes_gop":18081,
         "votes_dem":5772,
@@ -2701,7 +2701,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5117",
+        "county_fips":"05117",
         "county_name":"Prairie",
         "votes_gop":2786,
         "votes_dem":654,
@@ -2716,7 +2716,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5119",
+        "county_fips":"05119",
         "county_name":"Pulaski",
         "votes_gop":63687,
         "votes_dem":101947,
@@ -2731,7 +2731,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5121",
+        "county_fips":"05121",
         "county_name":"Randolph",
         "votes_gop":5355,
         "votes_dem":1215,
@@ -2746,7 +2746,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5123",
+        "county_fips":"05123",
         "county_name":"St. Francis",
         "votes_gop":3242,
         "votes_dem":3604,
@@ -2761,7 +2761,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5125",
+        "county_fips":"05125",
         "county_name":"Saline",
         "votes_gop":39556,
         "votes_dem":16060,
@@ -2776,7 +2776,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5127",
+        "county_fips":"05127",
         "county_name":"Scott",
         "votes_gop":2962,
         "votes_dem":483,
@@ -2791,7 +2791,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5129",
+        "county_fips":"05129",
         "county_name":"Searcy",
         "votes_gop":3365,
         "votes_dem":588,
@@ -2806,7 +2806,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5131",
+        "county_fips":"05131",
         "county_name":"Sebastian",
         "votes_gop":31198,
         "votes_dem":14487,
@@ -2821,7 +2821,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5133",
+        "county_fips":"05133",
         "county_name":"Sevier",
         "votes_gop":3884,
         "votes_dem":1116,
@@ -2836,7 +2836,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5135",
+        "county_fips":"05135",
         "county_name":"Sharp",
         "votes_gop":5938,
         "votes_dem":1398,
@@ -2851,7 +2851,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5137",
+        "county_fips":"05137",
         "county_name":"Stone",
         "votes_gop":4616,
         "votes_dem":1180,
@@ -2866,7 +2866,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5139",
+        "county_fips":"05139",
         "county_name":"Union",
         "votes_gop":10478,
         "votes_dem":5584,
@@ -2881,7 +2881,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5141",
+        "county_fips":"05141",
         "county_name":"Van Buren",
         "votes_gop":6034,
         "votes_dem":1593,
@@ -2896,7 +2896,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5143",
+        "county_fips":"05143",
         "county_name":"Washington",
         "votes_gop":47504,
         "votes_dem":43824,
@@ -2911,7 +2911,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5145",
+        "county_fips":"05145",
         "county_name":"White",
         "votes_gop":24182,
         "votes_dem":5978,
@@ -2926,7 +2926,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5147",
+        "county_fips":"05147",
         "county_name":"Woodruff",
         "votes_gop":1543,
         "votes_dem":856,
@@ -2941,7 +2941,7 @@
     },
     {
         "state_name":"Arkansas",
-        "county_fips":"5149",
+        "county_fips":"05149",
         "county_name":"Yell",
         "votes_gop":5226,
         "votes_dem":1284,
@@ -2956,7 +2956,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6001",
+        "county_fips":"06001",
         "county_name":"Alameda",
         "votes_gop":136309,
         "votes_dem":617659,
@@ -2971,7 +2971,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6003",
+        "county_fips":"06003",
         "county_name":"Alpine",
         "votes_gop":244,
         "votes_dem":476,
@@ -2986,7 +2986,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6005",
+        "county_fips":"06005",
         "county_name":"Amador",
         "votes_gop":13585,
         "votes_dem":8153,
@@ -3001,7 +3001,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6007",
+        "county_fips":"06007",
         "county_name":"Butte",
         "votes_gop":48730,
         "votes_dem":50426,
@@ -3016,7 +3016,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6009",
+        "county_fips":"06009",
         "county_name":"Calaveras",
         "votes_gop":16518,
         "votes_dem":10046,
@@ -3031,7 +3031,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6011",
+        "county_fips":"06011",
         "county_name":"Colusa",
         "votes_gop":4554,
         "votes_dem":3234,
@@ -3046,7 +3046,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6013",
+        "county_fips":"06013",
         "county_name":"Contra Costa",
         "votes_gop":152877,
         "votes_dem":416386,
@@ -3061,7 +3061,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6015",
+        "county_fips":"06015",
         "county_name":"Del Norte",
         "votes_gop":6461,
         "votes_dem":4677,
@@ -3076,7 +3076,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6017",
+        "county_fips":"06017",
         "county_name":"El Dorado",
         "votes_gop":61838,
         "votes_dem":51621,
@@ -3091,7 +3091,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6019",
+        "county_fips":"06019",
         "county_name":"Fresno",
         "votes_gop":164464,
         "votes_dem":193025,
@@ -3106,7 +3106,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6021",
+        "county_fips":"06021",
         "county_name":"Glenn",
         "votes_gop":7063,
         "votes_dem":3995,
@@ -3121,7 +3121,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6023",
+        "county_fips":"06023",
         "county_name":"Humboldt",
         "votes_gop":21770,
         "votes_dem":44768,
@@ -3136,7 +3136,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6025",
+        "county_fips":"06025",
         "county_name":"Imperial",
         "votes_gop":20847,
         "votes_dem":34678,
@@ -3151,7 +3151,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6027",
+        "county_fips":"06027",
         "county_name":"Inyo",
         "votes_gop":4620,
         "votes_dem":4634,
@@ -3166,7 +3166,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6029",
+        "county_fips":"06029",
         "county_name":"Kern",
         "votes_gop":164484,
         "votes_dem":133366,
@@ -3181,7 +3181,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6031",
+        "county_fips":"06031",
         "county_name":"Kings",
         "votes_gop":24072,
         "votes_dem":18699,
@@ -3196,7 +3196,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6033",
+        "county_fips":"06033",
         "county_name":"Lake",
         "votes_gop":13123,
         "votes_dem":14941,
@@ -3211,7 +3211,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6035",
+        "county_fips":"06035",
         "county_name":"Lassen",
         "votes_gop":8970,
         "votes_dem":2799,
@@ -3226,7 +3226,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6037",
+        "county_fips":"06037",
         "county_name":"Los Angeles",
         "votes_gop":1145530,
         "votes_dem":3028885,
@@ -3241,7 +3241,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6039",
+        "county_fips":"06039",
         "county_name":"Madera",
         "votes_gop":29378,
         "votes_dem":23168,
@@ -3256,7 +3256,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6041",
+        "county_fips":"06041",
         "county_name":"Marin",
         "votes_gop":24612,
         "votes_dem":128288,
@@ -3271,7 +3271,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6043",
+        "county_fips":"06043",
         "county_name":"Mariposa",
         "votes_gop":5950,
         "votes_dem":4088,
@@ -3286,7 +3286,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6045",
+        "county_fips":"06045",
         "county_name":"Mendocino",
         "votes_gop":13267,
         "votes_dem":28782,
@@ -3301,7 +3301,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6047",
+        "county_fips":"06047",
         "county_name":"Merced",
         "votes_gop":39397,
         "votes_dem":48991,
@@ -3316,7 +3316,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6049",
+        "county_fips":"06049",
         "county_name":"Modoc",
         "votes_gop":3109,
         "votes_dem":1150,
@@ -3331,7 +3331,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6051",
+        "county_fips":"06051",
         "county_name":"Mono",
         "votes_gop":2513,
         "votes_dem":4013,
@@ -3346,7 +3346,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6053",
+        "county_fips":"06053",
         "county_name":"Monterey",
         "votes_gop":46299,
         "votes_dem":113953,
@@ -3361,7 +3361,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6055",
+        "county_fips":"06055",
         "county_name":"Napa",
         "votes_gop":20676,
         "votes_dem":49817,
@@ -3376,7 +3376,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6057",
+        "county_fips":"06057",
         "county_name":"Nevada",
         "votes_gop":26779,
         "votes_dem":36359,
@@ -3391,7 +3391,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6059",
+        "county_fips":"06059",
         "county_name":"Orange",
         "votes_gop":676498,
         "votes_dem":814009,
@@ -3406,7 +3406,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6061",
+        "county_fips":"06061",
         "county_name":"Placer",
         "votes_gop":122488,
         "votes_dem":106869,
@@ -3421,7 +3421,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6063",
+        "county_fips":"06063",
         "county_name":"Plumas",
         "votes_gop":6445,
         "votes_dem":4561,
@@ -3436,7 +3436,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6065",
+        "county_fips":"06065",
         "county_name":"Riverside",
         "votes_gop":448702,
         "votes_dem":527945,
@@ -3451,7 +3451,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6067",
+        "county_fips":"06067",
         "county_name":"Sacramento",
         "votes_gop":259405,
         "votes_dem":440808,
@@ -3466,7 +3466,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6069",
+        "county_fips":"06069",
         "county_name":"San Benito",
         "votes_gop":10590,
         "votes_dem":17628,
@@ -3481,7 +3481,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6071",
+        "county_fips":"06071",
         "county_name":"San Bernardino",
         "votes_gop":366257,
         "votes_dem":455859,
@@ -3496,7 +3496,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6073",
+        "county_fips":"06073",
         "county_name":"San Diego",
         "votes_gop":600094,
         "votes_dem":964650,
@@ -3511,7 +3511,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6075",
+        "county_fips":"06075",
         "county_name":"San Francisco",
         "votes_gop":56417,
         "votes_dem":378156,
@@ -3526,7 +3526,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6077",
+        "county_fips":"06077",
         "county_name":"San Joaquin",
         "votes_gop":121098,
         "votes_dem":161137,
@@ -3541,7 +3541,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6079",
+        "county_fips":"06079",
         "county_name":"San Luis Obispo",
         "votes_gop":67436,
         "votes_dem":88310,
@@ -3556,7 +3556,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6081",
+        "county_fips":"06081",
         "county_name":"San Mateo",
         "votes_gop":75563,
         "votes_dem":291410,
@@ -3571,7 +3571,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6083",
+        "county_fips":"06083",
         "county_name":"Santa Barbara",
         "votes_gop":65736,
         "votes_dem":129963,
@@ -3586,7 +3586,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6085",
+        "county_fips":"06085",
         "county_name":"Santa Clara",
         "votes_gop":214612,
         "votes_dem":617967,
@@ -3601,7 +3601,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6087",
+        "county_fips":"06087",
         "county_name":"Santa Cruz",
         "votes_gop":26937,
         "votes_dem":114246,
@@ -3616,7 +3616,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6089",
+        "county_fips":"06089",
         "county_name":"Shasta",
         "votes_gop":60789,
         "votes_dem":30000,
@@ -3631,7 +3631,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6091",
+        "county_fips":"06091",
         "county_name":"Sierra",
         "votes_gop":1142,
         "votes_dem":730,
@@ -3646,7 +3646,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6093",
+        "county_fips":"06093",
         "county_name":"Siskiyou",
         "votes_gop":13290,
         "votes_dem":9593,
@@ -3661,7 +3661,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6095",
+        "county_fips":"06095",
         "county_name":"Solano",
         "votes_gop":69306,
         "votes_dem":131639,
@@ -3676,7 +3676,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6097",
+        "county_fips":"06097",
         "county_name":"Sonoma",
         "votes_gop":61825,
         "votes_dem":199938,
@@ -3691,7 +3691,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6099",
+        "county_fips":"06099",
         "county_name":"Stanislaus",
         "votes_gop":104145,
         "votes_dem":105841,
@@ -3706,7 +3706,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6101",
+        "county_fips":"06101",
         "county_name":"Sutter",
         "votes_gop":24375,
         "votes_dem":17367,
@@ -3721,7 +3721,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6103",
+        "county_fips":"06103",
         "county_name":"Tehama",
         "votes_gop":19141,
         "votes_dem":8911,
@@ -3736,7 +3736,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6105",
+        "county_fips":"06105",
         "county_name":"Trinity",
         "votes_gop":3188,
         "votes_dem":2851,
@@ -3751,7 +3751,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6107",
+        "county_fips":"06107",
         "county_name":"Tulare",
         "votes_gop":77579,
         "votes_dem":66105,
@@ -3766,7 +3766,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6109",
+        "county_fips":"06109",
         "county_name":"Tuolumne",
         "votes_gop":17689,
         "votes_dem":11978,
@@ -3781,7 +3781,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6111",
+        "county_fips":"06111",
         "county_name":"Ventura",
         "votes_gop":162207,
         "votes_dem":251388,
@@ -3796,7 +3796,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6113",
+        "county_fips":"06113",
         "county_name":"Yolo",
         "votes_gop":27292,
         "votes_dem":67598,
@@ -3811,7 +3811,7 @@
     },
     {
         "state_name":"California",
-        "county_fips":"6115",
+        "county_fips":"06115",
         "county_name":"Yuba",
         "votes_gop":17676,
         "votes_dem":11230,
@@ -3826,7 +3826,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8001",
+        "county_fips":"08001",
         "county_name":"Adams",
         "votes_gop":95657,
         "votes_dem":134202,
@@ -3841,7 +3841,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8003",
+        "county_fips":"08003",
         "county_name":"Alamosa",
         "votes_gop":3813,
         "votes_dem":3759,
@@ -3856,7 +3856,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8005",
+        "county_fips":"08005",
         "county_name":"Arapahoe",
         "votes_gop":127323,
         "votes_dem":213607,
@@ -3871,7 +3871,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8007",
+        "county_fips":"08007",
         "county_name":"Archuleta",
         "votes_gop":5189,
         "votes_dem":3738,
@@ -3886,7 +3886,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8009",
+        "county_fips":"08009",
         "county_name":"Baca",
         "votes_gop":1867,
         "votes_dem":317,
@@ -3901,7 +3901,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8011",
+        "county_fips":"08011",
         "county_name":"Bent",
         "votes_gop":1503,
         "votes_dem":732,
@@ -3916,7 +3916,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8013",
+        "county_fips":"08013",
         "county_name":"Boulder",
         "votes_gop":42501,
         "votes_dem":159089,
@@ -3931,7 +3931,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8014",
+        "county_fips":"08014",
         "county_name":"Broomfield",
         "votes_gop":16295,
         "votes_dem":29077,
@@ -3946,7 +3946,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8015",
+        "county_fips":"08015",
         "county_name":"Chaffee",
         "votes_gop":6222,
         "votes_dem":7160,
@@ -3961,7 +3961,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8017",
+        "county_fips":"08017",
         "county_name":"Cheyenne",
         "votes_gop":993,
         "votes_dem":131,
@@ -3976,7 +3976,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8019",
+        "county_fips":"08019",
         "county_name":"Clear Creek",
         "votes_gop":2754,
         "votes_dem":3604,
@@ -3991,7 +3991,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8021",
+        "county_fips":"08021",
         "county_name":"Conejos",
         "votes_gop":2286,
         "votes_dem":1959,
@@ -4006,7 +4006,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8023",
+        "county_fips":"08023",
         "county_name":"Costilla",
         "votes_gop":741,
         "votes_dem":1311,
@@ -4021,7 +4021,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8025",
+        "county_fips":"08025",
         "county_name":"Crowley",
         "votes_gop":1271,
         "votes_dem":437,
@@ -4036,7 +4036,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8027",
+        "county_fips":"08027",
         "county_name":"Custer",
         "votes_gop":2474,
         "votes_dem":1112,
@@ -4051,7 +4051,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8029",
+        "county_fips":"08029",
         "county_name":"Delta",
         "votes_gop":13081,
         "votes_dem":5887,
@@ -4066,7 +4066,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8031",
+        "county_fips":"08031",
         "county_name":"Denver",
         "votes_gop":71618,
         "votes_dem":313293,
@@ -4081,7 +4081,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8033",
+        "county_fips":"08033",
         "county_name":"Dolores",
         "votes_gop":1089,
         "votes_dem":341,
@@ -4096,7 +4096,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8035",
+        "county_fips":"08035",
         "county_name":"Douglas",
         "votes_gop":121270,
         "votes_dem":104653,
@@ -4111,7 +4111,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8037",
+        "county_fips":"08037",
         "county_name":"Eagle",
         "votes_gop":9892,
         "votes_dem":18588,
@@ -4126,7 +4126,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8039",
+        "county_fips":"08039",
         "county_name":"Elbert",
         "votes_gop":14027,
         "votes_dem":4490,
@@ -4141,7 +4141,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8041",
+        "county_fips":"08041",
         "county_name":"El Paso",
         "votes_gop":202828,
         "votes_dem":161941,
@@ -4156,7 +4156,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8043",
+        "county_fips":"08043",
         "county_name":"Fremont",
         "votes_gop":17517,
         "votes_dem":7369,
@@ -4171,7 +4171,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8045",
+        "county_fips":"08045",
         "county_name":"Garfield",
         "votes_gop":14717,
         "votes_dem":15427,
@@ -4186,7 +4186,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8047",
+        "county_fips":"08047",
         "county_name":"Gilpin",
         "votes_gop":1833,
         "votes_dem":2223,
@@ -4201,7 +4201,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8049",
+        "county_fips":"08049",
         "county_name":"Grand",
         "votes_gop":4883,
         "votes_dem":4710,
@@ -4216,7 +4216,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8051",
+        "county_fips":"08051",
         "county_name":"Gunnison",
         "votes_gop":3735,
         "votes_dem":7132,
@@ -4231,7 +4231,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8053",
+        "county_fips":"08053",
         "county_name":"Hinsdale",
         "votes_gop":353,
         "votes_dem":255,
@@ -4246,7 +4246,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8055",
+        "county_fips":"08055",
         "county_name":"Huerfano",
         "votes_gop":2203,
         "votes_dem":2076,
@@ -4261,7 +4261,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8057",
+        "county_fips":"08057",
         "county_name":"Jackson",
         "votes_gop":681,
         "votes_dem":175,
@@ -4276,7 +4276,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8059",
+        "county_fips":"08059",
         "county_name":"Jefferson",
         "votes_gop":148417,
         "votes_dem":218396,
@@ -4291,7 +4291,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8061",
+        "county_fips":"08061",
         "county_name":"Kiowa",
         "votes_gop":795,
         "votes_dem":98,
@@ -4306,7 +4306,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8063",
+        "county_fips":"08063",
         "county_name":"Kit Carson",
         "votes_gop":3144,
         "votes_dem":662,
@@ -4321,7 +4321,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8065",
+        "county_fips":"08065",
         "county_name":"Lake",
         "votes_gop":1497,
         "votes_dem":2303,
@@ -4336,7 +4336,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8067",
+        "county_fips":"08067",
         "county_name":"La Plata",
         "votes_gop":14233,
         "votes_dem":20548,
@@ -4351,7 +4351,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8069",
+        "county_fips":"08069",
         "county_name":"Larimer",
         "votes_gop":91489,
         "votes_dem":126120,
@@ -4366,7 +4366,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8071",
+        "county_fips":"08071",
         "county_name":"Las Animas",
         "votes_gop":4284,
         "votes_dem":3497,
@@ -4381,7 +4381,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8073",
+        "county_fips":"08073",
         "county_name":"Lincoln",
         "votes_gop":2135,
         "votes_dem":470,
@@ -4396,7 +4396,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8075",
+        "county_fips":"08075",
         "county_name":"Logan",
         "votes_gop":8087,
         "votes_dem":2218,
@@ -4411,7 +4411,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8077",
+        "county_fips":"08077",
         "county_name":"Mesa",
         "votes_gop":56894,
         "votes_dem":31536,
@@ -4426,7 +4426,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8079",
+        "county_fips":"08079",
         "county_name":"Mineral",
         "votes_gop":427,
         "votes_dem":317,
@@ -4441,7 +4441,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8081",
+        "county_fips":"08081",
         "county_name":"Moffat",
         "votes_gop":5670,
         "votes_dem":1203,
@@ -4456,7 +4456,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8083",
+        "county_fips":"08083",
         "county_name":"Montezuma",
         "votes_gop":9306,
         "votes_dem":5836,
@@ -4471,7 +4471,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8085",
+        "county_fips":"08085",
         "county_name":"Montrose",
         "votes_gop":16770,
         "votes_dem":7687,
@@ -4486,7 +4486,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8087",
+        "county_fips":"08087",
         "county_name":"Morgan",
         "votes_gop":9593,
         "votes_dem":3876,
@@ -4501,7 +4501,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8089",
+        "county_fips":"08089",
         "county_name":"Otero",
         "votes_gop":5756,
         "votes_dem":3605,
@@ -4516,7 +4516,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8091",
+        "county_fips":"08091",
         "county_name":"Ouray",
         "votes_gop":1577,
         "votes_dem":2365,
@@ -4531,7 +4531,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8093",
+        "county_fips":"08093",
         "county_name":"Park",
         "votes_gop":6991,
         "votes_dem":4903,
@@ -4546,7 +4546,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8095",
+        "county_fips":"08095",
         "county_name":"Phillips",
         "votes_gop":1958,
         "votes_dem":486,
@@ -4561,7 +4561,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8097",
+        "county_fips":"08097",
         "county_name":"Pitkin",
         "votes_gop":2780,
         "votes_dem":8989,
@@ -4576,7 +4576,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8099",
+        "county_fips":"08099",
         "county_name":"Prowers",
         "votes_gop":4008,
         "votes_dem":1458,
@@ -4591,7 +4591,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8101",
+        "county_fips":"08101",
         "county_name":"Pueblo",
         "votes_gop":42252,
         "votes_dem":43772,
@@ -4606,7 +4606,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8103",
+        "county_fips":"08103",
         "county_name":"Rio Blanco",
         "votes_gop":3061,
         "votes_dem":561,
@@ -4621,7 +4621,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8105",
+        "county_fips":"08105",
         "county_name":"Rio Grande",
         "votes_gop":3660,
         "votes_dem":2495,
@@ -4636,7 +4636,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8107",
+        "county_fips":"08107",
         "county_name":"Routt",
         "votes_gop":5925,
         "votes_dem":10582,
@@ -4651,7 +4651,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8109",
+        "county_fips":"08109",
         "county_name":"Saguache",
         "votes_gop":1413,
         "votes_dem":1884,
@@ -4666,7 +4666,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8111",
+        "county_fips":"08111",
         "county_name":"San Juan",
         "votes_gop":202,
         "votes_dem":342,
@@ -4681,7 +4681,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8113",
+        "county_fips":"08113",
         "county_name":"San Miguel",
         "votes_gop":1136,
         "votes_dem":3924,
@@ -4696,7 +4696,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8115",
+        "county_fips":"08115",
         "county_name":"Sedgwick",
         "votes_gop":1121,
         "votes_dem":301,
@@ -4711,7 +4711,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8117",
+        "county_fips":"08117",
         "county_name":"Summit",
         "votes_gop":5322,
         "votes_dem":12631,
@@ -4726,7 +4726,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8119",
+        "county_fips":"08119",
         "county_name":"Teller",
         "votes_gop":11241,
         "votes_dem":5278,
@@ -4741,7 +4741,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8121",
+        "county_fips":"08121",
         "county_name":"Washington",
         "votes_gop":2595,
         "votes_dem":369,
@@ -4756,7 +4756,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8123",
+        "county_fips":"08123",
         "county_name":"Weld",
         "votes_gop":96145,
         "votes_dem":66060,
@@ -4771,7 +4771,7 @@
     },
     {
         "state_name":"Colorado",
-        "county_fips":"8125",
+        "county_fips":"08125",
         "county_name":"Yuma",
         "votes_gop":4107,
         "votes_dem":785,
@@ -4786,7 +4786,7 @@
     },
     {
         "state_name":"Connecticut",
-        "county_fips":"9001",
+        "county_fips":"09001",
         "county_name":"Fairfield",
         "votes_gop":169039,
         "votes_dem":297505,
@@ -4801,7 +4801,7 @@
     },
     {
         "state_name":"Connecticut",
-        "county_fips":"9003",
+        "county_fips":"09003",
         "county_name":"Hartford",
         "votes_gop":159024,
         "votes_dem":283368,
@@ -4816,7 +4816,7 @@
     },
     {
         "state_name":"Connecticut",
-        "county_fips":"9005",
+        "county_fips":"09005",
         "county_name":"Litchfield",
         "votes_gop":55601,
         "votes_dem":50164,
@@ -4831,7 +4831,7 @@
     },
     {
         "state_name":"Connecticut",
-        "county_fips":"9007",
+        "county_fips":"09007",
         "county_name":"Middlesex",
         "votes_gop":40665,
         "votes_dem":56848,
@@ -4846,7 +4846,7 @@
     },
     {
         "state_name":"Connecticut",
-        "county_fips":"9009",
+        "county_fips":"09009",
         "county_name":"New Haven",
         "votes_gop":169892,
         "votes_dem":242629,
@@ -4861,7 +4861,7 @@
     },
     {
         "state_name":"Connecticut",
-        "county_fips":"9011",
+        "county_fips":"09011",
         "county_name":"New London",
         "votes_gop":57110,
         "votes_dem":79459,
@@ -4876,7 +4876,7 @@
     },
     {
         "state_name":"Connecticut",
-        "county_fips":"9013",
+        "county_fips":"09013",
         "county_name":"Tolland",
         "votes_gop":34819,
         "votes_dem":44006,
@@ -4891,7 +4891,7 @@
     },
     {
         "state_name":"Connecticut",
-        "county_fips":"9015",
+        "county_fips":"09015",
         "county_name":"Windham",
         "votes_gop":29141,
         "votes_dem":26701,
