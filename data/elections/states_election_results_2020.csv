@@ -1,4 +1,4 @@
-state_name,votes_gop,votes_dem,total_votes,share_dem,share_gop,winner
+state_name,votes_gop,votes_dem,total_votes,pct_dem,pct_gop,winner
 Alabama,1441168,849648,2323304,37.0,62.0,gop
 Alaska,189892,153405,391346,39.0,49.0,gop
 Arizona,1661686,1672143,3387326,49.0,49.0,dem

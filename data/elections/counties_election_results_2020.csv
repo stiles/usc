@@ -1,4 +1,4 @@
-state_name,county_fips,county_name,votes_gop,votes_dem,total_votes,margin_dem,margin_gop,share_dem,share_gop,share_dem_diff,share_gop_diff,winner
+state_name,county_fips,county_name,votes_gop,votes_dem,total_votes,margin_dem,margin_gop,pct_dem,pct_gop,dem_diff,gop_diff,winner
 Alabama,01001,Autauga,19838,7503,27770,-12335,12335,27.0,71.0,-44.0,44.0,gop
 Alabama,01003,Baldwin,83544,24578,109679,-58966,58966,22.0,76.0,-54.0,54.0,gop
 Alabama,01005,Barbour,5622,4816,10518,-806,806,46.0,53.0,-7.0,7.0,gop
