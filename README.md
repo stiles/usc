@@ -1,6 +1,6 @@
 # USC - JOUR 561
 
-Data, demos, sample code for spring 2022
+Hanna Kang's data, demos & sample code for spring 2022. 
 
 Please **pull** the latest notebooks and data from here each week when you get into class.
 
