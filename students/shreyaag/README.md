@@ -1,6 +1,6 @@
-# USC - JOUR 561
+# USC - JOUR 561 - Rhysea
 
-Data, demos, sample code for spring 2022
+This folder contains my data, demos, sample code and assignments for spring 2022!
 
 Please **pull** the latest notebooks and data from here each week when you get into class.
 
