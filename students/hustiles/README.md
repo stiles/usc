@@ -1,9 +1,4 @@
-# USC - JOUR 561
+# USC - JOUR 561 — Matt Stiles
 
-Data, demos, sample code for spring 2022
+My data, demos and sample code for spring 2022. 
 
-Please **pull** the latest notebooks and data from here each week when you get into class.
-
-**Commit** your work to personal repos. 
-
-*Files from JOUR 554 in fall 2021 can be found [in the archive](https://github.com/stiles/usc/tree/main/archive).*
