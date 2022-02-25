@@ -1,0 +1,110 @@
+COLUMN_NAME,FORMAT,DEFINITION
+DATE,Date,"Reporting time period
+
+Values:
+Date in YYY-MM-DD format"
+AREA,Plain text,"State of Residence
+
+Value:  
+""California"""
+AREA_TYPE,Plain text,"Geographic type of the Area field.
+
+Values:  
+“State” if the Area value is “California”
+“County” for all other values"
+UNVACCINATED_CASES,Numeric,"Total number of laboratory-confirmed COVID-19 cases among persons age 12+ with episode date on the provided date with no record of any doses of COVID-19 vaccine. Persons considered partially vaccinated are not included in the unvaccinated cases.  
+
+“Episode date” is defined as the earliest of the following dates (if the dates exist): date received, date of diagnosis, date of symptom onset, specimen collection date, or date of death.
+
+Values: 
+Positive Numeric"
+VACCINATED_CASES,Numeric,"Total number of laboratory-confirmed COVID-19 cases among persons age 12+ with episode date on the provided date with a complete primary COVID-19 vaccine series (episode date ≥14 days after the 2nd dose of a two-dose series or ≥14 days after a single-dose vaccine). Persons considered partially vaccinated are not included in the vaccinated cases.
+
+“Episode date” is defined as the earliest of the following dates (if the dates exist): date received, date of diagnosis, date of symptom onset, specimen collection date, or date of death.
+
+Values: 
+Positive Numeric"
+BOOSTED_CASES,Numeric,"Total number of laboratory-confirmed COVID-19 cases among persons age 12+ with episode date on the provided date with a complete COVID-19 vaccine series and additional or booster dose (episode date ≥14 days after the additional or booster dose). 
+
+“Episode date” is defined as the earliest of the following dates (if the dates exist): date received, date of diagnosis, date of symptom onset, specimen collection date, or date of death.
+
+Values: 
+Positive Numeric"
+UNVACCINATED_DEATHS,Numeric,"Total number of laboratory-confirmed COVID-19 deaths among persons age 12+ with a date of death on the provided date with no record of any doses of COVID-19 vaccine. Persons considered partially vaccinated are not included in the unvaccinated deaths.  
+
+Values: 
+Positive Numeric"
+VACCINATED_DEATHS,Numeric,"Total number of laboratory-confirmed COVID-19 deaths among persons age 12+ with a date of death on the provided date with a complete COVID-19 vaccine series (≥14 days after the 2nd dose of a two-dose series or ≥14 days after a single-dose vaccine). Persons considered partially vaccinated are not included in the vaccinated deaths.
+
+Values: 
+Positive Numeric"
+BOOSTED_DEATHS,Numeric,"Total number of laboratory-confirmed COVID-19 deaths among persons age 12+ with a date of death on the provided date with a complete COVID-19 vaccine series and additional or booster dose (date of death ≥14 days after the additional or booster dose). 
+
+Values: 
+Positive Numeric"
+UNVACCINATED_HOSP,Numeric,"Total number of hospitalized laboratory-confirmed COVID-19 cases among persons age 12+ with an episode date on the provided date with no record of any doses of COVID-19 vaccine. Persons considered partially vaccinated are not included in the unvaccinated hospitalizations.  
+
+“Episode date” is defined as the earliest of the following dates (if the dates exist): date received, date of diagnosis, date of symptom onset, specimen collection date, or date of death.
+
+Values: 
+Positive Numeric"
+VACCINATED_HOSP,Numeric,"Total number of hospitalized laboratory-confirmed COVID-19 cases among persons age 12+ with an episode date on the provided date with a complete COVID-19 vaccine series (≥14 days after the 2nd dose of a two-dose series or ≥14 days after a single-dose vaccine). Persons considered partially vaccinated are not included in the vaccinated hospitalizations.
+
+“Episode date” is defined as the earliest of the following dates (if the dates exist): date received, date of diagnosis, date of symptom onset, specimen collection date, or date of death.
+
+Values: 
+Positive Numeric"
+BOOSTED_HOSP,Numeric,"Total number of hospitalized laboratory-confirmed COVID-19 cases among persons age 12+ with episode date on the provided date with a complete COVID-19 vaccine series and additional or booster dose (episode date ≥14 days after the additional or booster dose). 
+
+“Episode date” is defined as the earliest of the following dates (if the dates exist): date received, date of diagnosis, date of symptom onset, specimen collection date, or date of death.
+
+Values: 
+Positive Numeric"
+POPULATION_UNVACCINATED,Numeric,"California Department of Finance (DOF) population estimates 2020 for ages 12+.  This number only includes those persons that have not received any doses of COVID-19 vaccine, which is derived by subtracting the number of fully vaccinated persons and number of partially vaccinated persons from the total population estimate. 
+
+Values:
+Positive Numeric"
+POPULATION_VACCINATED,Numeric,"Number of persons age 12+ with a complete primary COVID-19 vaccine series based on information in the California Immunization Registry. This number only includes those persons considered  vaccinated defined as ≥14 days after the 2nd dose of a two-dose series or ≥14 days after a single-dose vaccine. 
+
+Values:
+Positive Numeric"
+POPULATION_BOOSTED,Numeric,"Number of persons age 12+ that are with a complete COVID-19 vaccine series and additional or booster dose based on information in the California Immunization Registry. This number only includes those persons considered having received an additional or booster dose  ≥14 days after the additional or booster dose. 
+
+Values:
+Positive Numeric"
+UNVACCINATED_CASES_PER_100K,Numeric,"Rate of cases among the unvaccinated per 100,000 persons (limited to persons age 12+). Rates are calculated by dividing the prior 7-day averages of case counts for a given day by the estimated unvaccinated population for that given day, multiplied by 100,000.
+
+Values: 
+Positive Numeric"
+VACCINATED_CASES_PER_100K,Numeric,"Rate of cases among the vaccinated per 100,000 persons (limited to persons age 12+). Rates are calculated by dividing prior 7-day averages of case counts for a given day by the estimated vaccinated population for that given day, multiplied by 100,000.
+
+Values: 
+Positive Numeric"
+BOOSTED_CASES_PER_100K,Numeric,"Rate of cases among the boosted per 100,000 persons (limited to persons age 12+). Rates are calculated by dividing prior 7-day averages of case counts for a given day by the estimated boosted population for that given day, multiplied by 100,000.
+
+Values: 
+Positive Numeric"
+UNVACCINATED_DEATHS_PER_100K,Numeric,"Rate of deaths among the unvaccinated per 100,000 persons (limited to persons age 12+). Rates are calculated by dividing the prior 7-day averages of number of deaths on a given day by the estimated unvaccinated population for that given day, multiplied by 100,000.
+
+Values: 
+Positive Numeric"
+VACCINATED_DEATHS_PER_100K,Numeric,"Rate of deaths among the vaccinated per 100,000 persons (limited to persons age 12+). Rates are calculated by dividing prior 7-day averages of number of deaths on a given day by the estimated vaccinated population for that given day, multiplied by 100,000.
+
+Values: 
+Positive Numeric"
+BOOSTED_DEATHS_PER_100K,Numeric,"Rate of deaths among the boosted per 100,000 persons (limited to persons age 12+). Rates are calculated by dividing prior 7-day averages of number of deaths on a given day by the estimated boosted population for that given day, multiplied by 100,000.
+
+Values: 
+Positive Numeric"
+UNVACCINATED_HOSP_PER_100K,Numeric,"Rate of hospitalization among the unvaccinated per 100,000 persons (limited to persons age 12+). Rates are calculated by dividing the prior 7-day averages of number of hospitalized persons on a given day by the estimated unvaccinated population for that given day, multiplied by 100,000.
+
+Values: 
+Positive Numeric"
+VACCINATED_HOSP_PER_100K,Numeric,"Rate of hospitalization among the vaccinated per 100,000 persons (limited to persons age 12+). Rates are calculated by dividing prior 7-day averages of number of hospitalized persons on a given day by the estimated vaccinated population for that given day, multiplied by 100,000.
+
+Values: 
+Positive Numeric"
+BOOSTED_HOSP_PER_100K,Numeric,"Rate of hospitalization among the boosted per 100,000 persons (limited to persons age 12+). Rates are calculated by dividing prior 7-day averages of number of hospitalized persons on a given day by the estimated boosted population for that given day, multiplied by 100,000.
+
+Values: 
+Positive Numeric"
