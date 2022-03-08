@@ -1,0 +1,61 @@
+brand,colors,nuts,calories_per_serving,fat_per_serving,description,satisfacton_score,owner,group,id,weight
+Hershey's,Brown,FALSE,60,3.50,Milk Chocolate,3,The Hershey Company,A,1,13
+Hershey's,Brown,FALSE,60,3.50,Milk Chocolate,9,The Hershey Company,A,2,13
+Hershey's,Brown,FALSE,60,3.50,Milk Chocolate,9,The Hershey Company,A,3,13
+Hershey's,Brown,FALSE,60,3.50,Milk Chocolate,5,The Hershey Company,A,4,13
+Hershey's,Brown,FALSE,60,3.50,Milk Chocolate,7,The Hershey Company,A,5,13
+Hershey's,Brown,FALSE,60,3.50,Milk Chocolate,7,The Hershey Company,A,6,13
+Hershey's,Brown,FALSE,60,3.50,Milk Chocolate,2,The Hershey Company,A,7,13
+Hershey's,Brown,FALSE,60,3.50,Milk Chocolate,1,The Hershey Company,A,8,13
+Hershey's,Brown,FALSE,60,3.50,Milk Chocolate,1,The Hershey Company,A,9,13
+KitKat,Red,FALSE,70,3.50,Wafer Bar,6,The Hershey Company,A,10,14
+KitKat,Red,FALSE,70,3.50,Wafer Bar,5,The Hershey Company,A,11,14
+KitKat,Red,FALSE,70,3.50,Wafer Bar,9,The Hershey Company,A,12,14
+KitKat,Red,FALSE,70,3.50,Wafer Bar,7,The Hershey Company,A,13,14
+KitKat,Red,FALSE,70,3.50,Wafer Bar,3,The Hershey Company,A,14,14
+KitKat,Red,FALSE,70,3.50,Wafer Bar,1,The Hershey Company,A,15,14
+KitKat,Red,FALSE,70,3.50,Wafer Bar,9,The Hershey Company,A,16,14
+KitKat,Red,FALSE,70,3.50,Wafer Bar,3,The Hershey Company,A,17,14
+Almond Joy,Blue,TRUE,85,4.50,Candy Bar,2,The Hershey Company,A,18,17
+Almond Joy,Blue,TRUE,85,4.50,Candy Bar,1,The Hershey Company,A,19,17
+Almond Joy,Blue,TRUE,85,4.50,Candy Bar,8,The Hershey Company,A,20,17
+Almond Joy,Blue,TRUE,85,4.50,Candy Bar,6,The Hershey Company,A,21,17
+Almond Joy,Blue,TRUE,85,4.50,Candy Bar,2,The Hershey Company,A,22,17
+Almond Joy,Blue,TRUE,85,4.50,Candy Bar,7,The Hershey Company,A,23,17
+Almond Joy,Blue,TRUE,85,4.50,Candy Bar,6,The Hershey Company,A,24,17
+Reese's,Orange,TRUE,80,4.50,Peanut Butter Cup,4,The Hershey Company,A,25,15.5
+Reese's,Orange,TRUE,80,4.50,Peanut Butter Cup,1,The Hershey Company,A,26,15.5
+Reese's,Orange,TRUE,80,4.50,Peanut Butter Cup,2,The Hershey Company,A,27,15.5
+Reese's,Orange,TRUE,80,4.50,Peanut Butter Cup,10,The Hershey Company,A,28,15.5
+Reese's,Orange,TRUE,80,4.50,Peanut Butter Cup,2,The Hershey Company,A,29,15.5
+Reese's,Orange,TRUE,80,4.50,Peanut Butter Cup,9,The Hershey Company,A,30,15.5
+Snickers,Brown,TRUE,43,2.00,Candy Bar,6,Mars Wrigley,B,31,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,4,Mars Wrigley,B,32,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,8,Mars Wrigley,B,33,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,2,Mars Wrigley,B,34,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,9,Mars Wrigley,B,35,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,1,Mars Wrigley,B,36,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,5,Mars Wrigley,B,37,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,9,Mars Wrigley,B,38,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,4,Mars Wrigley,B,39,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,8,Mars Wrigley,B,40,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,4,Mars Wrigley,B,41,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,9,Mars Wrigley,B,42,9
+Snickers,Brown,TRUE,43,2.00,Candy Bar,8,Mars Wrigley,B,43,9
+Txix,Gold,FALSE,50,2.33,Cookie Bar,7,Mars Wrigley,B,44,10
+Txix,Gold,FALSE,50,2.33,Cookie Bar,7,Mars Wrigley,B,45,10
+Txix,Gold,FALSE,50,2.33,Cookie Bar,1,Mars Wrigley,B,46,10
+Txix,Gold,FALSE,50,2.33,Cookie Bar,6,Mars Wrigley,B,47,10
+Txix,Gold,FALSE,50,2.33,Cookie Bar,1,Mars Wrigley,B,48,10
+Txix,Gold,FALSE,50,2.33,Cookie Bar,4,Mars Wrigley,B,49,10
+Txix,Gold,FALSE,50,2.33,Cookie Bar,3,Mars Wrigley,B,50,10
+Txix,Gold,FALSE,50,2.33,Cookie Bar,10,Mars Wrigley,B,51,10
+Txix,Gold,FALSE,50,2.33,Cookie Bar,5,Mars Wrigley,B,52,10
+Txix,Gold,FALSE,50,2.33,Cookie Bar,4,Mars Wrigley,B,53,10
+3 Musketeers,Silver,FALSE,26,0.70,Candy Bar,2,Mars Wrigley,B,54,11.3
+3 Musketeers,Silver,FALSE,26,0.70,Candy Bar,3,Mars Wrigley,B,55,11.3
+3 Musketeers,Silver,FALSE,26,0.70,Candy Bar,8,Mars Wrigley,B,56,11.3
+3 Musketeers,Silver,FALSE,26,0.70,Candy Bar,4,Mars Wrigley,B,57,11.3
+3 Musketeers,Silver,FALSE,26,0.70,Candy Bar,8,Mars Wrigley,B,58,11.3
+3 Musketeers,Silver,FALSE,26,0.70,Candy Bar,5,Mars Wrigley,B,59,11.3
+3 Musketeers,Silver,FALSE,26,0.70,Candy Bar,10,Mars Wrigley,B,60,11.3
