@@ -1,0 +1,71 @@
+http://localhost:8888/lab/tree/github/usc/students/zavarise/izzys_midterm.ipynb
+
+Izzy's Midterm
+Import python tools
+import pandas as pd
+Read data
+url = 'https://data.lacity.org/api/views/amvf-fr72/rows.csv?accessType=DOWNLOAD'
+src = pd.read_csv(url, low_memory=False)
+df = src.copy()
+What does the data look like?
+df.head()
+
+How many arrests are there?
+len(df)
+140823
+What do the last five rows of data look like?
+df.tail()
+
+What is the average age of arrest?
+df['Age'].mean()
+34.69282716601691
+Show me the 10 oldest people who were arrested?
+df.sort_values('Age', ascending=False).head(10)
+
+df.describe()
+
+Sex Code
+df.value_counts('Sex Code')
+Sex Code
+M    112170
+F     28653
+dtype: int64
+Show me only bookings/arests
+BOOKING = df[df['Report Type'] == "BOOKING"]
+df[df['Report Type'] == "BOOKING"]
+
+Show me only arrests in Hollywood
+df[(df['Report Type'] == "BOOKING") &  (df['Area Name'] == "Hollywood")] 
+
+How many arrests in each area?
+df.groupby(['Area Name'])['Report Type'].count()
+Area Name
+77th Street    11054
+Central         9565
+Devonshire      3869
+Foothill        4983
+Harbor          4765
+Hollenbeck      4860
+Hollywood       8520
+Mission         6952
+N Hollywood     6393
+Newton          8561
+Northeast       4437
+Olympic         5991
+Pacific        10391
+Rampart         8177
+Southeast       7034
+Southwest       7631
+Topanga         6145
+Van Nuys        8094
+West LA         4591
+West Valley     4988
+Wilshire        3822
+Name: Report Type, dtype: int64
+Pitch: This dataset shows that more arrests are occurring in South Los Angeles compared to areas like West L.A. Based on what I've learned, I'd like to do a piece on arrests broken down by area and look into why some areas have a higher arrest rate.
+​
+In this dataset, I also learned that the average age of arrest is 35. I'd like to do a story that looks at the relationship between age and crime. How does getting arrested at 35 impact your life versus getting arrested in your 20s? What kinds of crimes are more common among people in their 30s?
+​
+I'm also interested in doing a story on 90-year-olds who have been arrested. 
+
+
