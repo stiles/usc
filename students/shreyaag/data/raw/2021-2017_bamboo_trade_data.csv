@@ -1,0 +1,941 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,6,1,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,61,,,,39852,,33455,,,2
+H5,2017,2017,2017,6,1,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4897,,,,1307168,,2090384,,,4
+H5,2017,2017,2017,6,1,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2925,,,,186498,,295452,,,4
+H5,2017,2017,2017,6,1,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,23248,,69685,,,2
+H5,2017,2017,2017,6,1,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,8,,125,,,2
+H5,2017,2017,2017,6,1,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3400,,,,144023,,110128,,,0
+H5,2017,2017,2017,6,1,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,51,,,,3291,,4153,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,51,,,,3291,,4153,,,0
+H5,2017,2017,2017,6,1,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,12377,,,,971348,,1694525,,,0
+H5,2017,2017,2017,6,1,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5780,,,,1315741,,1154277,,,0
+H5,2017,2017,2017,6,1,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9053,,,,250284,,416546,,,4
+H5,2017,2017,2017,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5057,,,,101338,,96379,,,0
+H5,2017,2017,2017,6,1,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,2243,,4262,,,2
+H5,2017,2017,2017,6,1,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,79,,,,70326,,164415,,,0
+H5,2017,2017,2017,6,1,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,60,,2034,,,2
+H5,2017,2017,2017,6,1,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,175,,,,1150,,1915,,,4
+H5,2017,2017,2017,6,1,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,24,,,,7463,,12180,,,2
+H5,2017,2017,2017,6,1,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,22590,,25045,,,4
+H5,2017,2017,2017,6,1,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,102,,,,23310,,18400,,,0
+H5,2017,2017,2017,6,1,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,117,,,,79804,,76900,,,0
+H5,2017,2017,2017,6,1,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,14995,,23980,,,6
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,135479,,,,0,,5776460,,,4
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,206,,,,78215,,123909,,,4
+H5,2017,2017,2017,6,1,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,40,,,,10496,,16628,,,4
+H5,2017,2017,2017,6,1,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,73343,,,,220523,,367016,,,4
+H5,2017,2017,2017,6,1,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1741,,,,0,,23798,,,4
+H5,2017,2017,2017,6,1,3,Re-Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,26,,,,0,,452,,,0
+H5,2017,2017,2017,6,1,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1865,,,,121419,,194170,,,4
+H5,2017,2017,2017,6,1,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,33,,52,,,6
+H5,2017,2017,2017,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1611,,,,1055209,,6285220,,,0
+H5,2017,2017,2017,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,115719,,,,77940416,,101388954,,,0
+H5,2017,2017,2017,6,1,4,Re-Import,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,214,,1267,,,0
+H5,2017,2017,2017,6,1,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,273,,,,211544,,356945,,,0
+H5,2017,2017,2017,6,1,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,160,,,,70971,,86948,,,2
+H5,2017,2017,2017,6,1,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,256,,117,,,2
+H5,2017,2017,2017,6,1,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,1065,,,6
+H5,2017,2017,2017,6,1,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,54,,,,10758,,16561,,,0
+H5,2017,2017,2017,6,1,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,10230,,,,1039415,,802015,,,0
+H5,2017,2017,2017,6,1,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,175649,,330217,,,2
+H5,2017,2017,2017,6,1,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,567,,,,111598,,291014,,,0
+H5,2017,2017,2017,6,1,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,550,,,,4950,,35508,,,0
+H5,2017,2017,2017,6,1,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,688,,,,223888,,372616,,,6
+H5,2017,2017,2017,6,1,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,11,,,,2242,,5532,,,6
+H5,2017,2017,2017,6,1,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,28700,,22593,,,2
+H5,2017,2017,2017,6,1,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,146,,,,88165,,131397,,,0
+H5,2017,2017,2017,6,1,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,1836,,3079,,,0
+H5,2017,2017,2017,6,1,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,263,,,,85801,,142799,,,6
+H5,2017,2017,2017,6,1,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,62,,,,,,94542,,,4
+H5,2017,2017,2017,6,1,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9,,,,9669,,7105,,,2
+H5,2017,2017,2017,6,1,1,Import,251,France,FRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4537,,,,1822156,,2446487,,,6
+H5,2017,2017,2017,6,1,2,Export,251,France,FRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,161,,,,28625,,75330,,,2
+H5,2017,2017,2017,6,1,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,48,,,,41785,,49321,,,0
+H5,2017,2017,2017,6,1,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,18,,,,14000,,27765,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,268,Georgia,GEO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,18,,,,14000,,27765,,,0
+H5,2017,2017,2017,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2466,,,,1285468,,2427744,,,2
+H5,2017,2017,2017,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,384,,,,223533,,515309,,,2
+H5,2017,2017,2017,6,1,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,172,,1427,,,0
+H5,2017,2017,2017,6,1,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,13,,,,1971,,15733,,,0
+H5,2017,2017,2017,6,1,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1633,,2494,,,2
+H5,2017,2017,2017,6,1,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,848339,,745165,,,2
+H5,2017,2017,2017,6,1,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,60,,,,645,,30145,,,2
+H5,2017,2017,2017,6,1,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,385,,,,193021,,208540,,,2
+H5,2017,2017,2017,6,1,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3605,,,,1173056,,1952312,,,6
+H5,2017,2017,2017,6,1,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3625,,,,1206763,,36389,,,0
+H5,2017,2017,2017,6,1,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,325,,1052,,,2
+H5,2017,2017,2017,6,1,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,280,,,,175679,,155525,,,2
+H5,2017,2017,2017,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,680183,,488531,,,2
+H5,2017,2017,2017,6,1,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,129,,,,25081,,65124,,,2
+H5,2017,2017,2017,6,1,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,11381,,,,819318,,1447563,,,0
+H5,2017,2017,2017,6,1,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,11,,399,,,0
+H5,2017,2017,2017,6,1,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,27,,,,9012,,15000,,,6
+H5,2017,2017,2017,6,1,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6460,,,,2647440,,1631282,,,0
+H5,2017,2017,2017,6,1,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,706,,,,319777,,653688,,,0
+H5,2017,2017,2017,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,3073503,,4915054,,,6
+H5,2017,2017,2017,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,14,,,,4458,,7062,,,6
+H5,2017,2017,2017,6,1,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,228258,,119273,,,2
+H5,2017,2017,2017,6,1,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,771,,,,620525,,417835,,,2
+H5,2017,2017,2017,6,1,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,45000,,,,45000,,142418,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,400,Jordan,JOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,40000,,,,40000,,124871,,,0
+H5,2017,2017,2017,6,1,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2062,,,,669376,,1116730,,,2
+H5,2017,2017,2017,6,1,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,173,,,,41685,,80580,,,6
+H5,2017,2017,2017,6,1,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,123936,,,,1954615,,1468362,,,0
+H5,2017,2017,2017,6,1,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,169,,,,169,,590,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,169,,,,169,,590,,,0
+H5,2017,2017,2017,6,1,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,52,,295,,,0
+H5,2017,2017,2017,6,1,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,46075,,73682,,,6
+H5,2017,2017,2017,6,1,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,3053411,,1802380,,,2
+H5,2017,2017,2017,6,1,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,440,,,,307646,,221028,,,2
+H5,2017,2017,2017,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1930,,2168,,,2
+H5,2017,2017,2017,6,1,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,8,,35,,,2
+H5,2017,2017,2017,6,1,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,12,,,,8173,,7560,,,0
+H5,2017,2017,2017,6,1,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,294,,,,189394,,138321,,,0
+H5,2017,2017,2017,6,1,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6,,,,4180,,3119,,,0
+H5,2017,2017,2017,6,1,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5865,,,,70785,,90012,,,0
+H5,2017,2017,2017,6,1,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,150,,,,838,,1066,,,0
+H5,2017,2017,2017,6,1,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,28807,,,,48493,,46727,,,0
+H5,2017,2017,2017,6,1,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,106,,,,40711,,65104,,,4
+H5,2017,2017,2017,6,1,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,193923,,292717,,,2
+H5,2017,2017,2017,6,1,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,324,,,,21415,,50926,,,0
+H5,2017,2017,2017,6,1,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1411,,,,42439,,70631,,,4
+H5,2017,2017,2017,6,1,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,379,,,,320832,,445604,,,2
+H5,2017,2017,2017,6,1,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5,,,,3550,,8123,,,0
+H5,2017,2017,2017,6,1,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,139,,,,100830,,32678,,,0
+H5,2017,2017,2017,6,1,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,4,,29,,,0
+H5,2017,2017,2017,6,1,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,180583,,158660,,,2
+H5,2017,2017,2017,6,1,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,15,,,,4480,,7527,,,2
+H5,2017,2017,2017,6,1,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,7861,,,,5039423,,4257219,,,2
+H5,2017,2017,2017,6,1,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,3131,,,,3131,,2109,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,512,Oman,OMN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,3131,,,,3131,,2109,,,0
+H5,2017,2017,2017,6,1,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,256,,,,175268,,138850,,,2
+H5,2017,2017,2017,6,1,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,65160,,,,21654922,,34537932,,,4
+H5,2017,2017,2017,6,1,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3558,,,,1182747,,2472403,,,4
+H5,2017,2017,2017,6,1,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,817150,,1306762,,,4
+H5,2017,2017,2017,6,1,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,207855,,329287,,,4
+H5,2017,2017,2017,6,1,4,Re-Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6,,,,4,,7,,,4
+H5,2017,2017,2017,6,1,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,158,,,,70342,,86093,,,2
+H5,2017,2017,2017,6,1,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,11,,,,3896,,5541,,,2
+H5,2017,2017,2017,6,1,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,444,,,,223382,,689929,,,0
+H5,2017,2017,2017,6,1,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,65,,,,4849,,20391,,,0
+H5,2017,2017,2017,6,1,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,97649,,232519,,,2
+H5,2017,2017,2017,6,1,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,58,,,,39717,,27140,,,2
+H5,2017,2017,2017,6,1,4,Re-Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,200,,,,200,,1121,,,0
+H5,2017,2017,2017,6,1,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1834214,,1249875,,,2
+H5,2017,2017,2017,6,1,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,93,,,,4033,,46835,,,2
+H5,2017,2017,2017,6,1,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1189,,,,40537,,63098,,,0
+H5,2017,2017,2017,6,1,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,206,,,,95516,,151364,,,2
+H5,2017,2017,2017,6,1,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,103,,,,9125,,34117,,,2
+H5,2017,2017,2017,6,1,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1193936,,1537968,,,2
+H5,2017,2017,2017,6,1,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4654,,,,1622493,,2334779,,,2
+H5,2017,2017,2017,6,1,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,73,,,,21689,,76844,,,0
+H5,2017,2017,2017,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,109,,,,72175,,81275,,,0
+H5,2017,2017,2017,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,33,,,,15776,,33816,,,0
+H5,2017,2017,2017,6,1,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,11,,,,1491,,6240,,,2
+H5,2017,2017,2017,6,1,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,52,,,,30053,,24637,,,2
+H5,2017,2017,2017,6,1,1,Import,699,India,IND,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1241,,,,287728,,460126,,,4
+H5,2017,2017,2017,6,1,2,Export,699,India,IND,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,615,,,,118244,,187324,,,4
+H5,2017,2017,2017,6,1,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,258310,,,,218909,,253505,,,0
+H5,2017,2017,2017,6,1,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,147,,,,100969,,83221,,,0
+H5,2017,2017,2017,6,1,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,305,,2282,,,0
+H5,2017,2017,2017,6,1,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,404453,,,,155720,,249024,,,4
+H5,2017,2017,2017,6,1,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,64536,,102239,,,6
+H5,2017,2017,2017,6,1,4,Re-Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,22,,,,5,,8,,,4
+H5,2017,2017,2017,6,1,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2445,,,,200646,,316292,,,0
+H5,2017,2017,2017,6,1,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1981287,,3032162,,,4
+H5,2017,2017,2017,6,1,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2074,,,,675037,,1123462,,,6
+H5,2017,2017,2017,6,1,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,2677,,3766,,,0
+H5,2017,2017,2017,6,1,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,10,,168,,,0
+H5,2017,2017,2017,6,1,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,375,,,,254729,,415575,,,4
+H5,2017,2017,2017,6,1,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,872,,,,630323,,1369956,,,4
+H5,2017,2017,2017,6,1,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,93657,,213977,,,6
+H5,2017,2017,2017,6,1,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9,,,,83,,4630,,,6
+H5,2017,2017,2017,6,1,4,Re-Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,142,,,,142,,449,,,0
+H5,2017,2017,2017,6,1,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,16847,,,,3736688,,2257019,,,4
+H5,2017,2017,2017,6,1,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,84559,,133067,,,6
+H5,2017,2017,2017,6,1,4,Re-Import,764,Thailand,THA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,41,,,,44,,337,,,0
+H5,2017,2017,2017,6,1,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,177,,424,,,0
+H5,2017,2017,2017,6,1,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,1273,,3048,,,0
+H5,2017,2017,2017,6,1,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,22230,,,,507480,,1321098,,,0
+H5,2017,2017,2017,6,1,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,847108,,1551090,,,6
+H5,2017,2017,2017,6,1,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,759,,,,1792907,,411061,,,2
+H5,2017,2017,2017,6,1,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,14,,,,5000,,6843,,,2
+H5,2017,2017,2017,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,66279,,,,42762957,,68385239,,,4
+H5,2017,2017,2017,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,30917,,,,7969751,,12625791,,,4
+H5,2017,2017,2017,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4256,,,,1028060,,1628668,,,4
+H5,2017,2017,2017,6,1,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,71,,518,,,0
+H5,2017,2017,2017,6,1,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,513900,,365168,,,2
+H5,2017,2017,2017,6,1,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,7500,,607,,,2
+H5,2018,2018,2018,6,1,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,640,,,,1479322,,390963,,,2
+H5,2018,2018,2018,6,1,2,Export,24,Angola,AGO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,0,,109,,,2
+H5,2018,2018,2018,6,1,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,83,,,,56317,,81084,,,0
+H5,2018,2018,2018,6,1,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2632,,,,946027,,1622062,,,4
+H5,2018,2018,2018,6,1,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,137,,,,22918,,51932,,,4
+H5,2018,2018,2018,6,1,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,249,,,,44036,,152344,,,2
+H5,2018,2018,2018,6,1,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,30,,373,,,2
+H5,2018,2018,2018,6,1,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,19250,,,,572299,,469873,,,0
+H5,2018,2018,2018,6,1,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1229,,,,53225,,17616,,,0
+H5,2018,2018,2018,6,1,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1229,,,,53225,,17616,,,0
+H5,2018,2018,2018,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,103,,,,78935,,20108,,,0
+H5,2018,2018,2018,6,1,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,17548,,,,,,1474167,,,4
+H5,2018,2018,2018,6,1,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,41764,,,,1959685,,1608078,,,4
+H5,2018,2018,2018,6,1,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,24943,,,,212069,,363615,,,4
+H5,2018,2018,2018,6,1,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,54,,,,1157,,2623,,,4
+H5,2018,2018,2018,6,1,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,4,,20,,,2
+H5,2018,2018,2018,6,1,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,15,,,,3141,,9654,,,2
+H5,2018,2018,2018,6,1,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3058,,,,8095,,48648,,,0
+H5,2018,2018,2018,6,1,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,376,,,,109398,,349804,,,2
+H5,2018,2018,2018,6,1,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,13,,,,504,,32913,,,0
+H5,2018,2018,2018,6,1,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,19,,,,3044,,5220,,,4
+H5,2018,2018,2018,6,1,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,12,,,,4489,,7706,,,0
+H5,2018,2018,2018,6,1,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,7142,,,,113998,,198373,,,6
+H5,2018,2018,2018,6,1,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,40,,,,14324,,24561,,,6
+H5,2018,2018,2018,6,1,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,61766,,,,2237541,,3836497,,,6
+H5,2018,2018,2018,6,1,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,359,,,,71769,,162623,,,4
+H5,2018,2018,2018,6,1,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,63,,,,6096,,13814,,,4
+H5,2018,2018,2018,6,1,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9041,,,,138168,,236905,,,6
+H5,2018,2018,2018,6,1,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,7,,16,,,6
+H5,2018,2018,2018,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,817,,,,539938,,2395009,,,6
+H5,2018,2018,2018,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,125948,,,,86645317,,122848151,,,6
+H5,2018,2018,2018,6,1,4,Re-Import,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,32,,213,,,6
+H5,2018,2018,2018,6,1,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1958,,,,76752,,162508,,,0
+H5,2018,2018,2018,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,24,,,,27896,,15124,,,2
+H5,2018,2018,2018,6,1,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,103600,,127430,,,0
+H5,2018,2018,2018,6,1,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,184,,,,89900,,112338,,,2
+H5,2018,2018,2018,6,1,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,114,,,,64656,,59468,,,0
+H5,2018,2018,2018,6,1,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,5,,75,,,0
+H5,2018,2018,2018,6,1,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,29,,,,4007,,5997,,,0
+H5,2018,2018,2018,6,1,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,71151,,,,1628947,,1435630,,,0
+H5,2018,2018,2018,6,1,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1539,,,,96838,,132830,,,0
+H5,2018,2018,2018,6,1,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,8688,,,,271153,,572444,,,0
+H5,2018,2018,2018,6,1,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3938,,,,187451,,277954,,,0
+H5,2018,2018,2018,6,1,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,782,,,,278472,,477469,,,6
+H5,2018,2018,2018,6,1,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,905,,5934,,,2
+H5,2018,2018,2018,6,1,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,233,,,,185897,,142407,,,2
+H5,2018,2018,2018,6,1,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,179,,,,106424,,285380,,,0
+H5,2018,2018,2018,6,1,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,107,,142,,,0
+H5,2018,2018,2018,6,1,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,46,,,,16539,,28359,,,6
+H5,2018,2018,2018,6,1,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,175,,398,,,6
+H5,2018,2018,2018,6,1,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,106,,,,36541,,119902,,,0
+H5,2018,2018,2018,6,1,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,12,,,,10288,,7827,,,2
+H5,2018,2018,2018,6,1,1,Import,251,France,FRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4088,,,,1455109,,2494935,,,6
+H5,2018,2018,2018,6,1,2,Export,251,France,FRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,100975,,228801,,,4
+H5,2018,2018,2018,6,1,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,364,,,,198,,1152,,,0
+H5,2018,2018,2018,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3062,,,,1710493,,3421726,,,2
+H5,2018,2018,2018,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,558,,,,320238,,732633,,,2
+H5,2018,2018,2018,6,1,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,441,,,,526603,,269207,,,2
+H5,2018,2018,2018,6,1,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,549611,,235912,,,2
+H5,2018,2018,2018,6,1,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,66,,,,2569,,6940,,,0
+H5,2018,2018,2018,6,1,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,14,,,,1180,,9731,,,0
+H5,2018,2018,2018,6,1,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,16693,,714,,,2
+H5,2018,2018,2018,6,1,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,743,,,,516642,,453452,,,2
+H5,2018,2018,2018,6,1,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,14000,,11329,,,2
+H5,2018,2018,2018,6,1,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,62,,,,37341,,38193,,,2
+H5,2018,2018,2018,6,1,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2544,,,,905595,,1552737,,,6
+H5,2018,2018,2018,6,1,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5623,,,,52338,,58666,,,6
+H5,2018,2018,2018,6,1,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,160,,,,95574,,103754,,,2
+H5,2018,2018,2018,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1749,,,,2271410,,1067448,,,2
+H5,2018,2018,2018,6,1,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,59394,,490359,,,2
+H5,2018,2018,2018,6,1,1,Import,364,Iran,IRN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,103,,,,23380,,62940,,,2
+H5,2018,2018,2018,6,1,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3228,,,,1193973,,1970174,,,2
+H5,2018,2018,2018,6,1,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,295,,8770,,,2
+H5,2018,2018,2018,6,1,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,18,,,,6415,,11000,,,6
+H5,2018,2018,2018,6,1,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2051,,,,1253294,,1127117,,,0
+H5,2018,2018,2018,6,1,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,89,,,,,,138104,,,4
+H5,2018,2018,2018,6,1,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,152,,,,56223,,92939,,,2
+H5,2018,2018,2018,6,1,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,2911,,1839,,,2
+H5,2018,2018,2018,6,1,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5994,,,,197635,,153502,,,0
+H5,2018,2018,2018,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,7140,,,,2541150,,4357066,,,6
+H5,2018,2018,2018,6,1,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,293,,,,349059,,178815,,,2
+H5,2018,2018,2018,6,1,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,92,,181,,,2
+H5,2018,2018,2018,6,1,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,335,,,,360213,,204849,,,2
+H5,2018,2018,2018,6,1,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,40500,,130770,,,2
+H5,2018,2018,2018,6,1,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1616,,,,,,986623,,,6
+H5,2018,2018,2018,6,1,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,67670,,105134,,,2
+H5,2018,2018,2018,6,1,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,616391,,,,1388616,,1089858,,,0
+H5,2018,2018,2018,6,1,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,106,,,,2915,,4927,,,0
+H5,2018,2018,2018,6,1,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6,,,,150,,478,,,0
+H5,2018,2018,2018,6,1,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,582,,,,207414,,355633,,,6
+H5,2018,2018,2018,6,1,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4704,,,,4005055,,2870948,,,2
+H5,2018,2018,2018,6,1,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,11230,,17962,,,2
+H5,2018,2018,2018,6,1,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,120,,723,,,2
+H5,2018,2018,2018,6,1,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,2280,,1699,,,0
+H5,2018,2018,2018,6,1,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,753,,,,448808,,351837,,,0
+H5,2018,2018,2018,6,1,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,46440,,,,59030,,78595,,,0
+H5,2018,2018,2018,6,1,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,61,,,,7279,,9697,,,0
+H5,2018,2018,2018,6,1,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,17112,,,,33344,,26191,,,0
+H5,2018,2018,2018,6,1,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,571,,,,159902,,274169,,,4
+H5,2018,2018,2018,6,1,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,543,,,,138295,,313366,,,4
+H5,2018,2018,2018,6,1,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,306,,,,108943,,186795,,,6
+H5,2018,2018,2018,6,1,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,19,,,,6030,,11770,,,2
+H5,2018,2018,2018,6,1,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,28,,,,8400,,61106,,,0
+H5,2018,2018,2018,6,1,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3209,,,,75998,,82770,,,0
+H5,2018,2018,2018,6,1,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,262,,,,213863,,270515,,,2
+H5,2018,2018,2018,6,1,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,8,,,,5254,,49998,,,2
+H5,2018,2018,2018,6,1,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,30,,,,24000,,9509,,,0
+H5,2018,2018,2018,6,1,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,2937,,6360,,,0
+H5,2018,2018,2018,6,1,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,3244,,8645,,,2
+H5,2018,2018,2018,6,1,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,35670,,,,184682,,188483,,,0
+H5,2018,2018,2018,6,1,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,475353,,272803,,,0
+H5,2018,2018,2018,6,1,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,94450,,38527,,,0
+H5,2018,2018,2018,6,1,3,Re-Export,512,Oman,OMN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,28200,,25524,,,0
+H5,2018,2018,2018,6,1,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,94,,,,33477,,57399,,,6
+H5,2018,2018,2018,6,1,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,606,,1374,,,6
+H5,2018,2018,2018,6,1,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,65200,,,,21668474,,25550596,,,4
+H5,2018,2018,2018,6,1,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2221,,,,738383,,2076863,,,4
+H5,2018,2018,2018,6,1,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1455156,,2495016,,,4
+H5,2018,2018,2018,6,1,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,163,,,,60754,,137664,,,6
+H5,2018,2018,2018,6,1,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,214,,487,,,6
+H5,2018,2018,2018,6,1,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,1453,,2789,,,2
+H5,2018,2018,2018,6,1,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,10636,,21378,,,2
+H5,2018,2018,2018,6,1,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,50,,,,37765,,30760,,,2
+H5,2018,2018,2018,6,1,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,992,,,,546029,,1562047,,,0
+H5,2018,2018,2018,6,1,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,204,,,,2409,,15586,,,0
+H5,2018,2018,2018,6,1,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,445,,,,,,2215,,,0
+H5,2018,2018,2018,6,1,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,241,,,,40271,,147333,,,2
+H5,2018,2018,2018,6,1,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,122298,,64102,,,2
+H5,2018,2018,2018,6,1,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,40,,,,27739,,52139,,,0
+H5,2018,2018,2018,6,1,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,10100,,,,7001,,37905,,,2
+H5,2018,2018,2018,6,1,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,761,,3607,,,2
+H5,2018,2018,2018,6,1,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2957,,,,1333366,,1804677,,,2
+H5,2018,2018,2018,6,1,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,2156671,,3366886,,,2
+H5,2018,2018,2018,6,1,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,97,,,,52397,,120823,,,6
+H5,2018,2018,2018,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,3220,,14317,,,0
+H5,2018,2018,2018,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,289,,,,200755,,140720,,,6
+H5,2018,2018,2018,6,1,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1113,,,,923977,,679340,,,2
+H5,2018,2018,2018,6,1,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,10800,,,,10800,,3054,,,0
+H5,2018,2018,2018,6,1,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,10800,,,,10800,,3054,,,0
+H5,2018,2018,2018,6,1,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,11,,,,13084,,6963,,,2
+H5,2018,2018,2018,6,1,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,80,,548,,,2
+H5,2018,2018,2018,6,1,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,118,,,,42746,,72005,,,2
+H5,2018,2018,2018,6,1,1,Import,699,India,IND,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,992,,,,247650,,424621,,,4
+H5,2018,2018,2018,6,1,2,Export,699,India,IND,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,386,,,,47926,,108597,,,4
+H5,2018,2018,2018,6,1,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,248211,,,,10554412,,18096638,,,4
+H5,2018,2018,2018,6,1,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,85442,,,,443768,,1005544,,,6
+H5,2018,2018,2018,6,1,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,704,,,,231218,,285931,,,0
+H5,2018,2018,2018,6,1,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,915,,2297,,,0
+H5,2018,2018,2018,6,1,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,359,,,,128020,,219503,,,6
+H5,2018,2018,2018,6,1,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,131253,,297409,,,6
+H5,2018,2018,2018,6,1,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,268,,,,170151,,193756,,,0
+H5,2018,2018,2018,6,1,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,31,,,,10690,,13876,,,0
+H5,2018,2018,2018,6,1,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,184980,,,,155130,,265986,,,4
+H5,2018,2018,2018,6,1,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,21084,,,,75454,,170974,,,4
+H5,2018,2018,2018,6,1,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,52,,,,12700,,31822,,,2
+H5,2018,2018,2018,6,1,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6908,,,,115259,,321658,,,0
+H5,2018,2018,2018,6,1,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4775,,,,1629423,,2620862,,,0
+H5,2018,2018,2018,6,1,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,721,,,,892032,,440003,,,2
+H5,2018,2018,2018,6,1,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,5854,,12231,,,0
+H5,2018,2018,2018,6,1,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,36470,,2070,,,0
+H5,2018,2018,2018,6,1,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,878,,,,695787,,1118816,,,4
+H5,2018,2018,2018,6,1,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,829,,,,565607,,1620305,,,6
+H5,2018,2018,2018,6,1,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,197,,,,103148,,339180,,,6
+H5,2018,2018,2018,6,1,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,3847,,2733,,,4
+H5,2018,2018,2018,6,1,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,2429061,,1967349,,,2
+H5,2018,2018,2018,6,1,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,477,,,,11016,,36764,,,6
+H5,2018,2018,2018,6,1,4,Re-Import,764,Thailand,THA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,10,,239,,,0
+H5,2018,2018,2018,6,1,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6434,,,,81000,,16127,,,0
+H5,2018,2018,2018,6,1,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,10406,,,,10233643,,6350135,,,2
+H5,2018,2018,2018,6,1,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,465590,,373265,,,2
+H5,2018,2018,2018,6,1,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,465590,,373265,,,2
+H5,2018,2018,2018,6,1,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,114,,,,40785,,69854,,,2
+H5,2018,2018,2018,6,1,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,7,,,,1356,,3492,,,0
+H5,2018,2018,2018,6,1,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,13,,,,4425,,14052,,,0
+H5,2018,2018,2018,6,1,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,1978,,302,,,2
+H5,2018,2018,2018,6,1,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,862592,,534607,,,2
+H5,2018,2018,2018,6,1,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,287416,,,,974047,,2096007,,,0
+H5,2018,2018,2018,6,1,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,10935,,,,766608,,1290764,,,0
+H5,2018,2018,2018,6,1,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,943,,,,1506274,,575687,,,2
+H5,2018,2018,2018,6,1,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,198682,,2972,,,6
+H5,2018,2018,2018,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,60563,,,,43400358,,74414428,,,4
+H5,2018,2018,2018,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,39143,,,,7502910,,17001011,,,4
+H5,2018,2018,2018,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2596,,,,606677,,1374685,,,4
+H5,2018,2018,2018,6,1,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,343,,450,,,0
+H5,2018,2018,2018,6,1,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,344,,,,200176,,343223,,,4
+H5,2018,2018,2018,6,1,2,Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,2360,,5348,,,4
+H5,2018,2018,2018,6,1,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2111,,,,,,1288174,,,6
+H5,2018,2018,2018,6,1,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",5,Number of items,21716,,,,21716,,29136,,,0
+H5,2018,2018,2018,6,1,3,Re-Export,887,Yemen,YEM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",5,Number of items,21716,,,,21716,,29136,,,0
+H5,2018,2018,2018,6,1,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,248,,,,208900,,151676,,,2
+H5,2019,2019,2019,6,1,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,459,,,,1650302,,401706,,,2
+H5,2019,2019,2019,6,1,2,Export,24,Angola,AGO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,69,,,,40265,,36888,,,2
+H5,2019,2019,2019,6,1,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,159,,,,3124,,24216,,,0
+H5,2019,2019,2019,6,1,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2678,,,,934222,,1595362,,,4
+H5,2019,2019,2019,6,1,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,742,,,,,,195072,,,4
+H5,2019,2019,2019,6,1,4,Re-Import,36,Australia,AUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,428,,731,,,4
+H5,2019,2019,2019,6,1,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,56496,,237684,,,2
+H5,2019,2019,2019,6,1,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9,,,,885,,5370,,,6
+H5,2019,2019,2019,6,1,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6019,,,,67287,,82739,,,0
+H5,2019,2019,2019,6,1,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,42,,,,52410,,37385,,,2
+H5,2019,2019,2019,6,1,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5,,,,1618,,2801,,,2
+H5,2019,2019,2019,6,1,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,39657,,,,658685,,1018273,,,0
+H5,2019,2019,2019,6,1,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2433,,,,65893,,167452,,,0
+H5,2019,2019,2019,6,1,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,426,,,,5904,,373101,,,6
+H5,2019,2019,2019,6,1,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,17,,,,11000,,12685,,,0
+H5,2019,2019,2019,6,1,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,10965,,,,454721,,328076,,,0
+H5,2019,2019,2019,6,1,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,133,,,,72526,,241785,,,2
+H5,2019,2019,2019,6,1,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1,,421,,,6
+H5,2019,2019,2019,6,1,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,22,,,,6677,,13042,,,2
+H5,2019,2019,2019,6,1,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,410,,933,,,0
+H5,2019,2019,2019,6,1,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,544,,,,101949,,138630,,,6
+H5,2019,2019,2019,6,1,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,467,,719,,,6
+H5,2019,2019,2019,6,1,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9,,,,10000,,8411,,,2
+H5,2019,2019,2019,6,1,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,22,,,,14905,,14700,,,0
+H5,2019,2019,2019,6,1,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,950,,2300,,,0
+H5,2019,2019,2019,6,1,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2849,,,,4007075,,2490493,,,2
+H5,2019,2019,2019,6,1,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,801,,,,116400,,423618,,,2
+H5,2019,2019,2019,6,1,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,35980,,,,1968788,,2893237,,,4
+H5,2019,2019,2019,6,1,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1218,,,,255518,,393289,,,4
+H5,2019,2019,2019,6,1,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,135,,,,82668,,127241,,,4
+H5,2019,2019,2019,6,1,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6843,,,,38271,,45278,,,0
+H5,2019,2019,2019,6,1,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,29609,,,,138809,,203988,,,4
+H5,2019,2019,2019,6,1,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5782,,,,0,,143055,,,4
+H5,2019,2019,2019,6,1,3,Re-Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2931,,,,0,,131084,,,0
+H5,2019,2019,2019,6,1,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,28296,,,,115628,,197457,,,4
+H5,2019,2019,2019,6,1,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,,,12,,,6
+H5,2019,2019,2019,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,38414,,,,954435,,1487507,,,6
+H5,2019,2019,2019,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,101849,,,,64918677,,88666682,,,6
+H5,2019,2019,2019,6,1,4,Re-Import,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,15,,,,3427,,3516,,,6
+H5,2019,2019,2019,6,1,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,21711,,,,179405,,247709,,,0
+H5,2019,2019,2019,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,15202,,22574,,,2
+H5,2019,2019,2019,6,1,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,105028,,,4
+H5,2019,2019,2019,6,1,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,250,,,,118611,,218890,,,2
+H5,2019,2019,2019,6,1,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,81,,693,,,2
+H5,2019,2019,2019,6,1,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,16,,,,3161,,18132,,,0
+H5,2019,2019,2019,6,1,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,1611,,8777,,,0
+H5,2019,2019,2019,6,1,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,15,,,,67,,501,,,0
+H5,2019,2019,2019,6,1,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,53646,,,,554107,,508998,,,2
+H5,2019,2019,2019,6,1,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1883,,,,87515,,81264,,,0
+H5,2019,2019,2019,6,1,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,121264,,77924,,,2
+H5,2019,2019,2019,6,1,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1693,,,,215628,,512078,,,0
+H5,2019,2019,2019,6,1,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,694,,,,92043,,47856,,,0
+H5,2019,2019,2019,6,1,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,239,,,,102280,,208887,,,2
+H5,2019,2019,2019,6,1,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,63,,,,784,,33360,,,2
+H5,2019,2019,2019,6,1,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,18,,,,9370,,10020,,,2
+H5,2019,2019,2019,6,1,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,89,,,,112043,,78498,,,2
+H5,2019,2019,2019,6,1,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,2393,,2288,,,2
+H5,2019,2019,2019,6,1,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,773,,,,644850,,676197,,,2
+H5,2019,2019,2019,6,1,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,69,,,,45207,,118881,,,2
+H5,2019,2019,2019,6,1,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,950,,844,,,0
+H5,2019,2019,2019,6,1,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,25,,,,15222,,22369,,,6
+H5,2019,2019,2019,6,1,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,1401,,2157,,,6
+H5,2019,2019,2019,6,1,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,102,,,,960,,119002,,,4
+H5,2019,2019,2019,6,1,1,Import,251,France,FRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2043,,,,1084666,,1774383,,,6
+H5,2019,2019,2019,6,1,2,Export,251,France,FRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,121,,,,13822,,64120,,,2
+H5,2019,2019,2019,6,1,4,Re-Import,251,France,FRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,2850,,3828,,,2
+H5,2019,2019,2019,6,1,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,8,,,,2258,,7142,,,0
+H5,2019,2019,2019,6,1,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,15,,,,9565,,16214,,,0
+H5,2019,2019,2019,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2794,,,,1561881,,3089899,,,2
+H5,2019,2019,2019,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,786,,,,442082,,1023909,,,6
+H5,2019,2019,2019,6,1,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,459939,,274149,,,0
+H5,2019,2019,2019,6,1,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,99819,,69709,,,0
+H5,2019,2019,2019,6,1,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,292,,,,5329,,32334,,,0
+H5,2019,2019,2019,6,1,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,46,,,,417,,3780,,,0
+H5,2019,2019,2019,6,1,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,596387,,485849,,,6
+H5,2019,2019,2019,6,1,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,45,,29,,,2
+H5,2019,2019,2019,6,1,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,49,,,,25042,,20796,,,2
+H5,2019,2019,2019,6,1,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,110,,,,100612,,96499,,,2
+H5,2019,2019,2019,6,1,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1145244,,1955723,,,6
+H5,2019,2019,2019,6,1,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,,,1800,,,6
+H5,2019,2019,2019,6,1,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1506,,,,500527,,1028695,,,2
+H5,2019,2019,2019,6,1,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,47294,,,,15717040,,99897,,,0
+H5,2019,2019,2019,6,1,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,39,,,,22324,,48930,,,2
+H5,2019,2019,2019,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,415,,,,201892,,362851,,,2
+H5,2019,2019,2019,6,1,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,760,,,,48301,,402204,,,2
+H5,2019,2019,2019,6,1,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,11605,,,,1076059,,1911639,,,0
+H5,2019,2019,2019,6,1,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,68,,,,371,,7081,,,0
+H5,2019,2019,2019,6,1,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,96036,,164000,,,6
+H5,2019,2019,2019,6,1,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,19,,,,,,11000,,,6
+H5,2019,2019,2019,6,1,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1727,,,,975435,,710480,,,0
+H5,2019,2019,2019,6,1,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,86,,,,30040,,80533,,,0
+H5,2019,2019,2019,6,1,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,462371,,483952,,,2
+H5,2019,2019,2019,6,1,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,177,,,,15136,,55332,,,0
+H5,2019,2019,2019,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4657,,,,2769959,,4070599,,,6
+H5,2019,2019,2019,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,7,,,,2455,,3779,,,6
+H5,2019,2019,2019,6,1,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,486642,,282660,,,2
+H5,2019,2019,2019,6,1,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,20762,,18433,,,2
+H5,2019,2019,2019,6,1,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,90000,,184552,,,2
+H5,2019,2019,2019,6,1,3,Re-Export,400,Jordan,JOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,70000,,,,70000,,153133,,,0
+H5,2019,2019,2019,6,1,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1051,,,,1400748,,918577,,,2
+H5,2019,2019,2019,6,1,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1313427,,1241923,,,2
+H5,2019,2019,2019,6,1,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,113,,,,25861,,65241,,,6
+H5,2019,2019,2019,6,1,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,311706,,,,903624,,708524,,,0
+H5,2019,2019,2019,6,1,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,53978,,,,62696,,69903,,,0
+H5,2019,2019,2019,6,1,3,Re-Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,47810,,,,56528,,62867,,,0
+H5,2019,2019,2019,6,1,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,690,,439,,,0
+H5,2019,2019,2019,6,1,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2759,,,,3658035,,2411379,,,2
+H5,2019,2019,2019,6,1,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,48,,,,34866,,25907,,,2
+H5,2019,2019,2019,6,1,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,452,,6578,,,0
+H5,2019,2019,2019,6,1,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,1070,,869,,,0
+H5,2019,2019,2019,6,1,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2812,,,,1790089,,1162436,,,0
+H5,2019,2019,2019,6,1,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,491,,,,354264,,33618,,,0
+H5,2019,2019,2019,6,1,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,174,,,,14533,,18336,,,0
+H5,2019,2019,2019,6,1,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1777,,,,63999,,54381,,,0
+H5,2019,2019,2019,6,1,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,129,,,,140987,,112882,,,2
+H5,2019,2019,2019,6,1,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,1736,,1750,,,2
+H5,2019,2019,2019,6,1,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,355,,,,113446,,166715,,,4
+H5,2019,2019,2019,6,1,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,659,,,,221162,,340409,,,4
+H5,2019,2019,2019,6,1,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,579,,,,344635,,506459,,,6
+H5,2019,2019,2019,6,1,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,16,,,,24503,,14737,,,2
+H5,2019,2019,2019,6,1,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,28210,,121756,,,2
+H5,2019,2019,2019,6,1,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5672,,,,82762,,90844,,,0
+H5,2019,2019,2019,6,1,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,560,,,,190,,1231,,,0
+H5,2019,2019,2019,6,1,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,17425,,33851,,,0
+H5,2019,2019,2019,6,1,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,10410,,23490,,,0
+H5,2019,2019,2019,6,1,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,115,,,,68600,,63352,,,0
+H5,2019,2019,2019,6,1,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,400,,,,267565,,249752,,,0
+H5,2019,2019,2019,6,1,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,289,,,,150016,,149514,,,2
+H5,2019,2019,2019,6,1,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,28,,,,2671,,43877,,,2
+H5,2019,2019,2019,6,1,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,28364,,,,143857,,211406,,,4
+H5,2019,2019,2019,6,1,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,0,,234434,,,6
+H5,2019,2019,2019,6,1,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,0,,141,,,0
+H5,2019,2019,2019,6,1,3,Re-Export,516,Namibia,NAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,0,,141,,,0
+H5,2019,2019,2019,6,1,4,Re-Import,516,Namibia,NAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,0,,6,,,0
+H5,2019,2019,2019,6,1,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,245,,,,145835,,214312,,,6
+H5,2019,2019,2019,6,1,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,41060,,,,13646075,,15543123,,,4
+H5,2019,2019,2019,6,1,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3202,,,,1064137,,1803287,,,4
+H5,2019,2019,2019,6,1,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1324745,,1946782,,,4
+H5,2019,2019,2019,6,1,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,282,,,,185693,,285816,,,6
+H5,2019,2019,2019,6,1,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,8,,,,5571,,8575,,,6
+H5,2019,2019,2019,6,1,4,Re-Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,4,,6,,,4
+H5,2019,2019,2019,6,1,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,10,,,,3329,,9366,,,2
+H5,2019,2019,2019,6,1,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,500,,1362,,,2
+H5,2019,2019,2019,6,1,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,34,,,,20754,,30499,,,6
+H5,2019,2019,2019,6,1,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,717,,,,423689,,1281123,,,0
+H5,2019,2019,2019,6,1,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,286,,,,6708,,20976,,,0
+H5,2019,2019,2019,6,1,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,78,,,,38312,,68807,,,2
+H5,2019,2019,2019,6,1,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,7,,,,6420,,4166,,,2
+H5,2019,2019,2019,6,1,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,200,,,,46087,,93779,,,0
+H5,2019,2019,2019,6,1,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1409,,,,733680,,1252899,,,4
+H5,2019,2019,2019,6,1,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,,,100,,,4
+H5,2019,2019,2019,6,1,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,35,,,,18498,,57518,,,0
+H5,2019,2019,2019,6,1,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,511,,,,14150,,28243,,,2
+H5,2019,2019,2019,6,1,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4646,,,,965496,,1338794,,,0
+H5,2019,2019,2019,6,1,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,28804,,,,1369021,,2020419,,,0
+H5,2019,2019,2019,6,1,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,66,,,,22157,,58782,,,6
+H5,2019,2019,2019,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,13600,,20475,,,2
+H5,2019,2019,2019,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,324,,,,264757,,186381,,,2
+H5,2019,2019,2019,6,1,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,976,,,,1197305,,853206,,,2
+H5,2019,2019,2019,6,1,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,243,,,,268615,,212556,,,2
+H5,2019,2019,2019,6,1,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,58,,,,36901,,49673,,,2
+H5,2019,2019,2019,6,1,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,1,,16,,,2
+H5,2019,2019,2019,6,1,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,78841,,57109,,,2
+H5,2019,2019,2019,6,1,1,Import,699,India,IND,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1378,,,,233119,,342580,,,4
+H5,2019,2019,2019,6,1,2,Export,699,India,IND,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1217,,,,89195,,137287,,,4
+H5,2019,2019,2019,6,1,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,188765,,,,11284340,,16582924,,,4
+H5,2019,2019,2019,6,1,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,28533,,,,330905,,509324,,,4
+H5,2019,2019,2019,6,1,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,589,,,,188377,,243286,,,0
+H5,2019,2019,2019,6,1,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1038800,,1773949,,,6
+H5,2019,2019,2019,6,1,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,530,,,,,,304460,,,6
+H5,2019,2019,2019,6,1,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,122,,,,64463,,81328,,,0
+H5,2019,2019,2019,6,1,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9,,,,4488,,7816,,,0
+H5,2019,2019,2019,6,1,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,25156431,,,,178538,,262372,,,4
+H5,2019,2019,2019,6,1,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,60760,,93522,,,6
+H5,2019,2019,2019,6,1,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,272187,,260180,,,2
+H5,2019,2019,2019,6,1,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,38160,,,,121566,,488689,,,0
+H5,2019,2019,2019,6,1,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,35297,,,,1746403,,2468890,,,0
+H5,2019,2019,2019,6,1,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,36168,,19420,,,2
+H5,2019,2019,2019,6,1,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,284,,,,167207,,320351,,,4
+H5,2019,2019,2019,6,1,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,755,,,,498321,,1248420,,,4
+H5,2019,2019,2019,6,1,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,222,,,,100881,,258457,,,6
+H5,2019,2019,2019,6,1,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,773,,21758,,,4
+H5,2019,2019,2019,6,1,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,11355,,,,1089215,,1600658,,,6
+H5,2019,2019,2019,6,1,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1270,,,,444648,,684395,,,6
+H5,2019,2019,2019,6,1,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3876,,,,73626,,97722,,,0
+H5,2019,2019,2019,6,1,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3709,,,,5003532,,3241723,,,2
+H5,2019,2019,2019,6,1,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,690,,,,224253,,365351,,,2
+H5,2019,2019,2019,6,1,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,690,,,,223948,,364953,,,2
+H5,2019,2019,2019,6,1,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,8648,,27453,,,2
+H5,2019,2019,2019,6,1,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,523,,,,19476,,300539,,,2
+H5,2019,2019,2019,6,1,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,44,,,,9445,,19402,,,0
+H5,2019,2019,2019,6,1,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,113,,,,52524,,39562,,,0
+H5,2019,2019,2019,6,1,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,32,,,,40283,,28344,,,2
+H5,2019,2019,2019,6,1,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2006,,,,1602575,,1060986,,,2
+H5,2019,2019,2019,6,1,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1332,,,,1722,,16284,,,2
+H5,2019,2019,2019,6,1,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,58967,,,,437472,,1235789,,,2
+H5,2019,2019,2019,6,1,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,14742,,,,986515,,1483599,,,0
+H5,2019,2019,2019,6,1,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1137278,,698902,,,2
+H5,2019,2019,2019,6,1,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,801060,,421250,,,2
+H5,2019,2019,2019,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,42313,,,,31724287,,46620487,,,4
+H5,2019,2019,2019,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,35717,,,,9639765,,14837356,,,4
+H5,2019,2019,2019,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2355,,,,671175,,1033061,,,4
+H5,2019,2019,2019,6,1,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,11,,,,102904,,9785,,,2
+H5,2019,2019,2019,6,1,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,1381,,4119,,,0
+H5,2019,2019,2019,6,1,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,860,,,,263653,,450238,,,4
+H5,2019,2019,2019,6,1,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,74143409,,11291798,,,2
+H5,2019,2019,2019,6,1,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",5,Number of items,5650,,,,5650,,13546,,,0
+H5,2019,2019,2019,6,1,3,Re-Export,887,Yemen,YEM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",5,Number of items,5650,,,,5650,,13546,,,0
+H5,2019,2019,2019,6,1,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,29868,,28862,,,2
+H5,2020,2020,2020,6,1,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,0,,21,,,0
+H5,2020,2020,2020,6,1,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2757,,,,845877,,1285210,,,4
+H5,2020,2020,2020,6,1,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,582,,,,33471,,48780,,,4
+H5,2020,2020,2020,6,1,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,220,,,,42429,,150150,,,2
+H5,2020,2020,2020,6,1,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,11,,125,,,2
+H5,2020,2020,2020,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,63,,,,47322,,19517,,,0
+H5,2020,2020,2020,6,1,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,31177,,,,932942,,1099982,,,0
+H5,2020,2020,2020,6,1,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,960,,,,,,168790,,,4
+H5,2020,2020,2020,6,1,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2539,,,,,,247890,,,0
+H5,2020,2020,2020,6,1,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,206,,2731,,,2
+H5,2020,2020,2020,6,1,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,60,,59,,,2
+H5,2020,2020,2020,6,1,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,244,,,,283513,,166824,,,2
+H5,2020,2020,2020,6,1,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,202,,,,100932,,310152,,,0
+H5,2020,2020,2020,6,1,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5,,,,36,,1921,,,2
+H5,2020,2020,2020,6,1,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,3,,1223,,,2
+H5,2020,2020,2020,6,1,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,23,,,,8214,,18398,,,0
+H5,2020,2020,2020,6,1,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,1210,,9519,,,0
+H5,2020,2020,2020,6,1,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,67,,,,9184,,13954,,,4
+H5,2020,2020,2020,6,1,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,151,,,,109950,,93162,,,2
+H5,2020,2020,2020,6,1,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,29,,,,20043,,14100,,,0
+H5,2020,2020,2020,6,1,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,8737,,,,8736163,,5356313,,,2
+H5,2020,2020,2020,6,1,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,185,,,,81349,,114887,,,2
+H5,2020,2020,2020,6,1,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,20820,,,,3277563,,4234043,,,4
+H5,2020,2020,2020,6,1,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2119,,,,212669,,338745,,,4
+H5,2020,2020,2020,6,1,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,19,,,,12079,,19240,,,4
+H5,2020,2020,2020,6,1,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,23,,,,9362,,14554,,,2
+H5,2020,2020,2020,6,1,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,141,,,,29909,,45444,,,4
+H5,2020,2020,2020,6,1,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3355,,,,0,,147279,,,4
+H5,2020,2020,2020,6,1,3,Re-Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3318,,,,0,,129880,,,0
+H5,2020,2020,2020,6,1,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,22799,,,,90899,,117425,,,4
+H5,2020,2020,2020,6,1,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,7,,12,,,6
+H5,2020,2020,2020,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,701,,,,447048,,759811,,,2
+H5,2020,2020,2020,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,83758,,,,53488122,,71645304,,,2
+H5,2020,2020,2020,6,1,4,Re-Import,156,China,CHN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,215,,2674,,,2
+H5,2020,2020,2020,6,1,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,403,,,,215652,,274935,,,2
+H5,2020,2020,2020,6,1,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,300,,,,32886,,68886,,,0
+H5,2020,2020,2020,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,61,,,,54200,,37570,,,2
+H5,2020,2020,2020,6,1,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,15,,,,10148,,9397,,,2
+H5,2020,2020,2020,6,1,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,280,,,,122508,,171989,,,6
+H5,2020,2020,2020,6,1,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,56,,,,1542,,8577,,,0
+H5,2020,2020,2020,6,1,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,398,,2371,,,0
+H5,2020,2020,2020,6,1,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,19,,,,169,,2625,,,0
+H5,2020,2020,2020,6,1,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,678,,,,205376,,237704,,,2
+H5,2020,2020,2020,6,1,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,242,,,,47700,,44810,,,0
+H5,2020,2020,2020,6,1,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,75,,,,28519,,46288,,,2
+H5,2020,2020,2020,6,1,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9098,,,,195610,,424978,,,0
+H5,2020,2020,2020,6,1,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,282,,,,54963,,28606,,,0
+H5,2020,2020,2020,6,1,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,75,,,,25500,,46033,,,2
+H5,2020,2020,2020,6,1,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,442,,468,,,2
+H5,2020,2020,2020,6,1,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,702,,3024,,,2
+H5,2020,2020,2020,6,1,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,15,,,,3952,,9400,,,2
+H5,2020,2020,2020,6,1,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1777,,,,1100050,,1089424,,,2
+H5,2020,2020,2020,6,1,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,171,,,,105013,,292365,,,0
+H5,2020,2020,2020,6,1,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,1857,,3626,,,0
+H5,2020,2020,2020,6,1,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,0,,23,,,0
+H5,2020,2020,2020,6,1,3,Re-Export,242,Fiji,FJI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,0,,23,,,0
+H5,2020,2020,2020,6,1,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,72,,,,23515,,58518,,,4
+H5,2020,2020,2020,6,1,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,4,,11,,,2
+H5,2020,2020,2020,6,1,1,Import,251,France,FRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,47458,,,,592259,,1105839,,,4
+H5,2020,2020,2020,6,1,2,Export,251,France,FRA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3381,,,,394676,,41532,,,0
+H5,2020,2020,2020,6,1,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,35,,,,4051,,13274,,,0
+H5,2020,2020,2020,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2929,,,,1662249,,3036791,,,6
+H5,2020,2020,2020,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,670,,,,395542,,1214090,,,2
+H5,2020,2020,2020,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3427,,,,107944,,139446,,,4
+H5,2020,2020,2020,6,1,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,271,,,,30724,,44143,,,0
+H5,2020,2020,2020,6,1,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5,,,,1035,,1593,,,0
+H5,2020,2020,2020,6,1,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,313,,,,231006,,213202,,,2
+H5,2020,2020,2020,6,1,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,62,,,,11922,,26531,,,2
+H5,2020,2020,2020,6,1,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,247,,,,2192,,2501,,,0
+H5,2020,2020,2020,6,1,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2690,,,,1330378,,2256731,,,6
+H5,2020,2020,2020,6,1,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,9,,,6
+H5,2020,2020,2020,6,1,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2932,,,,650873,,680507,,,0
+H5,2020,2020,2020,6,1,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,174,,,,33241,,1659,,,2
+H5,2020,2020,2020,6,1,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,22,,,,4550,,13683,,,2
+H5,2020,2020,2020,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3120,,,,2530882,,2124797,,,2
+H5,2020,2020,2020,6,1,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,832,,,,113507,,355457,,,2
+H5,2020,2020,2020,6,1,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9008,,,,1047710,,1830530,,,4
+H5,2020,2020,2020,6,1,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4,,,,5,,325,,,0
+H5,2020,2020,2020,6,1,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,444,,,,1192,,303000,,,2
+H5,2020,2020,2020,6,1,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,798,,,,486710,,397419,,,0
+H5,2020,2020,2020,6,1,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,551,,,,289656,,327248,,,0
+H5,2020,2020,2020,6,1,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,48,,,,23645,,29592,,,2
+H5,2020,2020,2020,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5902,,,,2645628,,4019718,,,6
+H5,2020,2020,2020,6,1,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3025,,,,1442575,,495623,,,0
+H5,2020,2020,2020,6,1,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,0,,8422,,,0
+H5,2020,2020,2020,6,1,3,Re-Export,400,Jordan,JOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,0,,8422,,,0
+H5,2020,2020,2020,6,1,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,1223300,,,6
+H5,2020,2020,2020,6,1,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,65436,,,,2497002,,1904814,,,0
+H5,2020,2020,2020,6,1,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,496,,,,19288,,71055,,,2
+H5,2020,2020,2020,6,1,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,452,,,,393815,,307990,,,2
+H5,2020,2020,2020,6,1,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,85715,,37697,,,2
+H5,2020,2020,2020,6,1,3,Re-Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,77980,,,,77980,,34150,,,0
+H5,2020,2020,2020,6,1,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,20,,,,77604,,12328,,,2
+H5,2020,2020,2020,6,1,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,301,,,,343357,,205655,,,2
+H5,2020,2020,2020,6,1,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,20,,,,4808,,8703,,,2
+H5,2020,2020,2020,6,1,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,21,,,,10992,,13680,,,0
+H5,2020,2020,2020,6,1,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6,,,,3020,,2397,,,0
+H5,2020,2020,2020,6,1,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,886,,,,571360,,399060,,,0
+H5,2020,2020,2020,6,1,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,40,,119,,,0
+H5,2020,2020,2020,6,1,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,16,,,,9689,,12472,,,0
+H5,2020,2020,2020,6,1,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,169,,,,120963,,104015,,,2
+H5,2020,2020,2020,6,1,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,84,,,,60620,,51989,,,2
+H5,2020,2020,2020,6,1,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,3040,,1827,,,2
+H5,2020,2020,2020,6,1,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,8,,,,1910,,2903,,,4
+H5,2020,2020,2020,6,1,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,26,,,,6186,,9016,,,4
+H5,2020,2020,2020,6,1,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,28,,,,11830,,31958,,,0
+H5,2020,2020,2020,6,1,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,67,,,,213580,,41245,,,2
+H5,2020,2020,2020,6,1,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,100,,,,72000,,58484,,,0
+H5,2020,2020,2020,6,1,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,44,,,,37000,,26869,,,0
+H5,2020,2020,2020,6,1,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,10,,,,4640,,5581,,,0
+H5,2020,2020,2020,6,1,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,1623,,20811,,,0
+H5,2020,2020,2020,6,1,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,854,,1157,,,0
+H5,2020,2020,2020,6,1,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,847,,,,6082,,11772,,,0
+H5,2020,2020,2020,6,1,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,79998,,,,106094,,137055,,,4
+H5,2020,2020,2020,6,1,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,317,,,,133437,,265963,,,2
+H5,2020,2020,2020,6,1,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,3590,,9590,,,2
+H5,2020,2020,2020,6,1,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,27874,,,,9265017,,10997645,,,6
+H5,2020,2020,2020,6,1,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3434,,,,1141606,,2406164,,,4
+H5,2020,2020,2020,6,1,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4095,,,,1652603,,2134877,,,6
+H5,2020,2020,2020,6,1,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,280,,,,168162,,267852,,,6
+H5,2020,2020,2020,6,1,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6,,,,3556,,5665,,,6
+H5,2020,2020,2020,6,1,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,18,,,,2778,,11290,,,2
+H5,2020,2020,2020,6,1,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,700,,1418,,,2
+H5,2020,2020,2020,6,1,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,7,,,,13807,,4717,,,2
+H5,2020,2020,2020,6,1,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,119,,,,18842,,95155,,,0
+H5,2020,2020,2020,6,1,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,16,,,,54,,808,,,0
+H5,2020,2020,2020,6,1,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,27,,,,8002,,18768,,,2
+H5,2020,2020,2020,6,1,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,8,,,,7213,,3573,,,2
+H5,2020,2020,2020,6,1,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1234,,,,135019538,,251575,,,0
+H5,2020,2020,2020,6,1,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,353,,,,631385,,959315,,,6
+H5,2020,2020,2020,6,1,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,18,,,,30778,,44855,,,4
+H5,2020,2020,2020,6,1,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1838,,,,40539,,106776,,,2
+H5,2020,2020,2020,6,1,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,171,,,,11144,,38883,,,6
+H5,2020,2020,2020,6,1,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3468,,,,1515992,,2266546,,,0
+H5,2020,2020,2020,6,1,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,8768,,,,337601,,494813,,,4
+H5,2020,2020,2020,6,1,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2202,,,,2700024,,1499996,,,2
+H5,2020,2020,2020,6,1,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,124,,,,94800,,109420,,,2
+H5,2020,2020,2020,6,1,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,1330,,350,,,0
+H5,2020,2020,2020,6,1,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,182,,,,128053,,87540,,,0
+H5,2020,2020,2020,6,1,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,295,,,,326098,,201111,,,2
+H5,2020,2020,2020,6,1,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,7,,,,1703,,3772,,,0
+H5,2020,2020,2020,6,1,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,61,,,,505,,2862,,,0
+H5,2020,2020,2020,6,1,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,55,,,,53398,,34066,,,2
+H5,2020,2020,2020,6,1,1,Import,699,India,IND,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,210,,,,83900,,127476,,,4
+H5,2020,2020,2020,6,1,2,Export,699,India,IND,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,406,,,,37089,,54052,,,6
+H5,2020,2020,2020,6,1,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,247430,,,,7924639,,10237259,,,4
+H5,2020,2020,2020,6,1,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,19922,,,,218954,,348756,,,4
+H5,2020,2020,2020,6,1,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,745,,,,243928,,302222,,,0
+H5,2020,2020,2020,6,1,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,2,,235,,,2
+H5,2020,2020,2020,6,1,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,716,,,,321019,,487750,,,6
+H5,2020,2020,2020,6,1,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,449,,,,131637,,191842,,,6
+H5,2020,2020,2020,6,1,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,92,,,,46331,,46066,,,0
+H5,2020,2020,2020,6,1,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,150,,1097,,,0
+H5,2020,2020,2020,6,1,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,141470645,,,,158035,,204154,,,4
+H5,2020,2020,2020,6,1,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,4911,,,,31100,,49538,,,6
+H5,2020,2020,2020,6,1,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,183,,,,140200,,125127,,,2
+H5,2020,2020,2020,6,1,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,22632,,,,252911,,715078,,,0
+H5,2020,2020,2020,6,1,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3627,,,,995294,,1448598,,,0
+H5,2020,2020,2020,6,1,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2830,,,,6882,,12656,,,2
+H5,2020,2020,2020,6,1,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,405,,,,243949,,502154,,,4
+H5,2020,2020,2020,6,1,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,111,,,,18342,,23234,,,4
+H5,2020,2020,2020,6,1,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,157,,,,97715,,275287,,,6
+H5,2020,2020,2020,6,1,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,14,,,,415,,8829,,,6
+H5,2020,2020,2020,6,1,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,53540,,,,842765,,1035577,,,0
+H5,2020,2020,2020,6,1,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,16,,,,12881,,37853,,,0
+H5,2020,2020,2020,6,1,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,400,,,,4831,,2589,,,0
+H5,2020,2020,2020,6,1,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3324,,,,2588659,,2038381,,,2
+H5,2020,2020,2020,6,1,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,201,,,,106328,,124765,,,2
+H5,2020,2020,2020,6,1,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,200,,,,104328,,124356,,,2
+H5,2020,2020,2020,6,1,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,58,,,,2500,,11757,,,0
+H5,2020,2020,2020,6,1,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,51,,,,31420,,63266,,,0
+H5,2020,2020,2020,6,1,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,83,,,,101185,,57075,,,2
+H5,2020,2020,2020,6,1,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2384,,,,1970399,,1017799,,,2
+H5,2020,2020,2020,6,1,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,162,,,,28558,,46891,,,0
+H5,2020,2020,2020,6,1,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,12796,,,,643977,,1087037,,,0
+H5,2020,2020,2020,6,1,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,22944,,,,420542,,758423,,,0
+H5,2020,2020,2020,6,1,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,443,,,,902065,,271895,,,2
+H5,2020,2020,2020,6,1,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,58,,,,71492,,36075,,,2
+H5,2020,2020,2020,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,35853,,,,31129726,,40214205,,,4
+H5,2020,2020,2020,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,14548,,,,3723402,,5930726,,,4
+H5,2020,2020,2020,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1300,,,,371118,,591127,,,4
+H5,2020,2020,2020,6,1,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,14,,,,71520,,8891,,,2
+H5,2020,2020,2020,6,1,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,50,,369,,,0
+H5,2020,2020,2020,6,1,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,110,,,,28337,,48069,,,4
+H5,2020,2020,2020,6,1,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,71512,,,6
+H5,2020,2020,2020,6,1,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,45,,,,27000,,19449,,,2
+H5,2021,2021,2021,6,1,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,14,,,,13500,,13583,,,0
+H5,2021,2021,2021,6,1,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,80,,,,49209,,45665,,,0
+H5,2021,2021,2021,6,1,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9418,,,,875159,,1635882,,,4
+H5,2021,2021,2021,6,1,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1549,,,,222718,,425063,,,4
+H5,2021,2021,2021,6,1,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,11,,,,17208,,32842,,,4
+H5,2021,2021,2021,6,1,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,646,,1208,,,4
+H5,2021,2021,2021,6,1,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,701,,,,348569,,476770,,,2
+H5,2021,2021,2021,6,1,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,448,,,,13591,,95469,,,2
+H5,2021,2021,2021,6,1,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3106,,,,207351,,547119,,,0
+H5,2021,2021,2021,6,1,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3404,,,,449456,,250250,,,0
+H5,2021,2021,2021,6,1,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,18,,525,,,2
+H5,2021,2021,2021,6,1,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,125,,,,68052,,105053,,,2
+H5,2021,2021,2021,6,1,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,195,,82,,,2
+H5,2021,2021,2021,6,1,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,26,,,,1442,,431,,,0
+H5,2021,2021,2021,6,1,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3426,,,,1535490,,2870199,,,6
+H5,2021,2021,2021,6,1,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,30,,,,46203,,86365,,,4
+H5,2021,2021,2021,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6520,,,,2921903,,5461738,,,6
+H5,2021,2021,2021,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,129,,,,37155,,70912,,,6
+H5,2021,2021,2021,6,1,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,11,,,,6477,,12652,,,0
+H5,2021,2021,2021,6,1,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,1360,,1075,,,0
+H5,2021,2021,2021,6,1,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1218,,,,763142,,1052219,,,0
+H5,2021,2021,2021,6,1,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,34,,,,22600,,13797,,,0
+H5,2021,2021,2021,6,1,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9,,,,3040,,7659,,,6
+H5,2021,2021,2021,6,1,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,1429,,612,,,2
+H5,2021,2021,2021,6,1,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2546,,,,1156818,,2020653,,,0
+H5,2021,2021,2021,6,1,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,322389,,670888,,,2
+H5,2021,2021,2021,6,1,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,31,,,,14405,,15264,,,2
+H5,2021,2021,2021,6,1,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,688,,,,488734,,521130,,,0
+H5,2021,2021,2021,6,1,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,14645,,,,343847,,740091,,,0
+H5,2021,2021,2021,6,1,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3025,,,,453964,,589767,,,0
+H5,2021,2021,2021,6,1,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,416,,,,248030,,646352,,,6
+H5,2021,2021,2021,6,1,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,16,,,,575,,8853,,,6
+H5,2021,2021,2021,6,1,4,Re-Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,301,,912,,,2
+H5,2021,2021,2021,6,1,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,11539,,,,476455,,944739,,,2
+H5,2021,2021,2021,6,1,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1688,,,,,,502347,,,6
+H5,2021,2021,2021,6,1,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,566526,,218476,,,2
+H5,2021,2021,2021,6,1,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,513030,,122874,,,2
+H5,2021,2021,2021,6,1,4,Re-Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,5446,,574,,,2
+H5,2021,2021,2021,6,1,1,Import,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,35157,,,,21776125,,40704802,,,4
+H5,2021,2021,2021,6,1,2,Export,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9033,,,,2038417,,3890362,,,4
+H5,2021,2021,2021,6,1,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2525,,,,572687,,1092985,,,4
+H4,2017,2017,2017,6,1,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,327528,,,,662278,,643690,,,0
+H4,2017,2017,2017,6,1,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,10,,,,895,,2538,,,0
+H4,2017,2017,2017,6,1,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,45800,,,,45800,,28479,,,0
+H4,2017,2017,2017,6,1,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,885742,,1416453,,,6
+H4,2017,2017,2017,6,1,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,43,,,,13690,,21689,,,6
+H4,2017,2017,2017,6,1,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2812,,,,40616,,20073,,,0
+H4,2017,2017,2017,6,1,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,88,,133,,,2
+H4,2017,2017,2017,6,1,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,24,,41,,,6
+H4,2017,2017,2017,6,1,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,118,,,,56652,,68679,,,2
+H4,2017,2017,2017,6,1,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,143,,,,125479,,82887,,,2
+H4,2017,2017,2017,6,1,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,12,,,,14000,,7195,,,2
+H4,2017,2017,2017,6,1,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,500,,782,,,2
+H4,2017,2017,2017,6,1,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,2743,,3998,,,0
+H4,2017,2017,2017,6,1,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2706,,,,70549,,47139,,,0
+H4,2017,2017,2017,6,1,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,62,,,,84700,,36408,,,2
+H4,2017,2017,2017,6,1,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,446721,,451803,,,2
+H4,2017,2017,2017,6,1,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,5750,,1343,,,2
+H4,2017,2017,2017,6,1,1,Import,258,French Polynesia,PYF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,6,,,,2447,,8819,,,0
+H4,2017,2017,2017,6,1,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,43808,,70057,,,6
+H4,2017,2017,2017,6,1,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,236,,,,372667,,137028,,,2
+H4,2017,2017,2017,6,1,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,308265,,431572,,,2
+H4,2017,2017,2017,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,14,,,,7327,,11718,,,4
+H4,2017,2017,2017,6,1,2,Export,296,Kiribati,KIR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,628,,,,5225,,8278,,,4
+H4,2017,2017,2017,6,1,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1259,,12901,,,2
+H4,2017,2017,2017,6,1,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,121398,,120713,,,2
+H4,2017,2017,2017,6,1,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,696,,25435,,,2
+H4,2017,2017,2017,6,1,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1473,,,,1065409,,853019,,,2
+H4,2017,2017,2017,6,1,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,11,,2,,,2
+H4,2017,2017,2017,6,1,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5342,,,,40463,,122200,,,0
+H4,2017,2017,2017,6,1,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,179,,,,112931,,103834,,,2
+H4,2017,2017,2017,6,1,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,60163,,,0
+H4,2017,2017,2017,6,1,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,37683,,,,162494,,180078,,,0
+H4,2017,2017,2017,6,1,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,405,,,,141187,,234977,,,6
+H4,2017,2017,2017,6,1,2,Export,524,Nepal,NPL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,947,,2337,,,6
+H4,2017,2017,2017,6,1,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1200,,626,,,0
+H4,2017,2017,2017,6,1,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1850,,819,,,2
+H4,2017,2017,2017,6,1,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,572,,,,199117,,331389,,,6
+H4,2017,2017,2017,6,1,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,200,,,,,,30,,,0
+H4,2017,2017,2017,6,1,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1149109,,,,973824,,2935574,,,0
+H4,2017,2017,2017,6,1,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1028862,,545435,,,2
+H4,2017,2017,2017,6,1,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,406311,,494456,,,6
+H4,2017,2017,2017,6,1,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,347282,,324318,,,2
+H4,2017,2017,2017,6,1,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9,,,,6000,,4864,,,2
+H4,2017,2017,2017,6,1,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,230,,475,,,2
+H4,2017,2017,2017,6,1,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,9337084,,6905112,,,2
+H4,2017,2017,2017,6,1,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,55,,,,24000,,28050,,,2
+H4,2017,2017,2017,6,1,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,97,,,,116400,,56465,,,2
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,11785317,,18846726,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,27608,,,,656236,,1039618,,,6
+H4,2017,2017,2017,6,1,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,475978,,761171,,,6
+H4,2017,2017,2017,6,1,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,702,,,,222549,,352565,,,6
+H4,2017,2017,2017,6,1,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,82272,,124177,,,6
+H4,2017,2017,2017,6,1,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,54000,,9509,,,2
+H4,2017,2017,2017,6,1,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,8905920,,4176059,,,2
+H4,2017,2017,2017,6,1,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1493,,,,909620,,749449,,,2
+H4,2017,2017,2017,6,1,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1491,,,,909264,,748088,,,2
+H4,2017,2017,2017,6,1,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,192,,,,5514,,12651,,,0
+H4,2017,2017,2017,6,1,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,34,,,,19616,,19981,,,2
+H4,2017,2017,2017,6,1,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,818925,,570750,,,2
+H4,2017,2017,2017,6,1,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3877,,,,75093,,120086,,,4
+H4,2017,2017,2017,6,1,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,771,,,,13273,,21027,,,6
+H4,2017,2017,2017,6,1,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,17,,,,116125,,9962,,,2
+H4,2017,2017,2017,6,1,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,2300,,1904,,,2
+H4,2017,2017,2017,6,1,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,270,,,,156455,,250199,,,4
+H4,2017,2017,2017,6,1,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,361,,600,,,4
+H4,2018,2018,2018,6,1,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2396,,,,852914,,1462410,,,6
+H4,2018,2018,2018,6,1,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,5934,,13447,,,6
+H4,2018,2018,2018,6,1,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,340,,583,,,4
+H4,2018,2018,2018,6,1,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,8,,,,5950,,5484,,,2
+H4,2018,2018,2018,6,1,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,10,,,,42789,,6195,,,2
+H4,2018,2018,2018,6,1,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2726,,,,42881,,36271,,,0
+H4,2018,2018,2018,6,1,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,28,,,,58907,,17556,,,2
+H4,2018,2018,2018,6,1,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,16066,,,,152935,,114714,,,0
+H4,2018,2018,2018,6,1,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,3036,,1432,,,2
+H4,2018,2018,2018,6,1,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,115,,,,91826,,70559,,,2
+H4,2018,2018,2018,6,1,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,7,,,,2737,,4694,,,6
+H4,2018,2018,2018,6,1,1,Import,296,Kiribati,KIR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,19,,,,19578,,33569,,,4
+H4,2018,2018,2018,6,1,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,5595,,,6
+H4,2018,2018,2018,6,1,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1230,,,,1065858,,750878,,,2
+H4,2018,2018,2018,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,100,,103,,,2
+H4,2018,2018,2018,6,1,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,61,,,,25619,,37433,,,6
+H4,2018,2018,2018,6,1,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,27000,,20641,,,2
+H4,2018,2018,2018,6,1,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,9241,,2326,,,2
+H4,2018,2018,2018,6,1,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,100779,,,0
+H4,2018,2018,2018,6,1,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,15,,,,7000,,12901,,,0
+H4,2018,2018,2018,6,1,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,475,,,,169089,,289922,,,6
+H4,2018,2018,2018,6,1,2,Export,524,Nepal,NPL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1175,,2664,,,6
+H4,2018,2018,2018,6,1,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,18,,,,2204,,11570,,,2
+H4,2018,2018,2018,6,1,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,98,,199,,,2
+H4,2018,2018,2018,6,1,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,177,,,,926788,,108140,,,2
+H4,2018,2018,2018,6,1,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2944,,,,1603237,,2748917,,,4
+H4,2018,2018,2018,6,1,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,82,,,,35086,,79504,,,4
+H4,2018,2018,2018,6,1,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1321,,,,1155748,,806663,,,2
+H4,2018,2018,2018,6,1,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,672,,,,19939,,16462,,,0
+H4,2018,2018,2018,6,1,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,17846,,,,13726097,,10889580,,,2
+H4,2018,2018,2018,6,1,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,78808,,60429,,,2
+H4,2018,2018,2018,6,1,3,Re-Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,30808,,,,30808,,15390,,,0
+H4,2018,2018,2018,6,1,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,45,,,,131033,,27895,,,2
+H4,2018,2018,2018,6,1,1,Import,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,62,,,,59464,,38013,,,2
+H4,2018,2018,2018,6,1,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,84,,,,36534,,51410,,,2
+H4,2018,2018,2018,6,1,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,169396,,,,132779,,227663,,,4
+H4,2018,2018,2018,6,1,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,72,,,,139270,,43972,,,2
+H4,2018,2018,2018,6,1,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,75,,,,27958,,47937,,,4
+H4,2019,2019,2019,6,1,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,236779,,180773,,,2
+H4,2019,2019,2019,6,1,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,24,,36,,,6
+H4,2019,2019,2019,6,1,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,52,,44,,,2
+H4,2019,2019,2019,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,3,,,,2500,,3161,,,2
+H4,2019,2019,2019,6,1,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5,,,,28000,,4633,,,2
+H4,2019,2019,2019,6,1,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,172629,,,0
+H4,2019,2019,2019,6,1,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,2,,,,857,,2554,,,2
+H4,2019,2019,2019,6,1,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,525,,,,1458456,,459648,,,2
+H4,2019,2019,2019,6,1,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,1099502,,892035,,,0
+H4,2019,2019,2019,6,1,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1,,,,0,,12,,,0
+H4,2019,2019,2019,6,1,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,10321338,,,6
+H4,2019,2019,2019,6,1,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,305,,,,173000,,161644,,,2
+H4,2019,2019,2019,6,1,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,5469,,,,78297,,115062,,,4
+H4,2019,2019,2019,6,1,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,0,,,,97,,338,,,0
+H4,2019,2019,2019,6,1,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,569,,,,120162,,205200,,,4
+H4,2019,2019,2019,6,1,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,34,,,,13652,,20063,,,4
+H4,2020,2020,2020,6,1,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,1738,,,,43972,,35575,,,0
+H4,2020,2020,2020,6,1,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,9,,,,8691,,6421,,,2
+H4,2020,2020,2020,6,1,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,13,,,,7016,,7984,,,2
+H4,2020,2020,2020,6,1,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,619380,,,0
+H4,2020,2020,2020,6,1,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,47,,,,20181,,32195,,,2
+H4,2020,2020,2020,6,1,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,602,,,,1566000,,369674,,,2
+H4,2020,2020,2020,6,1,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,30296,,,,26586528,,18573471,,,2
+H4,2020,2020,2020,6,1,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,155840,,88224,,,2
+H4,2020,2020,2020,6,1,3,Re-Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",8,Weight in kilograms,142990,,,,142990,,75691,,,0
+H4,2020,2020,2020,6,1,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",12,Volume in cubic meters,179,,,,85332,,110235,,,6
+H4,2020,2020,2020,6,1,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,11643,,17691,,,4
+H4,2021,2021,2021,6,1,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels and similar laminated wood; of bamboo",1,No Quantity,0,,,,,,4376,,,6
+H3,2017,2017,2017,6,1,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,169,,,,1184,,7629,,,0
+H3,2017,2017,2017,6,1,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,217,,,,47600,,48947,,,2
+H3,2017,2017,2017,6,1,1,Import,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,41,,,,16778,,23832,,,2
+H3,2017,2017,2017,6,1,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",1,No Quantity,0,,,,735,,1425,,,2
+H3,2017,2017,2017,6,1,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,104,,,,62800,,60411,,,2
+H3,2017,2017,2017,6,1,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",1,No Quantity,0,,,,6,,149,,,2
+H3,2017,2017,2017,6,1,1,Import,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,234,,,,280537,,135567,,,2
+H3,2017,2017,2017,6,1,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",1,No Quantity,0,,,,331327,,139316,,,2
+H3,2018,2018,2018,6,1,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,4,,,,293,,2572,,,2
+H3,2018,2018,2018,6,1,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,1280,,,,15427,,22660,,,0
+H3,2018,2018,2018,6,1,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,8235,,,,175602,,126452,,,0
+H3,2018,2018,2018,6,1,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,0,,,,30,,197,,,2
+H3,2018,2018,2018,6,1,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,171,,,,207882,,104540,,,2
+H3,2019,2019,2019,6,1,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,0,,,,50,,146,,,2
+H3,2019,2019,2019,6,1,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",12,Volume in cubic meters,0,,,,16,,102,,,2
+H3,2019,2019,2019,6,1,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,441210,"Plywood, veneered panels&similar laminated wood, of bamboo",1,No Quantity,0,,,,176736,,86757,,,2
