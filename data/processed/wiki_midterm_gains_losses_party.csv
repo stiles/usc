@@ -1,4 +1,4 @@
-year,president,president_party,gain_loss_house,gain_loss_senate
+year,president,president_party,house_loss,senate_loss
 1790,George Washington,None[a],+3: (37 ► 40),0: (18 ► 18)
 1794,George Washington,None[a],-4: (51 ► 47),+3: (16 ► 19)
 1798,John Adams,Federalist,+3: (57 ► 60),0: (22 ► 22)
