@@ -1,0 +1,49 @@
+date_occurred,incident_type,fatalities,cumsum
+2022-02-24,Battles,51.0,51.0
+2022-02-25,Battles,19.0,70.0
+2022-02-26,Battles,53.0,123.0
+2022-02-27,Battles,30.0,153.0
+2022-02-28,Battles,14.0,167.0
+2022-03-01,Battles,12.0,179.0
+2022-03-02,Battles,235.0,414.0
+2022-03-03,Battles,53.0,467.0
+2022-03-04,Battles,28.0,495.0
+2022-03-05,Battles,82.0,577.0
+2022-03-06,Battles,64.0,641.0
+2022-03-07,Battles,104.0,745.0
+2022-03-08,Battles,109.0,854.0
+2022-03-09,Battles,40.0,894.0
+2022-03-10,Battles,22.0,916.0
+2022-03-11,Battles,10.0,926.0
+2022-02-24,Explosions/Remote violence,19.0,19.0
+2022-02-25,Explosions/Remote violence,13.0,32.0
+2022-02-26,Explosions/Remote violence,25.0,57.0
+2022-02-27,Explosions/Remote violence,13.0,70.0
+2022-02-28,Explosions/Remote violence,91.0,161.0
+2022-03-01,Explosions/Remote violence,67.0,228.0
+2022-03-02,Explosions/Remote violence,29.0,257.0
+2022-03-03,Explosions/Remote violence,68.0,325.0
+2022-03-04,Explosions/Remote violence,44.0,369.0
+2022-03-05,Explosions/Remote violence,27.0,396.0
+2022-03-06,Explosions/Remote violence,28.0,424.0
+2022-03-07,Explosions/Remote violence,25.0,449.0
+2022-03-08,Explosions/Remote violence,57.0,506.0
+2022-03-09,Explosions/Remote violence,35.0,541.0
+2022-03-10,Explosions/Remote violence,31.0,572.0
+2022-03-11,Explosions/Remote violence,27.0,599.0
+2022-02-24,Violence against civilians,8.0,8.0
+2022-02-25,Violence against civilians,3.0,11.0
+2022-02-26,Violence against civilians,5.0,16.0
+2022-02-27,Violence against civilians,16.0,32.0
+2022-02-28,Violence against civilians,10.0,42.0
+2022-03-01,Violence against civilians,5.0,47.0
+2022-03-02,Violence against civilians,3.0,50.0
+2022-03-03,Violence against civilians,3.0,53.0
+2022-03-04,Violence against civilians,4.0,57.0
+2022-03-05,Violence against civilians,5.0,62.0
+2022-03-06,Violence against civilians,5.0,67.0
+2022-03-07,Violence against civilians,5.0,72.0
+2022-03-08,Violence against civilians,3.0,75.0
+2022-03-09,Violence against civilians,10.0,85.0
+2022-03-10,Violence against civilians,6.0,91.0
+2022-03-11,Violence against civilians,0.0,91.0
