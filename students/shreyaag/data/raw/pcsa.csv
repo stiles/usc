@@ -1,0 +1,543 @@
+﻿MSSA_COUNTY,MSSA_ID,MSSA_NAME,Total_Population,EST_Physicians,EST_FNPPA,EST_Providers,Provider_Ratio,Score_Provider_Ratio,Pop_100FPL,PCT_100FPL,Score_Poverty,Score_Total,PCSA,Effective Date
+Alameda,1.1,Livermore Central and West/Spring Town,58273,46,5,49.8,1172.5,1,3149,0.054,1,2,No,1/30/2020
+Alameda,1.2,Altamont/Livermore East/Midway/Mountain House/Scotts Corner,39930,13.5,2.7,15.5,2576.1,4,1774,0.044,0,4,No,1/30/2020
+Alameda,2a,Berkeley South and West/Emeryville/Oakland Northwest,86595,116,78.7,175,494.8,0,20908,0.241,4,4,No,1/30/2020
+Alameda,2b,Albany/Berkeley East and North/Claremont/Cragmont/Forest Park/Rockridge/Temescal/Thousand Oaks,110451,273,39.4,302.6,365,0,8701,0.079,1,1,No,1/30/2020
+Alameda,2c,Oakland West Central,88757,361,48.1,397,223.6,0,22684,0.256,5,5,Yes,1/30/2020
+Alameda,2d,Fruitvale/Melrose/Oakland Airport,135406,42.5,48.2,78.7,1720.5,2,31323,0.231,4,6,Yes,1/30/2020
+Alameda,2e,Alameda/Jack London Square/Oakland Inner Harbor,71177,71.5,15.2,82.9,858.6,0,9703,0.136,2,2,No,1/30/2020
+Alameda,2f,Castro Valley Central and North/Oak Knoll/San Leandro Northeast/Sheffield Village/Union City East,108515,71.5,21.6,87.7,1237.3,1,7799,0.072,1,2,No,1/30/2020
+Alameda,2g,San Leandro West/San Lorenzo West/Hayward West,102435,159.5,28.1,180.5,567.5,0,9938,0.097,1,1,No,1/30/2020
+Alameda,2h,Ashland/Brookfield Village/Castro Valley South/Elmhurst/Hayward Northeast/San Leandro North Central/San Lorenzo East,117800,40,23.2,57.4,2052.3,3,19863,0.169,3,6,Yes,1/30/2020
+Alameda,2i,Fremont South/Mission San Jose/Newark South/Warm Springs,96094,25,10.3,32.7,2938.7,4,3732,0.039,0,4,No,1/30/2020
+Alameda,2j,Centerville/Fremont West/Irvington/Newark East Central,96242,233,34.4,258.8,371.9,0,6330,0.066,1,1,No,1/30/2020
+Alameda,2k,Dublin/Pleasanton/Santa Rita/Sunol,127835,169,44.8,202.6,631,0,5042,0.039,0,0,No,1/30/2020
+Alameda,2l,Fremont East/Niles/Union City Central,122221,97,25.1,115.8,1055.4,1,6483,0.053,1,2,No,1/30/2020
+Alameda,2m,Dimond/Montclair/Oakland East/Oakmore/Piedmont/Piedmont Pines/Trestle Glen,120643,390,83.9,452.9,266.4,0,11180,0.093,1,1,No,1/30/2020
+Alameda,2n,Hayward Central,119983,10,5,13.7,8757.9,5,12585,0.105,2,7,Yes,1/30/2020
+Alpine,3,Alpine Village/Bear Valley/Kirkwood/Markleeville/Mesa Valley/Woodfords,1188,0,0,0,,5,235,0.198,3,8,Yes,1/30/2020
+Amador,4,Ione/Jackson/Pine Grove/Sutter Creek,23400,27,9.6,34.2,684.2,0,2532,0.108,2,2,No,1/30/2020
+Amador,5,Plymouth,4490,0.5,0,0.5,8980,5,354,0.079,1,6,Yes,1/30/2020
+Amador,6,Pioneer,5671,0.5,1.3,1.5,3780.7,5,678,0.12,2,7,Yes,1/30/2020
+Butte,7.1,Chapmantown/Chico,96487,55.5,63.6,103.2,935,0,23007,0.238,4,4,No,1/30/2020
+Butte,7.2,Capay/Lake/Nord,5798,3,1,3.8,1525.8,2,379,0.065,1,3,No,1/30/2020
+Butte,7.3,Butte Meadows/Cohasset/Forest Ranch,4820,0,0,0,,5,387,0.08,1,6,Yes,1/30/2020
+Butte,7.4,Durham,5644,0,0,0,,5,564,0.1,1,6,Yes,1/30/2020
+Butte,8,Magalia/Paradise/Stirling City,41358,19,25.2,37.9,1091.2,1,6085,0.147,2,3,No,1/30/2020
+Butte,9,Biggs/East Biggs/Gridley,14665,4.5,4,7.5,1955.3,2,2503,0.171,3,5,Yes,1/30/2020
+Butte,10,Oroville/Palermo/Thermalito,45959,13,33.1,37.8,1215.8,1,10967,0.239,4,5,Yes,1/30/2020
+Butte,11,Berry Creek/Brownsville/Concow/Feather Falls/Forbestown,4798,0,0.3,0.2,23990,5,1085,0.226,4,9,Yes,1/30/2020
+Calaveras,12,Angels Camp/Arnold/Copperopolis/Mountain Ranch/Murphys/San Andreas/Valley Springs/West Point,44516,17,5.6,21.2,2099.8,3,5676,0.128,2,5,Yes,1/30/2020
+Colusa,15,Colusa,7536,2.5,3.3,5,1507.2,2,1043,0.138,2,4,No,1/30/2020
+Colusa,16.1,Williams,6024,0,0.3,0.2,30120,5,791,0.131,2,7,Yes,1/30/2020
+Colusa,16.2,Loduga/Maxwell/Princeton/Stonyford,2379,0,0,0,,5,412,0.173,3,8,Yes,1/30/2020
+Colusa,16.3,Arbuckle/Grimes,5345,1.5,1,2.3,2323.9,3,733,0.137,2,5,Yes,1/30/2020
+Contra Costa,17,Brentwood East/Byron/Discovery Bay/Knightsen,63320,22,7.7,27.7,2285.9,3,5733,0.091,1,4,No,1/30/2020
+Contra Costa,18a,Crockett/Hercules/Martinez West/Pinole/Port Costa/Richmond Northeast/Rodeo,90182,256.5,43.6,289.2,311.8,0,7171,0.08,1,1,No,1/30/2020
+Contra Costa,18b,Concord West/Martinez East/Martinez Waterfront/Pacheco/Pleasant Hill East,82384,18,20.5,33.3,2474,3,11278,0.137,2,5,Yes,1/30/2020
+Contra Costa,18c,Avon/Clyde/Concord Central/Pittsburg Southwest,95018,70,24.9,88.6,1072.4,1,7489,0.079,1,2,No,1/30/2020
+Contra Costa,18d,Antioch North and West/Nichols/Pittsburg Central and East/West Pittsburg,102724,68.5,9.6,75.7,1357,1,20217,0.197,3,4,No,1/30/2020
+Contra Costa,18e,Brentwood Central and West/Oakley,136327,80.5,23.4,98.1,1389.7,1,12496,0.092,1,2,No,1/30/2020
+Contra Costa,18f,Richmond Central/San Pablo Central,101796,83,23.9,100.9,1008.9,1,19860,0.195,3,4,No,1/30/2020
+Contra Costa,18g,El Cerrito/El Sobrante/Kensington/Richmond North/Richmond Southeast/Wildcat Canyon,82922,15,7.3,20.5,4045,5,8545,0.103,2,7,Yes,1/30/2020
+Contra Costa,18h,Alamo/Danville/Diablo/San Ramon,141808,110.5,39.1,139.8,1014.4,1,5360,0.038,0,1,No,1/30/2020
+Contra Costa,18i,Lafayette/Martinez South/Moraga/Orinda/Pleasant Hill/Rheem Valley/Rossmoor Leisure World/Walnut Creek Southwest,113632,123.5,29.2,145.4,781.5,0,4676,0.041,0,0,No,1/30/2020
+Contra Costa,18j,Clayton/Concord South/Walnut Creek Central and East,104015,301,74.3,356.7,291.6,0,5805,0.056,1,1,No,1/30/2020
+Del Norte,19,Crescent City/Gasquet/Klamath/Smith River,23970,11.5,9.6,18.7,1281.8,1,5571,0.232,4,5,Yes,1/30/2020
+El Dorado,22,Garden Valley/Georgetown/Greenwood/Kelsey/Volcanoville,10507,0,3.3,2.5,4202.8,5,1356,0.129,2,7,Yes,1/30/2020
+El Dorado,23.1,Cameron Park/El Dorado Hills/Shingle Springs,68529,27,9.3,33.9,2021.5,3,4256,0.062,1,4,No,1/30/2020
+El Dorado,23.2,Camino/Pollock Pines,24789,1,0.7,1.5,16526,5,3448,0.139,2,7,Yes,1/30/2020
+El Dorado,23.3,Cool/Diamond Springs/Latrobe/Pilot Hill/Placerville,50182,26,23.6,43.7,1148.3,1,5074,0.101,2,3,No,1/30/2020
+El Dorado,24,South Lake Tahoe,29312,12,9.3,18.9,1550.9,2,3862,0.132,2,4,No,1/30/2020
+Fresno,25,Firebaugh/Mendota,22027,2,3.6,4.7,4686.6,5,8444,0.383,5,10,Yes,1/30/2020
+Fresno,26,Cantua Creek/San Joaquin/Tranquility,6635,2,0.3,2.2,3015.9,5,2266,0.342,5,10,Yes,1/30/2020
+Fresno,27,Coalinga,14105,6.5,5.3,10.5,1343.3,1,3265,0.231,4,5,Yes,1/30/2020
+Fresno,28,Huron,8016,2,1,2.7,2968.9,4,3411,0.426,5,9,Yes,1/30/2020
+Fresno,29,Biola/Herndon/Highway City/Kerman,44473,6,6.3,10.7,4156.4,5,8543,0.192,3,8,Yes,1/30/2020
+Fresno,30,Bowles/Caruthers/Easton/Kingsburg/Lanare/Laton/Raisin City/Riverdale/Selma,92775,34.3,18.2,48,1932.8,2,25724,0.277,5,7,Yes,1/30/2020
+Fresno,31,Auberry/Calwa/Centerville/Clovis East/Del Rey/Fowler/Friant/Sanger/Shaver Lake,104683,33.3,17.5,46.5,2251.2,3,14654,0.14,2,5,Yes,1/30/2020
+Fresno,32,Orange Cove/Parlier/Reedley/Squaw Valley/Tivy Valley/Wonder Valley,63664,24.2,13.2,34.1,1867,2,19705,0.31,5,7,Yes,1/30/2020
+Fresno,35a,Fresno Northwest,138199,90.3,84.8,153.9,898,0,13221,0.096,1,1,No,1/30/2020
+Fresno,35b,Clovis West/Fresno East,109493,8.5,14.6,19.4,5644,5,19053,0.174,3,8,Yes,1/30/2020
+Fresno,35c,Fresno West Central,83009,59.8,104.2,138,601.5,0,31479,0.379,5,5,Yes,1/30/2020
+Fresno,35d,Fresno East Central,95655,15.3,17.9,28.7,3332.9,5,39336,0.411,5,10,Yes,1/30/2020
+Fresno,35e,Fresno South and West,93102,4,10,11.5,8095.8,5,33853,0.364,5,10,Yes,1/30/2020
+Fresno,35f,Fresno North Central,79673,100.3,83.7,163.1,488.5,0,20086,0.252,5,5,Yes,1/30/2020
+Glenn,36.1,Orland,12772,4,4.3,7.2,1773.9,2,2938,0.23,4,6,Yes,1/30/2020
+Glenn,36.2,Hamilton City,3886,0,0,0,,5,653,0.168,3,8,Yes,1/30/2020
+Glenn,37,Artois/Elk Creek/Glenn/Grindstone Indian Rancheria/Willows,10884,2,5.6,6.2,1755.5,2,1813,0.167,3,5,Yes,1/30/2020
+Humboldt,38,Hoopa/Willow Creek,5728,1.5,7.7,7.2,795.6,0,2199,0.384,5,5,Yes,1/30/2020
+Humboldt,39,Arcata/Eureka,70697,35.5,56.3,77.8,908.7,0,16226,0.23,4,4,No,1/30/2020
+Humboldt,40,Bluelake/McKinleyville/Orick/Trinidad,23371,10,5.3,14,1669.4,2,3767,0.161,3,5,Yes,1/30/2020
+Humboldt,42,Ferndale/Fortuna/Rio Dell/Scotia,25659,8,13,17.7,1449.7,1,3813,0.149,2,3,No,1/30/2020
+Humboldt,44,Garberville/Redway,6723,2,6,6.5,1034.3,1,1476,0.22,4,5,Yes,1/30/2020
+Imperial,46,Bard/Winterhaven,1902,0,2.3,1.7,1118.8,1,571,0.3,5,6,Yes,1/30/2020
+Imperial,47,Bombay Beach/Calipatria/Desert Shores/Niland/Salton City/Salton Sea Beach,11757,6,1.7,7.2,1632.9,2,4225,0.359,5,7,Yes,1/30/2020
+Imperial,48,El Centro/Heber/Holtville/Imperial/Seeley,85681,17,30.2,39.6,2163.7,3,17013,0.199,3,6,Yes,1/30/2020
+Imperial,49,Calexico/Ocotillo,41102,11.5,6.6,16.5,2491,3,10241,0.249,4,7,Yes,1/30/2020
+Imperial,50,Brawley/Westmorland,29559,13,20.9,28.7,1029.9,1,8326,0.282,5,6,Yes,1/30/2020
+Inyo,53,Bishop/Bishop Paiute Tribe/Mustang Mesa/Round Valley/West Bishop/Wilkerson,12675,16,6,20.5,618.3,0,1072,0.085,1,1,No,1/30/2020
+Inyo,54,Aberdeen/Big Pine/Big Pine Reservation/Fort Independence Indian/Independence,2322,0,0,0,,5,255,0.11,2,7,Yes,1/30/2020
+Inyo,55,Alabama Hills/Cartago/Darwin/Keeler/Lone Pine/Lone Pine Paiute Shoshone Tribe/Olancha/Pearsonville,2740,1,2.3,2.7,1014.8,1,479,0.175,3,4,No,1/30/2020
+Kern,57.1,Fort Tejon/Frazier Park/Lebec/Pine Mountain,8351,0.5,0,0.5,16702,5,1705,0.204,4,9,Yes,1/30/2020
+Kern,57.2,BlackwellGÇÖs Corners/Ford City/Maricopa/McKittrick/Taft,19661,1.5,1.7,2.7,7281.9,5,5404,0.275,5,10,Yes,1/30/2020
+Kern,58.1,Shafter,20570,7.5,6.3,12.2,1686.1,2,5177,0.252,5,7,Yes,1/30/2020
+Kern,58.2,Lost Hills/Wasco,24169,6.5,8,12.5,1933.5,2,6730,0.278,5,7,Yes,1/30/2020
+Kern,59,Buttonwillow,3579,1,0.3,1.2,2982.5,4,945,0.264,5,9,Yes,1/30/2020
+Kern,60,Delano/McFarland,60420,43.5,14.6,54.4,1110.7,1,16363,0.271,5,6,Yes,1/30/2020
+Kern,61,Arvin/Lamont/Weed Patch,43018,15,5,18.7,2300.4,3,13422,0.312,5,8,Yes,1/30/2020
+Kern,62,Bear Valley Springs/Keene/Stallion Springs/Tehachapi,30976,19.5,5.9,23.9,1296.1,1,4399,0.142,2,3,No,1/30/2020
+Kern,63,Alta Sierra/Bodfish/Glennville/Kernville/Lake Isabella/Weldon/Wofford Heights,15437,3,3.3,5.5,2806.7,4,3496,0.226,4,8,Yes,1/30/2020
+Kern,64,Inyokern/Ridgecrest,35263,18,10.3,25.7,1372.1,1,6342,0.18,3,4,No,1/30/2020
+Kern,65,Boron/California City/Desert Lake/Mojave/North Edwards/Rosamond,42847,2,6,6.5,6591.8,5,10034,0.234,4,9,Yes,1/30/2020
+Kern,66a,Bakersfield Northeast/Oildale,109145,52,67,102.2,1068,1,24039,0.22,4,5,Yes,1/30/2020
+Kern,66b,Bakersfield East/Lakeview/La Loma,142734,52,35.8,78.9,1809,2,56556,0.396,5,7,Yes,1/30/2020
+Kern,66c,Bakersfield Southwest,166399,37,31.9,60.9,2732.3,4,25005,0.15,3,7,Yes,1/30/2020
+Kern,66d,Bakersfield Northwest/Rosedale,124471,222.5,101.7,298.8,416.6,0,11506,0.092,1,1,No,1/30/2020
+Kings,67,Avenal,9252,6.5,6.3,11.2,826.1,0,3347,0.362,5,5,Yes,1/30/2020
+Kings,68,Corcoran/Kettleman City/Stratford,19274,18,6.3,22.7,849.1,0,6855,0.356,5,5,Yes,1/30/2020
+Kings,69,Armona/Hanford/Lemoore,105675,41.5,47.7,77.3,1367.1,1,17811,0.169,3,4,No,1/30/2020
+Lake,70.1,Kelseyville/Lakeport,14944,15.6,14.2,26.3,568.2,0,2872,0.192,3,3,No,1/30/2020
+Lake,70.2,Lucerne/Nice/Upper Lake,9049,1,3.7,3.7,2445.7,3,2341,0.259,5,8,Yes,1/30/2020
+Lake,71.1,Clearlake/Clearlake Oaks,19138,8.5,7.6,14.2,1347.7,1,6328,0.331,5,6,Yes,1/30/2020
+Lake,71.2,Lower Lake,9987,0.5,0,0.5,19974,5,1394,0.14,2,7,Yes,1/30/2020
+Lake,71.3,Cobb/Hidden Valley/Middletown,9983,1,1.3,2,4991.5,5,1463,0.147,2,7,Yes,1/30/2020
+Lassen,72,Susanville,15662,18,13.3,28,559.4,0,2394,0.153,3,3,No,1/30/2020
+Lassen,73,Bieber/Madeline/Nubieber,1333,1,1,1.8,740.6,0,208,0.156,3,3,No,1/30/2020
+Lassen,74,Doyle,1867,0,0.3,0.2,9335,5,225,0.121,2,7,Yes,1/30/2020
+Lassen,75,Westwood,2688,0,0.3,0.2,13440,5,328,0.122,2,7,Yes,1/30/2020
+Los Angeles,76.2,Castaic/Val Verde,25644,0,2.7,2,12822,5,1825,0.071,1,6,Yes,1/30/2020
+Los Angeles,77.2,Lake Los Angeles,17436,0.3,0.3,0.5,34872,5,4785,0.274,5,10,Yes,1/30/2020
+Los Angeles,77.3,Juniper Hills/Littlerock/Longview/Pearblossom/Valyermo,18367,0.3,0,0.3,61223.3,5,4145,0.226,4,9,Yes,1/30/2020
+Los Angeles,77.4,Acton/Ravenna,11825,0,2,1.5,7883.3,5,1100,0.093,1,6,Yes,1/30/2020
+Los Angeles,77.5,Elizabeth Lake/Gorman/Green Valley/Lake Hughes/Leona Valley/Neenach,27084,1.5,3.7,4.2,6448.6,5,3061,0.113,2,7,Yes,1/30/2020
+Los Angeles,78.1,Avalon,3894,0,2,1.5,2596,4,565,0.145,2,6,Yes,1/30/2020
+Los Angeles,76.1a,Canyon Country/Santa Clarita West/Saugus,122758,108.5,40.8,139.1,882.5,0,7561,0.062,1,1,No,1/30/2020
+Los Angeles,76.1b,Newhall/Santa Clarita East/Valencia,120793,35,17.3,48,2516.5,4,13144,0.109,2,6,Yes,1/30/2020
+Los Angeles,77.1a,Palmdale Central,101863,21,17.6,34.2,2978.5,4,19573,0.192,3,7,Yes,1/30/2020
+Los Angeles,77.1b,Desert View Highlands/Lancaster West/Palmdale Northwest/Quartz Hill,99440,97.8,43.4,130.3,763.2,0,12856,0.129,2,2,No,1/30/2020
+Los Angeles,77.1c,Lancaster Central/Palmdale North Central,107541,24.1,26.6,44,2444.1,3,33209,0.309,5,8,Yes,1/30/2020
+Los Angeles,78.2a,Echo Park/Hollywood North Central/Silverlake South,83754,39,11.6,47.7,1755.8,2,15044,0.18,3,5,Yes,1/30/2020
+Los Angeles,78.2aa,Bel Air/Beverly Glen/Beverly Hills/Brentwood/Malibu/Pacific Palisades/Santa Monica Northwest/Topanga,97199,99,8.3,105.2,923.9,0,5542,0.057,1,1,No,1/30/2020
+Los Angeles,78.2aaaa,Harbor Gateway South/Lomita/Torrance East Central,115735,431.5,90.5,499.4,231.7,0,14716,0.127,2,2,No,1/30/2020
+Los Angeles,78.2b,Pico-Union,149479,66,20.9,81.7,1829.6,2,54189,0.363,5,7,Yes,1/30/2020
+Los Angeles,78.2bb,North Hollywood Central and North,98953,21.5,18.2,35.2,2811.2,4,23661,0.239,4,8,Yes,1/30/2020
+Los Angeles,78.2bbb,Compton East,93240,15.5,8.3,21.7,4296.8,5,23142,0.248,4,9,Yes,1/30/2020
+Los Angeles,78.2bbbb,Gardena West/Hawthorne,78910,8,9.6,15.2,5191.4,5,12987,0.165,3,8,Yes,1/30/2020
+Los Angeles,78.2c,Bell Northeast/Bell Gardens/Commerce/Maywood/Montebello South,117928,25.5,33.2,50.4,2339.8,3,26769,0.227,4,7,Yes,1/30/2020
+Los Angeles,78.2cc,Van Nuys Central,107344,41.8,14.2,52.5,2044.6,3,25429,0.237,4,7,Yes,1/30/2020
+Los Angeles,78.2ccc,Huntington Park/South Gate West/Walnut Park,106158,51.5,22.8,68.6,1547.5,2,25250,0.238,4,6,Yes,1/30/2020
+Los Angeles,78.2cccc,Chatsworth,110769,30,15.9,41.9,2643.7,4,9839,0.089,1,5,Yes,1/30/2020
+Los Angeles,78.2d,City Terrace East/East Los Angeles,92590,90.5,19.5,105.1,881,0,21085,0.228,4,4,No,1/30/2020
+Los Angeles,78.2dd,Burbank South/Eagle Rock/Glendale Northwest,107354,68,29.2,89.9,1194.1,1,12092,0.113,2,3,No,1/30/2020
+Los Angeles,78.2ddd,Bell Southwest/Cudahy/Vernon,82817,23,9.9,30.4,2724.2,4,22170,0.268,5,9,Yes,1/30/2020
+Los Angeles,78.2dddd,Arcadia Southeast/San Gabriel North,106503,69,13,78.7,1353.3,1,11270,0.106,2,3,No,1/30/2020
+Los Angeles,78.2e,Country Club Park/Koreatown/Mid-City East,132478,75.5,22.9,92.7,1429.1,1,27041,0.204,4,5,Yes,1/30/2020
+Los Angeles,78.2ee,Atwater Village/Glendale Central/Glendale Southwest/Griffith Park,99906,165,56.3,207.2,482.2,0,16294,0.163,3,3,No,1/30/2020
+Los Angeles,78.2eee,Downey Northeast,82646,126.5,49.1,163.3,506.1,0,8317,0.101,2,2,No,1/30/2020
+Los Angeles,78.2eeee,Alhambra/El Sereno South/San Gabriel Central,110429,118,35.4,144.5,764.2,0,17358,0.157,3,3,No,1/30/2020
+Los Angeles,78.2f,Hollywood Hills/Hollywood West/Mount Olympus/West Hollywood,93929,271,24.2,289.1,324.9,0,12635,0.135,2,2,No,1/30/2020
+Los Angeles,78.2ff,Glassell Park/Glendale Southeast/Silverlake North,98073,92.5,20.2,107.7,910.6,0,19784,0.202,4,4,No,1/30/2020
+Los Angeles,78.2fff,Firestone/Florence South/Watts,136403,44,15.9,55.9,2440.1,3,47328,0.347,5,8,Yes,1/30/2020
+Los Angeles,78.2ffff,Boyle Heights Northwest/Chinatown/Downtown Northwest/Little Tokyo/Westlake,103572,877.5,219,1041.8,99.4,0,33435,0.323,5,5,Yes,1/30/2020
+Los Angeles,78.2g,Hollywood South Central/Inner Sunset,111965,745.5,65.1,794.3,141,0,26983,0.241,4,4,No,1/30/2020
+Los Angeles,78.2gg,Angeles National Forest West/Kagel Canyon/Lake View Terrace/San Fernando East/Sylmar,105102,54,17.3,67,1568.7,2,15900,0.151,3,5,Yes,1/30/2020
+Los Angeles,78.2ggg,South Central Northeast,133713,26.8,68.3,78.1,1712.1,2,43436,0.325,5,7,Yes,1/30/2020
+Los Angeles,78.2gggg,Altadena East/Angeles National Forest East/Azusa North/Duarte North/Glendora/Pasadena East,90805,45,19.2,59.4,1528.7,2,8046,0.089,1,3,No,1/30/2020
+Los Angeles,78.2h,Boyle Heights Central/City Terrace West,96023,26.5,13.9,36.9,2602.2,4,27753,0.289,5,9,Yes,1/30/2020
+Los Angeles,78.2hh,Granada Hills/Mission Hills/Porter Ranch,87288,131,30.5,153.9,567.2,0,6135,0.07,1,1,No,1/30/2020
+Los Angeles,78.2hhh,Altadena West/Pasadena Northwest,94517,69,30.2,91.6,1031.8,1,18037,0.191,3,4,No,1/30/2020
+Los Angeles,78.2hhhh,Canoga Park Northeast/Winnetka,100771,34.3,9.9,41.8,2410.8,3,21471,0.213,4,7,Yes,1/30/2020
+Los Angeles,78.2i,El Sereno North/Highland Park/Montecito Heights/Monterey Hills,120535,55,22.9,72.1,1671.8,2,27846,0.231,4,6,Yes,1/30/2020
+Los Angeles,78.2ii,Reseda South/Van Nuys Southwest,99008,28,33.6,53.2,1861.1,2,13438,0.136,2,4,No,1/30/2020
+Los Angeles,78.2iii,North Long Beach,93251,10,7.6,15.7,5939.6,5,20546,0.22,4,9,Yes,1/30/2020
+Los Angeles,78.2iiii,Gardena Southeast/Harbor Gateway Central/Lawndale South/Moneta/Redondo Beach North/Torrance North,113145,61.5,18.6,75.5,1498.6,1,13400,0.118,2,3,No,1/30/2020
+Los Angeles,78.2j,Baldwin Hills/Culver City South/Fox Hills/Ladera Heights/Marina del Rey/View Park/Windsor Hills,128321,78,32.1,102.1,1256.8,1,10865,0.085,1,2,No,1/30/2020
+Los Angeles,78.2jj,Sherman Oaks/Studio City/Valley Village,134833,94,32.1,118,1142.7,1,10798,0.08,1,2,No,1/30/2020
+Los Angeles,78.2jjj,Long Beach West Central,113913,27,21.9,43.4,2624.7,4,34702,0.305,5,9,Yes,1/30/2020
+Los Angeles,78.2jjjj,Norwalk/Studebaker,105912,48.5,15.2,59.9,1768.1,2,14967,0.141,2,4,No,1/30/2020
+Los Angeles,78.2k,South Central Northwest,78614,4,6,8.5,9248.7,5,17789,0.226,4,9,Yes,1/30/2020
+Los Angeles,78.2kk,North Hills/Northridge North,116589,59.5,19.2,73.9,1577.7,2,21014,0.18,3,5,Yes,1/30/2020
+Los Angeles,78.2kkk,Belmont Shore/Long Beach East/Long Beach Shoreline/Los Altos/Naples,126838,229,109,310.8,408.1,0,12357,0.097,1,1,No,1/30/2020
+Los Angeles,78.2kkkk,Santa Monica Central/Sawtelle/West Los Angeles,87942,308.5,49.3,345.4,254.6,0,10060,0.114,2,2,No,1/30/2020
+Los Angeles,78.2l,Exposition Park/Leimert Park,91891,48.5,71.6,102.2,899.1,0,30118,0.328,5,5,Yes,1/30/2020
+Los Angeles,78.2ll,Arleta/Pacoima West/Panorama City/San Fernando West,127853,27,23.5,44.6,2866.7,4,27226,0.213,4,8,Yes,1/30/2020
+Los Angeles,78.2lll,Bixby Knolls/Long Beach Central,108723,258.5,76.6,315.9,344.2,0,15890,0.146,2,2,No,1/30/2020
+Los Angeles,78.2m,Bellflower/Paramount South,100356,77.5,33,102.3,981,0,16414,0.164,3,3,No,1/30/2020
+Los Angeles,78.2mm,Pasadena South/San Marino/South Pasadena,104431,231.5,55.7,273.3,382.1,0,9991,0.096,1,1,No,1/30/2020
+Los Angeles,78.2mmm,Downtown Southeast/Florence North,105359,11.5,26.9,31.7,3323.6,5,36132,0.343,5,10,Yes,1/30/2020
+Los Angeles,78.2n,Cerritos/Hawaiian Gardens,110027,60,29.9,82.4,1335.3,1,10460,0.095,1,2,No,1/30/2020
+Los Angeles,78.2nn,Montebello North/Monterey Park/South San Gabriel,81952,51.5,16.9,64.1,1278.5,1,10508,0.128,2,3,No,1/30/2020
+Los Angeles,78.2nnn,Crenshaw/Culver City East/Mid-City South/West Adams,110507,10.5,12.3,19.7,5609.5,5,28343,0.256,5,10,Yes,1/30/2020
+Los Angeles,78.2o,Miraleste/Palo Verdes Estates/Portuguese Bend/Rancho Palos Verdes/Rolling Hills/San Pedro West,124685,94.5,13.9,104.9,1188.6,1,8290,0.066,1,2,No,1/30/2020
+Los Angeles,78.2oo,El Monte/Five Points,100309,60.8,24.9,79.5,1261.7,1,23938,0.239,4,5,Yes,1/30/2020
+Los Angeles,78.2ooo,Paramount North/Willowbrook,140392,31,24.1,49,2865.1,4,33653,0.24,4,8,Yes,1/30/2020
+Los Angeles,78.2p,Long Beach Port/San Pedro East/Wilmington,114570,22,22.5,38.9,2945.2,4,28546,0.249,4,8,Yes,1/30/2020
+Los Angeles,78.2pp,Hacienda Heights/Industry Central,102418,37,15,48.2,2124.9,3,10351,0.101,2,5,Yes,1/30/2020
+Los Angeles,78.2ppp,Pacoima East/Sun Valley West,104683,21,9.3,28,3738.7,5,20351,0.194,3,8,Yes,1/30/2020
+Los Angeles,78.2q,Del Aire/Inglewood West/Los Angeles International Airport,101856,63.5,49.9,100.9,1009.5,1,15576,0.153,3,4,No,1/30/2020
+Los Angeles,78.2qq,Asuza/Charter Oak/Covina,120861,49,41.1,79.8,1514.5,2,14883,0.123,2,4,No,1/30/2020
+Los Angeles,78.2qqq,Rosemead/San Gabriel South/South El Monte West/Temple City West,90622,90,20.3,105.2,861.4,0,17671,0.195,3,3,No,1/30/2020
+Los Angeles,78.2r,Inglewood East/Lennox,77443,12,13,21.7,3568.8,5,16689,0.216,4,9,Yes,1/30/2020
+Los Angeles,78.2rr,Glendale Northeast/La Canada-Flintridge/La Crescenta/Montrose/Sunland/Tujunga/Verdugo City,111106,45,9.7,52.2,2128.5,3,10683,0.096,1,4,No,1/30/2020
+Los Angeles,78.2rrr,La Mirada/Santa Fe Springs South,101318,67,43.6,99.7,1016.2,1,7213,0.071,1,2,No,1/30/2020
+Los Angeles,78.2s,South Central Southwest,91354,7,2.7,9,10150.4,5,33736,0.369,5,10,Yes,1/30/2020
+Los Angeles,78.2ss,Pomona East and South,116575,48.3,48.1,84.4,1381.2,1,26465,0.227,4,5,Yes,1/30/2020
+Los Angeles,78.2sss,Downey Southwest/Lynwood North Central/South Gate East,95508,69.5,45.3,103.5,922.8,0,15873,0.166,3,3,No,1/30/2020
+Los Angeles,78.2t,Hermosa Beach/Lawndale North/Manhattan Beach/Redondo Beach North,95667,45,29.5,67.1,1425.7,1,6140,0.064,1,2,No,1/30/2020
+Los Angeles,78.2tt,Claremont/La Verne/Pomona Northwest/San Dimas,113552,144,50,181.5,625.6,0,10794,0.095,1,1,No,1/30/2020
+Los Angeles,78.2ttt,Burbank North/North Hollywood South,129364,152,41.7,183.3,705.8,0,15030,0.116,2,2,No,1/30/2020
+Los Angeles,78.2u,Redondo Beach Central and South/Torrance West Central,91412,157.5,46.5,192.4,475.1,0,5827,0.064,1,1,No,1/30/2020
+Los Angeles,78.2uu,La Habra Heights/Whittier,85487,121.5,51.5,160.2,533.6,0,9735,0.114,2,2,No,1/30/2020
+Los Angeles,78.2uuu,Athens/Gardena Northeast/Harbor Gateway North,87129,11,7.3,16.5,5280.5,5,19098,0.219,4,9,Yes,1/30/2020
+Los Angeles,78.2v,Carson/Compton West/Rancho Dominguez,110216,37,39.2,66.4,1659.9,2,12988,0.118,2,4,No,1/30/2020
+Los Angeles,78.2vv,Los Nietos/Santa Fe Springs Northeast,93085,10,4,13,7160.4,5,12238,0.131,2,7,Yes,1/30/2020
+Los Angeles,78.2vvv,Diamond Bar/Industry East/Phillips Ranch/Pomona West/Walnut,113823,72,21.2,87.9,1294.9,1,8572,0.075,1,2,No,1/30/2020
+Los Angeles,78.2w,Century City/Cheviot Hills/Rancho Park/West Los Angeles/Westwood,120985,614,152.7,728.5,166.1,0,21157,0.175,3,3,No,1/30/2020
+Los Angeles,78.2ww,Pico Rivera/Santa Fe Springs Northwest,100417,46,19.2,60.4,1662.5,2,10957,0.109,2,4,No,1/30/2020
+Los Angeles,78.2www,Valinda/West Covina,127444,113,55.2,154.4,825.4,0,13954,0.109,2,2,No,1/30/2020
+Los Angeles,78.2x,Hancock Park/Mid-City West/Park La Brea,126217,311.5,98.9,385.7,327.2,0,14039,0.111,2,2,No,1/30/2020
+Los Angeles,78.2xx,Agoura Hills/Calabasas/Hidden Hills/West Hills/Westlake,118960,130.5,26.2,150.1,792.5,0,8257,0.069,1,1,No,1/30/2020
+Los Angeles,78.2xxx,Arcadia Central and Northeast/Bradbury/Monrovia/Sierra Madre,102294,82.5,23.5,100.2,1020.9,1,9063,0.089,1,2,No,1/30/2020
+Los Angeles,78.2y,Culver City North/Palms,95014,50,12.3,59.2,1605,2,11022,0.116,2,4,No,1/30/2020
+Los Angeles,78.2yy,Encino/Tarzana/Warner Center/Woodland Hills,86052,389,39.4,418.5,205.6,0,6835,0.079,1,1,No,1/30/2020
+Los Angeles,78.2yyy,Bassett/Industry West/La Puente,123348,162,24.8,180.6,683,0,17695,0.143,2,2,No,1/30/2020
+Los Angeles,78.2z,Mar Vista/Ocean Park/Santa Monica South/Venice,78857,57,28.9,78.7,1002,1,10474,0.133,2,3,No,1/30/2020
+Los Angeles,78.2zz,Northridge South/Reseda North,114038,313,45,346.7,328.9,0,20393,0.179,3,3,No,1/30/2020
+Los Angeles,78.2zzz,Baldwin Park/Irwindale,105414,25.5,61.7,71.8,1468.2,1,12493,0.119,2,3,No,1/30/2020
+Madera,79.1,Oakhurst/Yosemite Lakes,26945,7.5,8.6,14,1924.6,2,4099,0.152,3,5,Yes,1/30/2020
+Madera,79.2,Chowchilla,16178,7.5,3.7,10.2,1586.1,2,4282,0.265,5,7,Yes,1/30/2020
+Madera,80,Madera,103051,35,43.1,67.3,1531.2,2,23863,0.232,4,6,Yes,1/30/2020
+Marin,81,Bolinas/Dillon Beach/Inverness/Point Reyes Station/Stinson Beach/Tomales,13674,12,8.7,18.5,739.1,0,1103,0.081,1,1,No,1/30/2020
+Marin,82,Angel Island/Belvedere/Marin City/Sausalito/Strawberry Manor/Tiburon,55400,54,13,63.7,869.7,0,2935,0.053,1,1,No,1/30/2020
+Marin,83a,Corte Madera/Fairfax/Kentfield/Larkspur/Marinwood/Mill Valley/Ross/San Anselmo/San Rafael West/Terra Linda,83395,208,38.2,236.6,352.5,0,4505,0.054,1,1,No,1/30/2020
+Marin,83b,Bel Marin Keys/Black Point/Ignacio/Novato/San Rafael East/Santa Venetia,102159,79,31.9,102.9,992.8,0,11972,0.117,2,2,No,1/30/2020
+Mariposa,85,Bootjack/CatheyGÇÖs Valley/Coulterville/Don Pedro/El Portal/Fish Camp/Mariposa,15655,5,4,8,1956.9,2,2415,0.154,3,5,Yes,1/30/2020
+Mariposa,86,Yosemite Valley,1801,0,1,0.7,2572.9,4,214,0.119,2,6,Yes,1/30/2020
+Mendocino,87.1,Boonville/Navarro/Philo/Yorkville,2897,1,1,1.8,1609.4,2,579,0.2,3,5,Yes,1/30/2020
+Mendocino,87.2,Elk/Little River/Mendocino,7518,1,0,1,7518,5,1148,0.153,3,8,Yes,1/30/2020
+Mendocino,88,Anchor Bay/Gualala/Manchester/Point Arena,4094,2,2,3.5,1169.7,1,493,0.12,2,3,No,1/30/2020
+Mendocino,89,Fort Bragg/Westport,11484,8.3,9.3,15.2,755.5,0,2069,0.18,3,3,No,1/30/2020
+Mendocino,90,Laytonville/Leggett/Piercy,3596,2,1.7,3.2,1123.8,1,975,0.271,5,6,Yes,1/30/2020
+Mendocino,91,Brooktrails/Pine Mountain/Willits,12509,7.6,2.3,9.3,1345.1,1,2835,0.227,4,5,Yes,1/30/2020
+Mendocino,92,Covelo/Dos Rios,2496,1,0.3,1.2,2080,3,689,0.276,5,8,Yes,1/30/2020
+Mendocino,93.1,Ukiah,27275,12.1,28.2,33.2,821.5,0,5499,0.202,4,4,No,1/30/2020
+Mendocino,93.2,Redwood Valley,5992,4,3.3,6.5,921.8,0,702,0.117,2,2,No,1/30/2020
+Mendocino,93.3,Potter Valley,1896,0,0,0,,5,411,0.217,4,9,Yes,1/30/2020
+Mendocino,93.4,Talmage,4000,0,0,0,,5,633,0.158,3,8,Yes,1/30/2020
+Mendocino,93.5,Hopland,2275,0,0,0,,5,415,0.182,3,8,Yes,1/30/2020
+Merced,94,Dos Palos/Gustine/Los Banos,59460,10,19.9,24.9,2388,3,13005,0.219,4,7,Yes,1/30/2020
+Merced,95,Ballico/Cressey/Delhi/Hilmar/Livingston,42432,10,14,20.5,2069.9,3,7098,0.167,3,6,Yes,1/30/2020
+Merced,96,Atwater/Snelling/Winton,50853,16.5,7,21.7,2343.5,3,10659,0.21,4,7,Yes,1/30/2020
+Merced,97.1,Merced Central and North/Merced Southeast,76031,81,28.1,102.1,744.7,0,19290,0.254,5,5,Yes,1/30/2020
+Merced,97.2,El Nido/Merced Southwest,24472,43,20.9,58.7,416.9,0,8591,0.351,5,5,Yes,1/30/2020
+Merced,97.3,Le Grand/Planada,7775,2.5,2.7,4.5,1727.8,2,2218,0.285,5,7,Yes,1/30/2020
+Modoc,98,Alturas/Canby,6234,3,4.7,6.5,959.1,0,1266,0.203,4,4,No,1/30/2020
+Modoc,99,Surprise Valley,1102,0,0,0,,5,172,0.156,3,8,Yes,1/30/2020
+Modoc,100,Adin/Lookout/Newell,1392,0,0,0,,5,146,0.105,2,7,Yes,1/30/2020
+Mono,102,Benton/Bridgeport/Chalfant/Crowley Lake/Coleville/Hammill Valley/June Lake/Lee Vining/Paradise/Sunny Slopes/Topaz/Walker,5860,1,2,2.5,2344,3,760,0.13,2,5,Yes,1/30/2020
+Mono,103,Mammoth Lakes,8083,13,6,17.5,461.9,0,618,0.076,1,1,No,1/30/2020
+Monterey,104,Big Sur/Lucia,1696,0.5,0.7,1,1696,2,238,0.14,2,4,No,1/30/2020
+Monterey,105,King City/San Lucas,17047,17,5.7,21.2,804.1,0,4157,0.244,4,4,No,1/30/2020
+Monterey,106,Bradley/San Ardo,3579,0,0,0,,5,748,0.209,4,9,Yes,1/30/2020
+Monterey,107,Chualar/Gonzalez/Greenfield/Soledad,47914,21,10.2,28.7,1669.5,2,8282,0.173,3,5,Yes,1/30/2020
+Monterey,108,Carmel Valley/Castroville/Marina/Moss Landing/Ord,54806,27,0.7,27.5,1992.9,2,6091,0.111,2,4,No,1/30/2020
+Monterey,109.1,Aromas/Las Lomas/Pajaro/Prunedale,45458,4,2,5.5,8265.1,5,4790,0.105,2,7,Yes,1/30/2020
+Monterey,109.2,Salinas/Spreckels,153612,200,46.8,235.1,653.4,0,26549,0.173,3,3,No,1/30/2020
+Monterey,110,Carmel/Del Rey Oaks/Monterey/Pacific Grove/Sand City/Seaside,91349,143.5,38.8,172.6,529.3,0,10078,0.11,2,2,No,1/30/2020
+Napa,111.1,Angwin/Deer Park/St. Helena,12684,17.5,7.9,23.4,542.1,0,1306,0.103,2,2,No,1/30/2020
+Napa,111.2,Calistoga,6573,3,0,3,2191,3,672,0.102,2,5,Yes,1/30/2020
+Napa,111.3,Berryessa,1741,0,0,0,,5,79,0.045,0,5,Yes,1/30/2020
+Napa,112.1,Napa Central,63398,68,22.3,84.7,748.5,0,5046,0.08,1,1,No,1/30/2020
+Napa,112.2,Napa Northeast/Rutherford/Yountville,31661,39,14.6,49.9,634.5,0,2337,0.074,1,1,No,1/30/2020
+Napa,112.3,American Canyon,21358,2,2,3.5,6102.3,5,1845,0.086,1,6,Yes,1/30/2020
+Nevada,113,Grass Valley/Nevada City/Penn Valley/Rough and Ready/Wildwood,77416,66,27.2,86.4,896,0,9935,0.128,2,2,No,1/30/2020
+Nevada,114,North Bloomfield/North San Juan/Truckee,20421,19,9.9,26.4,773.5,0,1926,0.094,1,1,No,1/30/2020
+Orange,115.1,Dana Point/San Clemente/San Juan Capistrano,116086,76,23.8,93.9,1236.3,1,10187,0.088,1,2,No,1/30/2020
+Orange,115.2a,Lake Forest East/Mission Viejo Central and South,116381,125,37.4,153,760.7,0,6745,0.058,1,1,No,1/30/2020
+Orange,115.2b,Coto de Caza/Las Flores/Mission Viejo Northwest/Rancho Santa Margarita/Trabuco Canyon,144626,80,17.2,92.9,1556.8,2,5653,0.039,0,2,No,1/30/2020
+Orange,115.2c,Aliso Viejo/Laguna Hills/Laguna Niguel,128572,109,38.1,137.6,934.4,0,8492,0.066,1,1,No,1/30/2020
+Orange,115.2d,Laguna Beach/Laguna Woods,80187,75.5,42.7,107.5,745.9,0,7989,0.1,1,1,No,1/30/2020
+Orange,116a,Buena Park/La Palma,81893,45,13.6,55.2,1483.6,1,12878,0.157,3,4,No,1/30/2020
+Orange,116b,Santa Ana Central,112026,68,16.5,80.4,1393.4,1,29637,0.265,5,6,Yes,1/30/2020
+Orange,116c,Anaheim West,125422,86.5,17.2,99.4,1261.8,1,21459,0.171,3,4,No,1/30/2020
+Orange,116d,Irvine South/Newport Beach/Newport Coast/San Joaquin Hills,145141,152.5,39.8,182.4,795.7,0,13969,0.096,1,1,No,1/30/2020
+Orange,116e,Cypress/Los Alamitos/Rossmoor,115854,113.5,27.8,134.4,862,0,8280,0.071,1,1,No,1/30/2020
+Orange,116f,Fullerton Central and South,106134,103,44.5,136.4,778.1,0,16342,0.154,3,3,No,1/30/2020
+Orange,116g,Santa Ana South,119730,83,48,119,1006.1,1,18443,0.154,3,4,No,1/30/2020
+Orange,116h,City of Orange South/Santa Ana North/Tustin Foothills/Tustin West,141882,380.5,124.5,473.8,299.5,0,22633,0.16,3,3,No,1/30/2020
+Orange,116i,Garden Grove South/Santa Ana West,120364,83,17.2,95.9,1255.1,1,23297,0.194,3,4,No,1/30/2020
+Orange,116j,Fountain Valley/Huntington Beach Central,80319,162.5,46.5,197.4,406.9,0,7435,0.093,1,1,No,1/30/2020
+Orange,116k,Brea West/Fullerton North/La Habra,110930,57,21.2,72.9,1521.7,2,11734,0.106,2,4,No,1/30/2020
+Orange,116l,Anaheim Central,100929,109,31.4,132.6,761.2,0,20249,0.201,4,4,No,1/30/2020
+Orange,116m,Brea East/Placentia Central and North/Yorba Linda,146322,106,43.1,138.3,1058,1,8619,0.059,1,2,No,1/30/2020
+Orange,116n,Anaheim Hills/City of Orange East/Villa Park,124796,408.5,27,428.7,291.1,0,7970,0.064,1,1,No,1/30/2020
+Orange,116o,Irvine Central/Tustin East,99394,199,40.5,229.4,433.3,0,9531,0.096,1,1,No,1/30/2020
+Orange,116p,Costa Mesa,115982,239.5,87.5,305.1,380.1,0,16348,0.141,2,2,No,1/30/2020
+Orange,116q,Anaheim East/City of Orange North/Placentia Southwest,124780,26,20.6,41.4,3014,5,19711,0.158,3,8,Yes,1/30/2020
+Orange,116r,Garden Grove North/Stanton,127633,230,34.1,255.5,499.5,0,23293,0.182,3,3,No,1/30/2020
+Orange,116s,Huntington Beach North/Seal Beach East/Westminster,128512,132.5,38.8,161.6,795.2,0,25310,0.197,3,3,No,1/30/2020
+Orange,116t,Huntington Beach South,83242,57.5,24.9,76.2,1092.4,1,4642,0.056,1,2,No,1/30/2020
+Orange,116u,Huntington Beach West/Seal Beach West,89287,38,23.9,55.9,1597.3,2,6825,0.076,1,3,No,1/30/2020
+Orange,116v,Foothill Ranch/IrvineNortheast/Lake Forest West/Portola Hills/Tustin East,132093,36,19.9,50.9,2595.1,4,10788,0.082,1,5,Yes,1/30/2020
+Placer,117,Dollar Point/Kings Beach/Sunnyside/Tahoe City/Tahoe Vista,10464,1,2,2.5,4185.6,5,1214,0.116,2,7,Yes,1/30/2020
+Placer,118,Colfax/Meadow Vista,28043,6,5.6,10.2,2749.3,4,2885,0.103,2,6,Yes,1/30/2020
+Placer,119,Auburn/Newcastle/Lincoln/Sheridan,98699,98,23.9,115.9,851.6,0,8898,0.09,1,1,No,1/30/2020
+Placer,120,Foresthill,6534,1,0,1,6534,5,626,0.096,1,6,Yes,1/30/2020
+Placer,121.1,Roseville,112387,45,30.9,68.1,1650.3,2,10411,0.093,1,3,No,1/30/2020
+Placer,121.2,Rocklin/Granite Bay,115540,318,76.8,375.6,307.6,0,6439,0.056,1,1,No,1/30/2020
+Plumas,122,Belden/Caribou/Crescent Mills/Genessee/Greenville/Indian Falls/North Arm/Storrie/Taylorsville/Tobin/Twain,2679,1,0.3,1.2,2232.5,3,356,0.133,2,5,Yes,1/30/2020
+Plumas,123.1,Bucks Lake/Cromberg/East Quincy/Greenhorn/Keddie/Laporte/Little Grass Valley/Meadow Valley/Quincy/Sloat/Spring Garden,6143,12.5,2,14,438.8,0,943,0.154,3,3,No,1/30/2020
+Plumas,123.2,Blairsden/Clio/C-Road/Gold Mountain/Greagle/Johnsville/Mohawk Meadows/Mohawk Vista/Plumas Eureka/Plumas Pines/Sierra Springs/Valley Ranch/White Hawk,1423,0,0,0,,5,91,0.064,1,6,Yes,1/30/2020
+Plumas,124,Beckwourth/Chilcoot/Crocker Mountain/Delleker/Iron Horse/Lake Davis/Maybe/Portola/Valley View/Vinton,4058,4,0.3,4.2,966.2,0,678,0.167,3,3,No,1/30/2020
+Plumas,125,Bailey Creek/Canyondam/Chester/Eastshore/Foxwood/Hamilton Branch/Lake Almanor Peninsula/Lake Almanor Peninsula/Lake Almanor West/Prattville/Warner Valley,4074,4,1,4.8,848.8,0,371,0.091,1,1,No,1/30/2020
+Riverside,126,Blythe,14600,5,2.7,7,2085.7,3,3753,0.257,5,8,Yes,1/30/2020
+Riverside,127,Chiriaco Summit/Desert Center/Eagle Mountain,1696,5.5,1,6.3,269.2,0,352,0.208,4,4,No,1/30/2020
+Riverside,128,Arabia/Coachella/Desert Beach/Flowing Wells/Indio South/La Quinta East/Mecca/Oasis/Thermal,103848,37,20.2,52.2,1989.4,2,27311,0.263,5,7,Yes,1/30/2020
+Riverside,129.1,Bermuda Dunes South/Indian Wells/La Quinta West/Palm Desert/Rancho Mirage Central and South,104582,152.5,58.1,196.1,533.3,0,12971,0.124,2,2,No,1/30/2020
+Riverside,129.2,Bermuda Dunes North/Indio North,60375,14,1.7,15.2,3972,5,10207,0.169,3,8,Yes,1/30/2020
+Riverside,129.3,Agua Caliente/Palm Springs Central,28840,17,5.3,21,1373.3,1,5342,0.185,3,4,No,1/30/2020
+Riverside,129.4,Cathedral City Southeast/Palm Desert North/Palm Springs South/Rancho Mirage North,139974,121.5,49.7,158.8,881.4,0,31786,0.227,4,4,No,1/30/2020
+Riverside,130,Idyllwild/Pine Cove,12466,0,3.3,2.5,4986.4,5,2121,0.17,3,8,Yes,1/30/2020
+Riverside,132,East Hemet/Hemet/Valle Vista,149192,55.5,48.4,91.8,1625.2,2,32365,0.217,4,6,Yes,1/30/2020
+Riverside,133.1,Canyon Lake/Perris/Quail Valley/Romoland/Sun City/Winchester,191025,43,20.5,58.4,3271,5,29479,0.154,3,8,Yes,1/30/2020
+Riverside,133.2,Homeland/Lakeview/San Jacinto,32019,0,0.3,0.2,160095,5,4663,0.146,2,7,Yes,1/30/2020
+Riverside,133.3,Glen Valley/Mead Valley,25428,1,0,1,25428,5,7432,0.292,5,10,Yes,1/30/2020
+Riverside,134,Banning/Beaumont/Cabizon/Calimesa/Cherry Valley,156999,114,48.3,150.2,1045.3,1,23030,0.147,2,3,No,1/30/2020
+Riverside,131a,Lake Elsinore/Murrieta West/Sedco Hills/Wildomar,154507,69,32.3,93.2,1657.8,2,20702,0.134,2,4,No,1/30/2020
+Riverside,131b,French Valley/Murrieta East/Temecula/Winchester,160430,50,26.5,69.9,2295.1,3,13653,0.085,1,4,No,1/30/2020
+Riverside,131c,Temecula South,90043,72,66.2,121.7,739.9,0,5084,0.056,1,1,No,1/30/2020
+Riverside,135a,Eastside/Fairmont Park/Riverside Downtown/Rubidoux/University,101703,44,36,71,1432.4,1,25252,0.248,4,5,Yes,1/30/2020
+Riverside,135b,Edgemont/Orange Crest/Woodcrest,171604,71.5,46,106,1618.9,2,24791,0.144,2,4,No,1/30/2020
+Riverside,135c,Casablanca/Riverside Central,89487,129.5,46,164,545.7,0,15488,0.173,3,3,No,1/30/2020
+Riverside,135d,Arlington/Corona East/Home Gardens/La Sierra/Riverside Southwest,124197,273.5,43.4,306.1,405.7,0,21248,0.171,3,3,No,1/30/2020
+Riverside,135e,Corona North/Glen Avon/Jurupa/Norco,182370,36,19.2,50.4,3618.5,5,17538,0.096,1,6,Yes,1/30/2020
+Riverside,135f,Corona South/El Cerrito/Temescal,131622,63,33.3,88,1495.7,1,11672,0.089,1,2,No,1/30/2020
+Riverside,135g,Moreno Valley,92987,7.5,12.6,17,5469.8,5,15975,0.172,3,8,Yes,1/30/2020
+Sacramento,136,Clay/Galt/Herald/Wilton,38278,4.3,2.7,6.3,6075.9,5,5429,0.142,2,7,Yes,1/30/2020
+Sacramento,137,Clarksburg/Hood/Isleton/Locke/Walnut Grove,5522,1,0.3,1.2,4601.7,5,799,0.145,2,7,Yes,1/30/2020
+Sacramento,138,Rancho Murieta/Sloughhouse,22811,5,2,6.5,3509.4,5,1278,0.056,1,6,Yes,1/30/2020
+Sacramento,139a,Elverta/Natomas/North Highlands/Rio Linda,197817,42,14.2,52.6,3760.8,5,28800,0.146,2,7,Yes,1/30/2020
+Sacramento,139b,Carmichael/Fair Oaks/Gold River,92633,122,49.3,159,582.6,0,13071,0.141,2,2,No,1/30/2020
+Sacramento,139c,Antelope/Citrus Heights/Foothill Farms,123186,28,10.9,36.2,3402.9,5,19972,0.162,3,8,Yes,1/30/2020
+Sacramento,139d,Arcade/Arden/Town and Country Village,78207,206,38.8,235.1,332.7,0,13365,0.171,3,3,No,1/30/2020
+Sacramento,139e,Folsom/Orangevale,110552,72,49.1,108.8,1016.1,1,7059,0.064,1,2,No,1/30/2020
+Sacramento,139f,Florin/Fruitridge/Oak Park/Parkway/South Sacramento,124342,363,86.4,427.8,290.7,0,35349,0.284,5,5,Yes,1/30/2020
+Sacramento,139g,East Sacramento/La Riviera/Mather/Rancho Cordova/Rosemont,129185,117,37.8,145.3,889.1,0,20120,0.156,3,3,No,1/30/2020
+Sacramento,139h,Elk Grove/Laguna/Laguna West/Lakeside,81004,244,39.5,273.6,296.1,0,11677,0.144,2,2,No,1/30/2020
+Sacramento,139i,Greenhaven/Land Park/Midtown/Pocket/Riverside/Sutterville,84967,223,79.1,282.3,301,0,7875,0.093,1,1,No,1/30/2020
+Sacramento,139j,Capitol Park/Del Paso Heights/Downtown/Gardenland/North Sacramento,127877,122,78.4,180.8,707.3,0,42398,0.332,5,5,Yes,1/30/2020
+Sacramento,139k,Freeport/Meadowview,87716,23,20.6,38.5,2278.3,3,22445,0.256,5,8,Yes,1/30/2020
+Sacramento,139l,Vineyard,81806,4,3,6.3,12985.1,5,9259,0.113,2,7,Yes,1/30/2020
+Sacramento,139m,Central South Elk Grove/Franklin,88663,80,27.2,100.4,883.1,0,7307,0.082,1,1,No,1/30/2020
+San Benito,140,Hollister/Paicines/Panoche/San Juan Bautista,58318,17,9.9,24.4,2390.1,3,5670,0.097,1,4,No,1/30/2020
+San Bernardino,142,Argus/Borosalvay/Trona,1999,0,0.3,0.2,9995,5,572,0.286,5,10,Yes,1/30/2020
+San Bernardino,143,Big River/Needles,6592,0,2,1.5,4394.7,5,1710,0.259,5,10,Yes,1/30/2020
+San Bernardino,144.1,USMC Air-Ground Combat Training Center,5655,6,8.6,12.4,456,0,865,0.153,3,3,No,1/30/2020
+San Bernardino,144.2,Joshua Tree/Landers/Morongo Valley/Rimrock/Yucca Valley,41100,10,15.6,21.7,1894,2,9004,0.219,4,6,Yes,1/30/2020
+San Bernardino,144.3,Cadiz/Twentynine Palms,19535,0,2.6,2,9767.5,5,5031,0.258,5,10,Yes,1/30/2020
+San Bernardino,145.2,Adelanto/Phelan/Pinon Hills/Victorville Northwest,57125,4,4.3,7.2,7934,5,16514,0.289,5,10,Yes,1/30/2020
+San Bernardino,145.3,Lucerne Valley,5237,0,0,0,,5,1330,0.254,5,10,Yes,1/30/2020
+San Bernardino,146,Big Bear Lake/Fawnskin/Moorridge/Running Springs/Sugarloaf,26025,3,9.6,10.2,2551.5,4,4229,0.162,3,7,Yes,1/30/2020
+San Bernardino,147,Blue Jay/Crestline/Lake Arrowhead/Skyforest/Twin Peaks,21784,5,2.3,6.7,3251.3,5,3570,0.164,3,8,Yes,1/30/2020
+San Bernardino,148,Lytle Creek/Wrightwood,6720,0,0,0,,5,806,0.12,2,7,Yes,1/30/2020
+San Bernardino,149,Barstow/Daggett/Lenwood/Nebo Center/Oro Grande/Yermo,53079,12,9.3,19,2793.6,4,15533,0.293,5,9,Yes,1/30/2020
+San Bernardino,150,Baker/Harvard/Newberry Springs,11166,4,8.3,10.2,1094.7,1,1069,0.096,1,2,No,1/30/2020
+San Bernardino,145.1a,Hesperia West/Mountain View Acres/Victorville Central and South,185393,99,58,142.5,1301,1,40353,0.218,4,5,Yes,1/30/2020
+San Bernardino,145.1b,Apple Valley/Hesperia East,116152,60,34.4,85.8,1353.8,1,21877,0.188,3,4,No,1/30/2020
+San Bernardino,151a,Chino Hills/Chino West Central/Los Serranos/Sleepy Hollow,121800,78.5,30.3,101.3,1202.4,1,10223,0.084,1,2,No,1/30/2020
+San Bernardino,151b,Ontario Northeast/Rancho Cucamonga South,99506,81.5,28.1,102.6,969.8,0,14462,0.145,2,2,No,1/30/2020
+San Bernardino,151c,Montclair/Ontario Northwest/Upland South,129571,75.5,42.4,107.3,1207.6,1,26646,0.206,4,5,Yes,1/30/2020
+San Bernardino,151d,Rancho Cucamonga Northwest/San Antonio Heights/Upland North,85661,34,31.2,57.4,1492.4,1,8030,0.094,1,2,No,1/30/2020
+San Bernardino,151e,Fontana North/Rancho Cucamonga Northwest/Rialto Northeast,198013,34,42.4,65.8,3009.3,5,14496,0.073,1,6,Yes,1/30/2020
+San Bernardino,151f,Bloomington/Colton Central and West/Fontana South/Rialto South,143180,408,101,483.8,295.9,0,26221,0.183,3,3,No,1/30/2020
+San Bernardino,151g,Muscoy/San Bernardino Central,127436,74,31.4,97.5,1307,1,42806,0.336,5,6,Yes,1/30/2020
+San Bernardino,151h,Fontana Central/Rialto Central,137445,54,24.2,72.2,1903.7,2,29571,0.215,4,6,Yes,1/30/2020
+San Bernardino,151i,Colton Southeast/Grand Terrace/Loma Linda/Redlands North,104276,380.5,125.3,474.5,219.8,0,17481,0.168,3,3,No,1/30/2020
+San Bernardino,151j,Mentone/Redlands South/Yucaipa,100394,111,33.9,136.4,736,0,11878,0.118,2,2,No,1/30/2020
+San Bernardino,151k,Highland/San Bernardino East,119130,87.5,33.3,112.5,1058.9,1,36041,0.303,5,6,Yes,1/30/2020
+San Bernardino,151l,Chino Northeast/Fontana Southwest/Ontario South,138525,35,17.2,47.9,2892,4,14492,0.105,2,6,Yes,1/30/2020
+San Diego,152,Borrego Springs/Cuyamaca/Julian/Kentwood in the Pines/Laguna/Ocotillo Wells/Palomar/Pine Valley/Warner Springs,9652,7.5,1.3,8.5,1135.5,1,1305,0.135,2,3,No,1/30/2020
+San Diego,153.1,Pala/Pauma Valley,7361,0,0.3,0.2,36805,5,1069,0.145,2,7,Yes,1/30/2020
+San Diego,153.2,Rincon/San Pasqual/Valley Center,16566,7,4.7,10.5,1577.7,2,1971,0.119,2,4,No,1/30/2020
+San Diego,154,Barona/Moreno,2626,0,0,0,,5,353,0.134,2,7,Yes,1/30/2020
+San Diego,155,Alpine/Blossom Valley/Crest/Descanso/Glen Oaks/Harbison Canyon/Japatul/Palo Verde,34064,6,6,10.5,3244.2,5,3100,0.091,1,6,Yes,1/30/2020
+San Diego,157,Dulzura/Engineer Springs/Indian Springs/Jamacha/Jamul,16218,3,4.7,6.5,2495.1,3,1149,0.071,1,4,No,1/30/2020
+San Diego,158.1,Ramona/Rock Haven/Rosemont,25754,13,3.3,15.5,1661.5,2,2311,0.09,1,3,No,1/30/2020
+San Diego,158.2,Ballena/Four Corners/San Diego Country Estates,11385,0,0,0,,5,338,0.03,0,5,Yes,1/30/2020
+San Diego,159,Buckman Springs/Canyon City/Jacumba/Morena Village/Tecate,7072,0,2.7,2,3536,5,1359,0.192,3,8,Yes,1/30/2020
+San Diego,160,Bonsall/Camp Pendleton/Fallbrook/Live Oak Park/Rainbow/San Luis Rey Heights/Winterwarm,72487,36,21.5,52.1,1391.3,1,8408,0.116,2,3,No,1/30/2020
+San Diego,156a,Encinitas Central/Leucadia/Oceanside North and West/San Luis Rey/South Oceanside,114604,102.5,42.8,134.6,851.4,0,15074,0.132,2,2,No,1/30/2020
+San Diego,156b,Carlsbad East/Encinitas East/Oceanside East,115730,51.5,47.4,87,1330.2,1,10313,0.089,1,2,No,1/30/2020
+San Diego,156c,Cardiff by the Sea/Eden Gardens/Harmony Grove/La Costa/Ocean Hills/Lomas Santa Fe/Olivehain/Rancho Santa Fe/San Marcos South/Solana Beach/Vista South,164809,157,59.4,201.6,817.5,0,12064,0.073,1,1,No,1/30/2020
+San Diego,156d,Oceanside East/San Marcos West/Vista,132304,158,68.3,209.2,632.4,0,20487,0.155,3,3,No,1/30/2020
+San Diego,156e,Escondido Central and South/San Marcos Central and East,138440,174,54.2,214.7,644.8,0,25417,0.184,3,3,No,1/30/2020
+San Diego,156f,Escondido East/Hidden Meadows/Poway North,105001,15.5,9,22.2,4729.8,5,8568,0.082,1,6,Yes,1/30/2020
+San Diego,161a,Clairemont/Fiesta Shores/Linda Vista/Mission Beach/Sorrento/University City,153333,111.5,75.3,168,912.7,0,24898,0.162,3,3,No,1/30/2020
+San Diego,161b,Bay Park/Five Points/Hillcrest Northwest/Mission Hills/Mission Valley/Morena/Normal Heights/Old Town/Serra Mesa,102204,663.8,199,813,125.7,0,11614,0.114,2,2,No,1/30/2020
+San Diego,161c,Downtown/Golden Hill/Logan Heights,82416,151.5,74.1,207.1,398,0,23565,0.286,5,5,Yes,1/30/2020
+San Diego,161d,Chollas Creek/City Heights/East San Diego/North Park/Oak Park/South Park,101704,49,20.6,64.4,1579.3,2,25180,0.248,4,6,Yes,1/30/2020
+San Diego,161e,College Heights/Hillcrest Southeast/Kensington/Rolando North/University Heights,94234,145,49,181.7,518.6,0,19137,0.203,4,4,No,1/30/2020
+San Diego,161f,La Mesa/Rolando South,85180,136.5,44.6,170,501.1,0,12693,0.149,2,2,No,1/30/2020
+San Diego,161g,Encanto/Lemon Grove Northwest/Lincoln Acres/National City East/Paradise Hills Southwest,100797,61.5,26.9,81.7,1233.7,1,22440,0.223,4,5,Yes,1/30/2020
+San Diego,161h,El Cajon Central and South/Fletcher Hills,89935,45.5,23.6,63.2,1423,1,20564,0.229,4,5,Yes,1/30/2020
+San Diego,161i,Calavo Gardens/Casa de Oro/Cottonwood/Grossmont/Homelands/Lemon Grove Central and North/Mount Helix/Rancho San Diego/Spring Valley,86139,33,10.6,40.9,2106.1,3,11128,0.129,2,5,Yes,1/30/2020
+San Diego,161j,Castle Park/Chula Vista Southwest/Imperial Beach West/Nestor East/Palm City/San Ysidro/South San Diego,156401,59,31.5,82.6,1893.5,2,28672,0.183,3,5,Yes,1/30/2020
+San Diego,161k,Chula Vista Central and Northwest/National City West,76722,85,43.1,117.4,653.5,0,18133,0.236,4,4,No,1/30/2020
+San Diego,161l,Lemon Grove South/Paradise Hills,83744,5,1,5.8,14438.6,5,10647,0.127,2,7,Yes,1/30/2020
+San Diego,161m,Carlton Hills/El Cajon North/Eucalyptus Hills/Lake Murray/Loma Portal/San Carlos/Santee,88373,28,11.6,36.7,2408,3,5908,0.067,1,4,No,1/30/2020
+San Diego,161n,Civic Center/Coronado/Harbor Island/Imperial Beach East/Nestor West/Ocean Beach/Point Loma/Silver Strand,57933,40,19.5,54.7,1059.1,1,5791,0.1,1,2,No,1/30/2020
+San Diego,161o,Allied Gardens/Del Cerro/Grantville/Miramar/Tierrasanta,88526,405,57.6,448.2,197.5,0,7779,0.088,1,1,No,1/30/2020
+San Diego,161p,Carmel Valley/Del Dios/Escondido South/Fairbanks Ranch/Poway Southeast/Rancho Bernardo Southeast/Rancho Penasquitos,162226,131,26.5,150.9,1075.1,1,9008,0.056,1,2,No,1/30/2020
+San Diego,161q,Poway Central/Poway Grove/Rancho Bernardo Southwest/Sabre Springs,81106,109,33.2,133.9,605.7,0,5063,0.062,1,1,No,1/30/2020
+San Diego,161r,Crown Point/Del Mar/La Jolla/Pacific Beach,79727,342,112.6,426.4,187,0,7960,0.1,1,1,No,1/30/2020
+San Diego,161s,Cockatoo Grove/Eastlake Greens/Otay Mesa,154686,82.5,34.9,108.7,1423.1,1,15980,0.103,2,3,No,1/30/2020
+San Diego,161t,Bonita/Chula Vista East/Eastlake/La Presa/Lynwood Hills/Rancho del Rey/Sunnyside/Sunny Vista,97007,32.5,12.3,41.7,2326.3,3,8527,0.088,1,4,No,1/30/2020
+San Diego,161u,Bostonia/Glenview/Granite Hills/Hillsdale/Johnstown/Lakeside/Riverview/Winter Gardens,88175,21,4,24,3674,5,11593,0.131,2,7,Yes,1/30/2020
+San Diego,161v,Mira Mesa/Scripps Miramar Ranch,118493,87,23.9,104.9,1129.6,1,7465,0.063,1,2,No,1/30/2020
+San Francisco,162a,Chinatown/Civic Center/Inner Mission/North Beach/South of Market/Tenderloin/Western Addition,115537,190,103.7,267.8,431.4,0,25628,0.222,4,4,No,1/30/2020
+San Francisco,162b,Cow Hollow/Financial District/Marina/Nob Hill/Pacific Heights/Russian Hill/Seacliff,94756,382,105.5,461.1,205.5,0,7203,0.076,1,1,No,1/30/2020
+San Francisco,162c,Bernal Heights/Mission District/Potrero Hill,116403,362,79.8,421.8,276,0,11350,0.098,1,1,No,1/30/2020
+San Francisco,162d,Excelsior/Glen Park/Ingleside/Lake Merced/Merced Heights/Ocean Beach South/Park Merced/Saint Francis Wood/Westwood Park,133271,52,14.6,63,2115.4,3,14843,0.111,2,5,Yes,1/30/2020
+San Francisco,162e,Golden Gate Park/Parkside/Sunset/West Portal,85091,56,15.3,67.5,1260.6,1,6622,0.078,1,2,No,1/30/2020
+San Francisco,162f,Bayview/Candlestick/Hunters Point/Portola/Visitacion Valley,85577,23.5,4,26.5,3229.3,5,14036,0.164,3,8,Yes,1/30/2020
+San Francisco,162g,Buena Vista/Castro/Eureka Valley/Forest Hill/Haight-Ashbury/Noe Valley/West of Twin Peaks,126483,802,93.7,872.3,145,0,10535,0.083,1,1,No,1/30/2020
+San Francisco,162h,Laurel Heights/Ocean Beach North/Richmond/Sutro Heights,93429,270,45.8,304.4,306.9,0,8879,0.095,1,1,No,1/30/2020
+San Joaquin,163,Tracy,108560,73.5,20.2,88.7,1223.9,1,8797,0.081,1,2,No,1/30/2020
+San Joaquin,164.1,Lathrop/Manteca,87488,52.5,13.3,62.4,1402.1,1,10636,0.122,2,3,No,1/30/2020
+San Joaquin,164.2,Banta/Escalon/Ripon/Vernalis,51802,15.5,5.3,19.4,2670.2,4,6247,0.121,2,6,Yes,1/30/2020
+San Joaquin,165,Farmington/Linden,6215,1,0,1,6215,5,534,0.086,1,6,Yes,1/30/2020
+San Joaquin,166,Lodi,67809,37.8,17.3,50.8,1334.8,1,11458,0.169,3,4,No,1/30/2020
+San Joaquin,167,Lockeford/North Woodbridge,40455,0,0.7,0.5,80910,5,4710,0.116,2,7,Yes,1/30/2020
+San Joaquin,168,South Woodbridge/Thornton,25731,1,2.3,2.7,9530,5,2448,0.095,1,6,Yes,1/30/2020
+San Joaquin,169a,Stockton North Central/Stockton Northeast,99032,138.3,43.5,170.9,579.5,0,24901,0.251,5,5,Yes,1/30/2020
+San Joaquin,169b,French Camp/Stockton South/Stockton Southeast,136198,84.5,29.4,106.6,1277.7,1,37832,0.278,5,6,Yes,1/30/2020
+San Joaquin,169c,Stockton Northwest/Stockton West,87191,52.5,19.9,67.4,1293.6,1,13733,0.158,3,4,No,1/30/2020
+San Luis Obispo,170,Atascadero/Templeton,38945,69.5,40.2,99.6,391,0,2776,0.071,1,1,No,1/30/2020
+San Luis Obispo,171,Arroyo Grande/Nipomo/Oceano/Pismo Beach,83349,63.5,24.9,82.1,1015.2,1,7894,0.095,1,2,No,1/30/2020
+San Luis Obispo,172,San Luis Obispo,54673,115,43.3,147.5,370.7,0,15938,0.292,5,5,Yes,1/30/2020
+San Luis Obispo,173,El Paso de Robles/Lake Nacimiento/San Miguel/Shandon,49950,15,8.3,21.2,2356.1,3,5909,0.118,2,5,Yes,1/30/2020
+San Luis Obispo,174,Baywood/Cambria/Cayucos/Morro Bay/Los Osos,37211,24.5,5,28.2,1319.5,1,3903,0.105,2,3,No,1/30/2020
+San Mateo,175.1,El Granada/Half Moon Bay/Miramar/Montara/Moss Beach/Princeton by the Sea/Skyline,27517,18,5.3,22,1250.8,1,1433,0.052,1,2,No,1/30/2020
+San Mateo,175.2,La Honda/Loma Mar/Pescadero/San Gregorio/Sky Londa,3946,0,0,0,,5,753,0.191,3,8,Yes,1/30/2020
+San Mateo,175.3,Pacifica/Rockaway Beach/San Pedro Terrace/Sharp Park/Vallemar,38910,2,1,2.8,13896.4,5,1918,0.049,0,5,Yes,1/30/2020
+San Mateo,176a,Brisbane/Burlingame Northeast/Colma/Daly City East/Millbrae East/San Bruno/South San Francisco,98105,85,16.9,97.7,1004.1,1,7374,0.075,1,2,No,1/30/2020
+San Mateo,176b,East Menlo Park/East Palo Alto/North Fair Oaks/Redwood City East,80843,88,20.8,103.6,780.3,0,11661,0.144,2,2,No,1/30/2020
+San Mateo,176c,Atherton/Lindenwood/Menlo Oaks/Menlo Park/Redwood City Central/Sharon Heights/West Menlo Park/Woodside/Woodside Hills,85411,120.5,23.9,138.4,617.1,0,6101,0.071,1,1,No,1/30/2020
+San Mateo,176d,Broadmoor Village/Daly City West/San Bruno Northwest/Serramonte/Westborough,127359,126,25.9,145.4,875.9,0,9942,0.078,1,1,No,1/30/2020
+San Mateo,176e,Burlingame Hills/Burlingame Southwest/Hillsborough/Hillsdale/Millbrae West/San Bruno Central/San Mateo West,101465,157.5,33.9,182.9,554.8,0,5168,0.051,1,1,No,1/30/2020
+San Mateo,176f,Foster City/Redwood Shores/San Mateo East,97273,82,19.3,96.4,1009.1,1,7322,0.075,1,2,No,1/30/2020
+San Mateo,176g,Belmont/Devonshire/Emerald Lake/Farm Hills/Palomar Park/San Carlos West/The Highlands,96435,75,18.9,89.2,1081.1,1,3309,0.034,0,1,No,1/30/2020
+Santa Barbara,177,Carpinteria/New Cuyama/Summerland/Toro Canyon,18866,4,1.3,5,3773.2,5,1394,0.074,1,6,Yes,1/30/2020
+Santa Barbara,178.1,Buellton/Los Olivos/Santa Ynez/Solvang,16673,20,2,21.5,775.5,0,1604,0.096,1,1,No,1/30/2020
+Santa Barbara,178.2,Los Alamos,7163,3,3,5.3,1351.5,1,736,0.103,2,3,No,1/30/2020
+Santa Barbara,179,Lompoc/Mission Hills/Vandenberg,56591,39.5,7.5,45.2,1252,1,9516,0.168,3,4,No,1/30/2020
+Santa Barbara,180.1,Orcutt/Santa Maria,139442,117.5,40,147.5,945.4,0,21976,0.158,3,3,No,1/30/2020
+Santa Barbara,180.2,Guadalupe,7581,1,2,2.5,3032.4,5,1223,0.161,3,8,Yes,1/30/2020
+Santa Barbara,181a,Goleta South/Isla Vista/Santa Barbara South,93617,50,27.7,70.8,1322.3,1,22107,0.236,4,5,Yes,1/30/2020
+Santa Barbara,181b,Goleta North/Mission Canyon/Montecito/Riviera/Santa Barbara North,84157,195,44.8,228.6,368.1,0,6937,0.082,1,1,No,1/30/2020
+Santa Clara,182,Gilroy/Morgan Hill/Rucker/San Martin,118322,72,21.2,87.9,1346.1,1,10876,0.092,1,2,No,1/30/2020
+Santa Clara,183a,Los Altos/Los Altos Hills/Palo Alto Central/Stanford,128262,886,246.3,1070.7,119.8,0,7213,0.056,1,1,No,1/30/2020
+Santa Clara,183b,Berryessa/East San Jose/Milpitas East,128652,104.5,26.4,124.3,1035,1,10700,0.083,1,2,No,1/30/2020
+Santa Clara,183c,Sunnyvale South,97454,71,18.9,85.2,1143.8,1,5720,0.059,1,2,No,1/30/2020
+Santa Clara,183d,Downtown San Jose,79372,53,10.9,61.2,1296.9,1,16577,0.209,4,5,Yes,1/30/2020
+Santa Clara,183e,Alum Rock South/San Jose East,132813,37,26.2,56.6,2346.5,3,19732,0.149,2,5,Yes,1/30/2020
+Santa Clara,183f,Cupertino/Rancho Rinconada/San Jose West/Saratoga,115019,256,41.4,287.1,400.6,0,5315,0.046,0,0,No,1/30/2020
+Santa Clara,183g,Cambrian Village East/San Jose South Central,120498,10,13.9,20.4,5906.8,5,7402,0.061,1,6,Yes,1/30/2020
+Santa Clara,183h,San Jose Southeast,138680,56,11.3,64.5,2150.1,3,16884,0.122,2,5,Yes,1/30/2020
+Santa Clara,183i,New Almaden/San Jose Southwest,110607,182,20.9,197.6,559.8,0,4867,0.044,0,0,No,1/30/2020
+Santa Clara,183j,San Jose Northwest,94493,378,56.2,420.1,224.9,0,12386,0.131,2,2,No,1/30/2020
+Santa Clara,183k,Evergreen/San Jose East Central,108913,22,6.6,27,4033.8,5,5820,0.053,1,6,Yes,1/30/2020
+Santa Clara,183l,Alviso/Palo Alto Bayshore/Santa Clara Northwest/Sunnyvale North,132285,173,51.3,211.5,625.5,0,13271,0.1,2,2,No,1/30/2020
+Santa Clara,183m,Cambrian Village West/Campbell South/Los Gatos/Monte Sereno/San Tomas,105129,263.5,43.3,295.9,355.3,0,5354,0.051,1,1,No,1/30/2020
+Santa Clara,183n,Santa Clara South and West,129190,78,12.9,87.7,1473.1,1,8900,0.069,1,2,No,1/30/2020
+Santa Clara,183o,Milpitas West/Santa Clara Northeast,141747,90.5,11.3,98.9,1433.2,1,11508,0.081,1,2,No,1/30/2020
+Santa Cruz,184,Freedom/Watsonville,55777,60,21.1,75.8,735.8,0,8662,0.155,3,3,No,1/30/2020
+Santa Cruz,185.1,Aptos/Capitola/Live Oak/Rio del Mar/Santa Cruz,115405,216,48.8,252.6,456.9,0,20944,0.181,3,3,No,1/30/2020
+Santa Cruz,185.2,Davenport,4354,0,1,0.8,5442.5,5,542,0.124,2,7,Yes,1/30/2020
+Santa Cruz,185.3,Ben Lomond/Felton/Scotts Valley,41624,34,10.3,41.7,998.2,0,3484,0.084,1,1,No,1/30/2020
+Santa Cruz,185.4,Boulder Creek,15932,5,2,6.5,2451.1,3,1389,0.087,1,4,No,1/30/2020
+Santa Cruz,185.5,Amesti/Corralitos/Day Valley/Interlaken/Pajaro Dunes,29212,4,0.7,4.5,6491.6,5,3584,0.123,2,7,Yes,1/30/2020
+Shasta,186,Anderson/Cottonwood/French Gulch/Happy Valley/Igo/Ono/Platina/Shasta,33369,6,9.6,13.2,2528,4,6708,0.201,4,8,Yes,1/30/2020
+Shasta,187,Castella/Lakehead/OGÇÖBrien,1451,0,0,0,,5,428,0.295,5,10,Yes,1/30/2020
+Shasta,188.1,Big Bend/Montgomery Creek/Oak Run/Round Mountain,4693,0.5,3.3,3,1564.3,2,844,0.18,3,5,Yes,1/30/2020
+Shasta,188.2,Manton/Millville/Shingletown/Viola,6195,0.5,1,1.3,4765.4,5,845,0.136,2,7,Yes,1/30/2020
+Shasta,189.1,Palo Cedro,4338,0,0.7,0.5,8676,5,383,0.088,1,6,Yes,1/30/2020
+Shasta,189.2,Redding,98006,60.5,81,121.3,808,0,17846,0.182,3,3,No,1/30/2020
+Shasta,189.3,Bella Vista/City of Shasta Lake,20318,4,1.3,5,4063.6,5,3268,0.161,3,8,Yes,1/30/2020
+Shasta,190,Burney/Cassel/Fall River Mills/Hat Creek/McArthur,7803,2,0.3,2.2,3546.8,5,1645,0.211,4,9,Yes,1/30/2020
+Sierra,191,Alleghany/Calpine/Downieville/Goodyear Bar/Sattley/Sierra City/Sierraville,2858,0,4,3,952.7,0,351,0.123,2,2,No,1/30/2020
+Siskiyou,193,Happy Camp,1780,0,0.3,0.2,8900,5,581,0.326,5,10,Yes,1/30/2020
+Siskiyou,194,Etna/Fort Jones/Greenview,5208,2,2.7,4,1302,1,965,0.185,3,4,No,1/30/2020
+Siskiyou,195,Gazelle/Grenada/Hilt/Hornbrook/Yreka,16045,13,11.3,21.5,746.3,0,3541,0.221,4,4,No,1/30/2020
+Siskiyou,196,Tulelake,1202,0,0,0,,5,378,0.314,5,10,Yes,1/30/2020
+Siskiyou,197,Carrick/Edgewood/Mount Shasta/Weed,13822,13,6,17.5,789.8,0,2430,0.176,3,3,No,1/30/2020
+Siskiyou,198,Dunsmuir,1934,0,0,0,,5,366,0.189,3,8,Yes,1/30/2020
+Siskiyou,199,McCloud/Tennant,1363,1.5,0.3,1.7,801.8,0,229,0.168,3,3,No,1/30/2020
+Siskiyou,200,Dorris/Macdoel/Mount Hebron,1753,0,0,0,,5,425,0.242,4,9,Yes,1/30/2020
+Solano,201,Dixon,22359,10,1.3,11,2032.6,3,2738,0.122,2,5,Yes,1/30/2020
+Solano,203.1,Benicia/Collinsville/Suisun City,35282,29,9.6,36.2,974.6,0,1865,0.053,1,1,No,1/30/2020
+Solano,203.2,Rio Vista,9942,0,1,0.8,12427.5,5,1181,0.119,2,7,Yes,1/30/2020
+Solano,204,Vallejo,145292,170.5,37.9,198.9,730.5,0,20678,0.142,2,2,No,1/30/2020
+Solano,202a,Vacaville,97949,121.5,23.3,138.9,705.2,0,8312,0.085,1,1,No,1/30/2020
+Solano,202b,Fairfield,113641,204,39.3,233.5,486.7,0,13849,0.122,2,2,No,1/30/2020
+Sonoma,205.1,Geyserville/Healdsburg,16092,17,10.6,25,643.7,0,1224,0.076,1,1,No,1/30/2020
+Sonoma,205.2,Windsor,29615,2,4.3,5.2,5695.2,5,1613,0.054,1,6,Yes,1/30/2020
+Sonoma,206,Cloverdale,13620,4,2,5.5,2476.4,3,1344,0.099,1,4,No,1/30/2020
+Sonoma,207,Forestville/Fort Ross/Guerneville/Jenner/Monte Rio/Occidental/Sea Ranch,25111,11,9.3,18,1395.1,1,3271,0.13,2,3,No,1/30/2020
+Sonoma,208,Boyes Hot Springs/Glen Ellen/Kenwood/Sonoma/Vineburg,41479,20,8.3,26.2,1583.2,2,4071,0.098,1,3,No,1/30/2020
+Sonoma,209.1,Petaluma,136851,62,42.9,94.2,1452.8,1,15477,0.113,2,3,No,1/30/2020
+Sonoma,209.2,Two Rock/Valley Ford,14768,3,2,4.5,3281.8,5,1358,0.092,1,6,Yes,1/30/2020
+Sonoma,210.1,Santa Rosa,196357,341,141.9,447.4,438.9,0,22354,0.114,2,2,No,1/30/2020
+Sonoma,210.2,Bodega/Sebastopol,20473,31,8,37,553.3,0,1995,0.097,1,1,No,1/30/2020
+Stanislaus,211,Oakdale/Riverbank,59668,16,15.3,27.4,2177.7,3,7253,0.122,2,5,Yes,1/30/2020
+Stanislaus,212.1,Denair/Turlock,76162,59.5,20.8,75.1,1014.1,1,12487,0.164,3,4,No,1/30/2020
+Stanislaus,212.2,Keyes,15774,0,0,0,,5,3100,0.197,3,8,Yes,1/30/2020
+Stanislaus,212.3,Salida,26803,0,0.3,0.2,134015,5,3836,0.143,2,7,Yes,1/30/2020
+Stanislaus,213,Crows Landing/Empire/Grayson/Newman/Patterson/Westley,40379,13.5,6.7,18.5,2182.6,3,6562,0.163,3,6,Yes,1/30/2020
+Stanislaus,214,Hughson,46895,11.5,6.6,16.5,2842.1,4,8916,0.19,3,7,Yes,1/30/2020
+Stanislaus,215a,Modesto West,81406,152.5,58.3,196.2,414.9,0,13791,0.169,3,3,No,1/30/2020
+Stanislaus,215b,Modesto East,90920,85.5,31.7,109.3,831.8,0,11813,0.13,2,2,No,1/30/2020
+Stanislaus,215c,Ceres/Modesto South Central,92065,41.5,21.6,57.7,1595.6,2,23452,0.255,5,7,Yes,1/30/2020
+Sutter,216,Meridian/Robbins/Yuba City,81557,81.5,34.7,107.5,758.7,0,13392,0.164,3,3,No,1/30/2020
+Sutter,217,Nicolaus/Pleasant Grove,2540,0,0,0,,5,252,0.099,1,6,Yes,1/30/2020
+Sutter,218,Live Oak,10349,0,1.3,1,10349,5,2161,0.209,4,9,Yes,1/30/2020
+Tehama,219,Paskenta/Rancho Tehama,4778,0,1,0.8,5972.5,5,1126,0.236,4,9,Yes,1/30/2020
+Tehama,220,Dairyville/Manton/Mineral/Paynes Creek,4358,0,0,0,,5,623,0.143,2,7,Yes,1/30/2020
+Tehama,221,Gerber/Los Flores/Proberta/Red Bluff,35103,16,15.5,27.6,1271.8,1,6907,0.197,3,4,No,1/30/2020
+Tehama,222,Corning/Los Molinos/Tehama/Vina,18088,2,5.3,6,3014.7,5,4353,0.241,4,9,Yes,1/30/2020
+Trinity,223,Junction City/Salyer,2097,0,0,0,,5,399,0.19,3,8,Yes,1/30/2020
+Trinity,224,Douglas City/Lewiston/Trinity Center/Weaverville,6830,3.5,4,6.5,1050.8,1,1221,0.179,3,4,No,1/30/2020
+Trinity,225,Forest Glen/Hayfork/Hyampom/Peanut,2982,0.5,1,1.3,2293.8,3,613,0.206,4,7,Yes,1/30/2020
+Trinity,226,Kettenpom/Mad River/Ruth/Xenia,902,1,1.7,2.2,410,0,312,0.346,5,5,Yes,1/30/2020
+Tulare,227.1,Dinuba,34692,15.2,10.6,23.1,1501.8,2,9685,0.279,5,7,Yes,1/30/2020
+Tulare,227.2,Cutler-Orosi,18216,3.2,5.9,7.6,2396.8,3,6782,0.372,5,8,Yes,1/30/2020
+Tulare,228.1,Ivanhoe/Woodlake,15665,2,3.6,4.7,3333,5,5361,0.342,5,10,Yes,1/30/2020
+Tulare,228.2,Exeter/Lemon Cove/Lindsay/Strathmore,42833,7,11.3,15.4,2781.4,4,12778,0.298,5,9,Yes,1/30/2020
+Tulare,229,Three Rivers,4811,0,0.7,0.5,9622,5,509,0.106,2,7,Yes,1/30/2020
+Tulare,230,Tipton/Tulare/Woodville,77706,29,22.5,45.9,1692.9,2,17708,0.228,4,6,Yes,1/30/2020
+Tulare,231,Alpaugh/Earlimart/Pixley/Porterville/Rich Grove/Terra Bella,102326,33,36.7,60.5,1691.3,2,35241,0.344,5,7,Yes,1/30/2020
+Tulare,232,Springville,5586,1,0.7,1.5,3724,5,1065,0.191,3,8,Yes,1/30/2020
+Tulare,233,Farmersville/Goshen/Visalia,151207,61,95,132.2,1143.8,1,33595,0.222,4,5,Yes,1/30/2020
+Tuolumne,234.1,Chinese Camp,2042,5,0,5,408.4,0,118,0.058,1,1,No,1/30/2020
+Tuolumne,234.2,Columbia/Jamestown/Sonora,19516,14.5,18.9,28.7,680,0,3660,0.188,3,3,No,1/30/2020
+Tuolumne,235,Big Oak Flat/Groveland,3085,1,0,1,3085,5,561,0.182,3,8,Yes,1/30/2020
+Tuolumne,236,East Sonora/Mi-Wuk Village/Soulsbyville/Tuolumne City/Twain Harte,25974,3,9.6,10.2,2546.5,4,2536,0.098,1,5,Yes,1/30/2020
+Ventura,237,Fillmore/Los Padres National Forest/Piru/Santa Paula/Saticoy,68291,34,23.2,51.4,1328.6,1,11462,0.168,3,4,No,1/30/2020
+Ventura,238,Meiners Oaks/Oak View/Ojai,31875,20,8,26,1226,1,3598,0.113,2,3,No,1/30/2020
+Ventura,239,Camarillo/Moorpark,107990,78,36.5,105.4,1024.6,1,7151,0.066,1,2,No,1/30/2020
+Ventura,240a,Simi Valley East,93391,54.5,14.9,65.7,1421.5,1,5616,0.06,1,2,No,1/30/2020
+Ventura,240b,Thousand Oaks Central and West,112570,148.5,38.4,177.3,634.9,0,6569,0.058,1,1,No,1/30/2020
+Ventura,240c,Simi Valley West/Thousand Oaks East,86823,46,4.6,49.5,1754,2,4623,0.053,1,3,No,1/30/2020
+Ventura,241a,Oxnard East/Oxnard West/Oxnard South Central/Port Hueneme,109820,25,6,29.5,3722.7,5,13018,0.119,2,7,Yes,1/30/2020
+Ventura,241b,Oxnard North Central,135724,126.5,28.8,148.1,916.4,0,24250,0.179,3,3,No,1/30/2020
+Ventura,241c,Ventura,90010,218,31.1,241.3,373,0,9529,0.106,2,2,No,1/30/2020
+Yolo,242,Winters,8954,6,1.3,7,1279.1,1,759,0.085,1,2,No,1/30/2020
+Yolo,243,Esparto/Rumsey,5808,0,0,0,,5,614,0.106,2,7,Yes,1/30/2020
+Yolo,244,Davis,68403,131,16.8,143.6,476.3,0,21053,0.308,5,5,Yes,1/30/2020
+Yolo,245,Bryte/Broderick/Clarksburg/Riverview/West Sacramento,56570,17,13.9,27.4,2064.6,3,9251,0.164,3,6,Yes,1/30/2020
+Yolo,246.1,Woodland,60630,61,35.3,87.5,692.9,0,7451,0.123,2,2,No,1/30/2020
+Yolo,246.2,Knights Landing,4250,0,0,0,,5,558,0.131,2,7,Yes,1/30/2020
+Yuba,247,Browns Valley/Brownsville/Dobbins/Oregon House,4365,0,2.3,1.7,2567.6,4,979,0.224,4,8,Yes,1/30/2020
+Yuba,248,Wheatland,4492,0,0,0,,5,439,0.098,1,6,Yes,1/30/2020
+Yuba,249,Marysville,64493,15.5,26.7,35.6,1811.6,2,12180,0.189,3,5,Yes,1/30/2020
