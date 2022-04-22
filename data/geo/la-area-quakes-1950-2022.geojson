@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": "ci40243288", "mag": 3.62, "place": "7km NE of Imperial, CA", "year": "2022", "date": "2022-04-21", "latitude": -115.512667, "longitude": 32.892167, "title": "M 3.6 - 7km NE of Imperial, CA" }, "geometry": { "type": "Point", "coordinates": [ -115.512667, 32.892167, 13.89 ] } },
 { "type": "Feature", "properties": { "id": "ci40242720", "mag": 3.27, "place": "7km SSE of Brawley, CA", "year": "2022", "date": "2022-04-20", "latitude": -115.513167, "longitude": 32.917, "title": "M 3.3 - 7km SSE of Brawley, CA" }, "geometry": { "type": "Point", "coordinates": [ -115.513167, 32.917, 11.34 ] } },
