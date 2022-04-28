@@ -3,7 +3,7 @@ name: fetch_biden_polls
 on:
   workflow_dispatch:
   schedule:
-    - cron: '00 13 * * *' # run at 6 pm Pacific everyday 
+    - cron: '00 01,13 * * *' # runs at 6 am and 6 pm Pacific everyday 
 
 jobs:
   build:
