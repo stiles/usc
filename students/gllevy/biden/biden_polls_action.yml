@@ -1,0 +1,41 @@
+name: fetch_biden_polls
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '00 01,13 * * *' # runs at 6 am and 6 pm Pacific everyday 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout repository content
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9' # install python version
+          
+      - name: install python packages
+        run: | # make sure we have requirements file
+          python -m pip install --upgrade pip
+          pip install -r XYXYXYXYXY
+
+      - name: execute py script 
+        run: | # add our scraper py file
+          python XYXYXYXYXYXYX 
+          
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update data" -a --allow-empty
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with: # might need to create a token https://github.com/settings/tokens
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
