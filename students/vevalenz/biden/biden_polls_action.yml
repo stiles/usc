@@ -37,5 +37,5 @@ jobs:
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with: # might need to create a token https://github.com/settings/tokens
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TOKEN }}
           branch: main
