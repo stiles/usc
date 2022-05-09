@@ -1,0 +1,59 @@
+year,state,car_accidents_count,county_name
+2021,CA,58149,Los Angeles
+2021,CA,14884,San Bernardino
+2021,CA,13296,San Diego
+2021,CA,13035,Orange 
+2021,CA,12563,Sacramento 
+2021,CA,10668,Riverside
+2021,CA,8359,Alameda
+2021,CA,6767,Kern
+2021,CA,5092,Santa Clara
+2021,CA,4918,Fresno 
+2021,CA,4346,San Joaquin         
+2021,CA,4006,Contra Costa     
+2021,CA,2851,Ventura      
+2021,CA,2846,Tulare  
+2021,CA,2804,Stanislaus
+2021,CA,2568,Monterey 
+2021,CA,2551,Sonoma 
+2021,CA,2374,Placer  
+2021,CA,2259,San Mateo  
+2021,CA,2226,Merced
+2021,CA,2092,Santa Barbara 
+2021,CA,1848,Santa Cruz
+2021,CA,1830,San Luis Obispo 
+2021,CA,1810,Solano 
+2021,CA,1727,El Dorado 
+2021,CA,1592,Madera 
+2021,CA,1369,San Francisco
+2021,CA,1296,Marin
+2021,CA,1272,Butte  
+2021,CA,1262,Nevada  
+2021,CA,1258,Humboldt  
+2021,CA,1256,Mendocino   
+2021,CA,1222,Shasta 
+2021,CA,1118,Yolo  
+2021,CA,892,Yuba  
+2021,CA,883,Napa 
+2021,CA,877,Siskiyou
+2021,CA,828,Kings  
+2021,CA,771,Lake 
+2021,CA,753,Tuolumne 
+2021,CA,696,Tehama
+2021,CA,584,Sutter
+2021,CA,572,Calaveras
+2021,CA,567,San Benito
+2021,CA,476,Lassen
+2021,CA,456,Del Norte
+2021,CA,410,Amador
+2021,CA,326,Mono
+2021,CA,321,Trinity
+2021,CA,320,Inyo
+2021,CA,317,Plumas  
+2021,CA,299,Colusa 
+2021,CA,252,Glenn
+2021,CA,238,Mariposa
+2021,CA,157,Modoc
+2021,CA,72,Sierra 
+2021,CA,70,Alpine 
+2021,CA,35,Imperial 
